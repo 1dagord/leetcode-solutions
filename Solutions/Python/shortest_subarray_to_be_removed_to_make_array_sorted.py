@@ -7,8 +7,8 @@
     - prefix/suffix sum
 
     Stats:
-        Runtime | 11 ms
-        Memory  | 30.3 MB
+        Runtime | 11 ms     [Beats 75.88%]
+        Memory  | 30.3 MB   [Beats 62.13%]
 """
 
 class Solution:
