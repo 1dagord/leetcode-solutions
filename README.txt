@@ -1,3 +1,3 @@
 Repository of my LeetCode Solutions
 
-All solutions were written by me, Devin Gordon
+All solutions were written by me
