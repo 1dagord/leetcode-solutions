@@ -42,7 +42,8 @@ class Solution:
             else:
                 dp[(ind, is_buying, trs)] = max(
                     recurse(ind+1, not is_buying, trs-1) + prices[ind], # sell at current price
-                    recurse(ind+1, is_buying, trs))                     # or continue
+                    recurse(ind+1, is_buying, trs)                      # or continue
+                )
 
 
             return dp[(ind, is_buying, trs)]
