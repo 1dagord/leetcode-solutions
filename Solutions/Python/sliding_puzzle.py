@@ -14,10 +14,12 @@
 class Solution:
     def slidingPuzzle(self, board: List[List[int]]) -> int:
         """
+            Graph Traversal Problem
+            
             Each board state is a node
             Every valid move is a child node (4 max)
 
-            Construct tree until solution node reached
+            Construct tree until solution node reached or impossible
         """
         soln = ((1, 2, 3),
                 (4, 5, 0))
