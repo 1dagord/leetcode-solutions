@@ -21,11 +21,14 @@
 
 class Codec:
 
-    def serialize(self, root):
-        """Encodes a tree to a single string.
-        
-        :type root: TreeNode
-        :rtype: str
+    def serialize(self, root: TreeNode) -> str:
+        """
+            Encodes a tree to a single string.
+            
+            :param root: root of the binary
+                         tree in question
+            :return: pre-order traversal of
+                     binary tree
         """
         pot = []    # pre-order traversal
 
@@ -42,11 +45,13 @@ class Codec:
         
         return str(pot)
 
-    def deserialize(self, data):
-        """Decodes your encoded data to tree.
-        
-        :type data: str
-        :rtype: TreeNode
+    def deserialize(self, data: str) -> TreeNode:
+        """
+            Decodes your encoded data to tree.
+            
+            :param data: string containing
+                         serialized binary tree
+            :return: reconstructed binary tree
         """
         data = deque(eval(data))
 
