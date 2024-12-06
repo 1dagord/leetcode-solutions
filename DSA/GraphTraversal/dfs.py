@@ -7,7 +7,7 @@ def matrix_recursive_dfs(curr: tuple[int, int], m: int, n: int) -> None:
 	"""
 		2D Matrix Recursive DFS
 
-		Explores all self-avoiding paths from (0, 0) to (m, n)
+		Traverses every direct path from (0, 0) to (m-1, n-1)
 
 		:param curr: coordinates of starting cell
 		:param m: number of rows in matrix
@@ -31,7 +31,7 @@ def matrix_iterative_dfs(curr: tuple[int, int], m: int, n: int) -> None:
 	"""
 		2D Matrix Iterative DFS
 
-		Explores all self-avoiding paths from (0, 0) to (m, n)
+		Traverses every direct path from (0, 0) to (m-1, n-1)
 
 		:param curr: coordinates of starting cell
 		:param m: number of rows in matrix
@@ -52,8 +52,7 @@ def binary_recursive_dfs(curr: TreeNode) -> None:
 	"""
 		Binary Tree Recursive DFS
 
-		Explores all paths from root to leaf
-		in increasing sorted order
+		Traverses every path from root to leaf
 
 		:param curr: current TreeNode object
 	"""
@@ -70,8 +69,7 @@ def binary_iterative_dfs(root: TreeNode) -> None:
 	"""
 		Binary Tree Iterative DFS
 
-		Explores all paths from root to leaf
-		in increasing sorted order
+		Traverses every path from root to leaf
 
 		:param root: TreeNode object corresponding
 					 to root of entire tree

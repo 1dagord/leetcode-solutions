@@ -7,6 +7,8 @@ TreeNode = ultraimport("__dir__/../DataStructures/binary_tree.py", "TreeNode")
 def matrix_iterative_bfs(curr: tuple[int, int], m: int, n: int) -> None:
 	"""
 		2D Matrix Iterative BFS
+		
+		Traverses every direct path from (0, 0) to (m-1, n-1)
 
 		:param curr: coordinates of starting cell
 		:param m: number of rows in matrix
@@ -36,6 +38,8 @@ def matrix_iterative_bfs(curr: tuple[int, int], m: int, n: int) -> None:
 def binary_iterative_bfs(node: TreeNode) -> None:
 	"""
 		Iterative BFS on binary tree
+
+		Traverses every path from root to leaf
 
 		:param node: node in binary tree
 	"""
