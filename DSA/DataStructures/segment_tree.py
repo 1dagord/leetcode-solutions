@@ -1,4 +1,4 @@
-class ArraySegTree():
+class ArraySegTree:
 	"""
 		Array Segment Tree
 
@@ -29,7 +29,7 @@ class ArraySegTree():
 			self.seg_tree[v] = self.seg_tree[v*2] + self.seg_tree[v*2+1]
 
 
-	def get_sum(self, v: int, tl: int, tr: int, l: int, r: int) -> int:
+	def getSum(self, v: int, tl: int, tr: int, l: int, r: int) -> int:
 		"""
 			Returns sum of node at index `v`
 
@@ -50,8 +50,8 @@ class ArraySegTree():
 		tm = (tl + tr) // 2
 
 		# add sum of subtrees recursively
-		return (self.get_sum(v*2, tl, tm, l, min(r, tm)) +
-				self.get_sum(v*2+1, tm+1, tr, max(l, tm+1), r))
+		return (self.getSum(v*2, tl, tm, l, min(r, tm)) +
+				self.getSum(v*2+1, tm+1, tr, max(l, tm+1), r))
 
 
 	def update(self, v: int, tl: int, tr: int, pos: int, new_val: int) -> None:
@@ -75,7 +75,7 @@ class ArraySegTree():
 			self.seg_tree[v] = self.seg_tree[v*2] + self.seg_tree[v*2+1]
 
 
-class DynamicSegTree():
+class DynamicSegTree:
 	"""
 		Dynamically Allocated Object-based Segment Tree
 
