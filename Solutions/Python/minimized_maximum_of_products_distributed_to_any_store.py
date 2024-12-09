@@ -33,7 +33,7 @@ class Solution:
         # use < bc searching for min element
         while l < r:
             # overflow protection
-            m = l + (r - l)// 2
+            m = l + (r - l) // 2
 
             if can_fit(m):
                 r = m
