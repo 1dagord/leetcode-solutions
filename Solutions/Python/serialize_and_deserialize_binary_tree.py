@@ -12,6 +12,8 @@
         Memory  | 33.18 MB  [Beats 5.41%]
 """
 
+from collections import deque
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
