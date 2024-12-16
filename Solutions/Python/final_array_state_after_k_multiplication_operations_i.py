@@ -3,7 +3,7 @@
     3264. Final Array State After K Multiplication Operations I
 
     Concepts:
-    - heap
+    - heap/priority queue
 
     Stats:
         Runtime | 4 ms      [Beats 26.45%]
