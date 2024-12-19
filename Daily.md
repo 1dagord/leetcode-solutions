@@ -26,6 +26,7 @@
 | 12/05/24 | [2337. Move Pieces to Obtain a String](Solutions/Python/move_pieces_to_obtain_a_string.py) |
 | 12/03/24 | [2109. Adding Spaces to a String](Solutions/Python/adding_spaces_to_a_string.py) |
 | 12/02/24 | [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Solutions/Python/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.py) |
+| 12/01/24 | [1346. Check If N and Its Double Exist](Solutions/Python/check_if_n_and_its_double_exist.py) |
 | 11/28/24 | [2290. Minimum Obstacle Removal to Reach Corner](Solutions/Python/minimum_obstacle_removal_to_reach_corner.py) |
 | 11/27/24 | [3243. Shortest Distance After Road Addition Queries I](Solutions/Python/shortest_distance_after_road_addition_queries_i.py) |
 | 11/26/24 | [2924. Find Champion II](Solutions/Python/find_champion_ii.py) |
