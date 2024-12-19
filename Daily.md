@@ -1,4 +1,4 @@
-# Links to Code for Daily Problems
+# Daily Problems
 
 | Date | Problem |
 |-----|-----|
@@ -13,3 +13,5 @@
 | 12/10/24 | [2981. Find Longest Special Substring That Occurs Thrice I](Solutions/Python/find_longest_special_substring_that_occurs_thrice_i.py) |
 | 12/09/24 | [3152. Special Array II](Solutions/Python/special_array_ii.py) |
 | 12/08/24 | [2054. Two Best Non-Overlapping Events](Solutions/Python/two_best_non_overlapping_events.py) |
+| 12/07/24 | [1760. Minimum Limit of Balls in a Bag](Solution/Python/minimum_limit_of_balls_in_a_bag.py) |
+| 12/06/24 | [2554. Maximum Number of Integers to Choose From a Range I](Solutions/Python/maximum_number_of_integers_to_choose_from_a_range_i.py) |
