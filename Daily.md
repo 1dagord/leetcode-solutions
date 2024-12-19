@@ -13,5 +13,30 @@
 | 12/10/24 | [2981. Find Longest Special Substring That Occurs Thrice I](Solutions/Python/find_longest_special_substring_that_occurs_thrice_i.py) |
 | 12/09/24 | [3152. Special Array II](Solutions/Python/special_array_ii.py) |
 | 12/08/24 | [2054. Two Best Non-Overlapping Events](Solutions/Python/two_best_non_overlapping_events.py) |
-| 12/07/24 | [1760. Minimum Limit of Balls in a Bag](Solution/Python/minimum_limit_of_balls_in_a_bag.py) |
+| 12/07/24 | [1760. Minimum Limit of Balls in a Bag](Solutions/Python/minimum_limit_of_balls_in_a_bag.py) |
 | 12/06/24 | [2554. Maximum Number of Integers to Choose From a Range I](Solutions/Python/maximum_number_of_integers_to_choose_from_a_range_i.py) |
+| 1_/__/24 | [2490. Circular Sentence](Solutions/Python/circular_sentence.py) |
+| 1_/__/24 | [2064. Minimized Maximum of Products Distributed to Any Store](Solutions/Python/minimized_maximum_of_products_distributed_to_any_store.py) |
+| 1_/__/24 | [1574. Shortest Subarray to be Removed to Make Array Sorted](Solutions/Python/shortest_subarray_to_be_removed_to_make_array_sorted.py) |
+| 1_/__/24 | [862. Shortest Subarray with Sum at Least K](Solutions/Python/shortest_subarray_with_sum_at_least_k.py) |
+| 1_/__/24 | [1652. Defuse the Bomb](Solutions/Python/defuse_the_bomb.py) |
+| 1_/__/24 | [2461. Maximum Sum of Distinct Subarrays With Length K](Solutions/Python/maximum_sum_of_distinct_subarrays_with_length_k.py) |
+| 1_/__/24 | [2516. Take K of Each Character From Left and Right](Solutions/Python/take_k_of_each_character_from_left_and_right.py) |
+| 1_/__/24 | [2257. Count Unguarded Cells in the Grid](Solutions/Python/count_unguarded_cells_in_the_grid.py) |
+| 1_/__/24 | [1861. Rotating the Box](Solutions/Python/rotating_the_box.py) |
+| 1_/__/24 | [1975. Maximum Matrix Sum](Solutions/Python/maximum_matrix_sum.py) |
+| 1_/__/24 | [773. Sliding Puzzle](Solutions/Python/sliding_puzzle.py) |
+| 1_/__/24 | [2924. Find Champion II](Solutions/Python/find_champion_ii.py) |
+| 1_/__/24 | [3243. Shortest Distance After Road Addition Queries I](Solutions/Python/shortest_distance_after_road_addition_queries_i.py) |
+| 1_/__/24 | [2290. Minimum Obstacle Removal to Reach Corner](Solutions/Python/minimum_obstacle_removal_to_reach_corner.py) |
+| 1_/__/24 | [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Solutions/Python/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.py) |
+| 1_/__/24 | [2109. Adding Spaces to a String](Solutions/Python/adding_spaces_to_a_string.py) |
+| 1_/__/24 | [2337. Move Pieces to Obtain a String](Solutions/Python/move_pieces_to_obtain_a_string.py) |
+| 1_/__/24 | [2554. Maximum Number of Integers to Choose From a Range I](Solutions/Python/maximum_number_of_integers_to_choose_from_a_range_i.py) |
+| 1_/__/24 | [3152. Special Array II](Solutions/Python/special_array_ii.py) |
+| 1_/__/24 | [2981. Find Longest Special Substring That Occurs Thrice I](Solutions/Python/find_longest_special_substring_that_occurs_thrice_i.py) |
+| 1_/__/24 | [2779. Maximum Beauty of an Array After Applying Operation](Solutions/Python/maximum_beauty_of_an_array_after_applying_operation.py) |
+| 1_/__/24 | [2558. Take Gifts From the Richest Pile](Solutions/Python/take_gifts_from_the_richest_pile.py) |
+| 1_/__/24 | [3264. Final Array State After K Multiplication Operations I](Solutions/Python/final_array_state_after_k_multiplication_operations_i.py) |
+| 1_/__/24 | [2182. Construct String With Repeat Limit](Solutions/Python/construct_string_with_repeat_limit.py) |
+| 1_/__/24 | [1475. Final Prices With a Special Discount in a Shop](Solutions/Python/final_prices_with_a_special_discount_in_a_shop.py) |
