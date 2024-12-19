@@ -23,6 +23,7 @@
 | 11/25/24 | [773. Sliding Puzzle](Solutions/Python/sliding_puzzle.py) |
 | 11/24/24 | [1975. Maximum Matrix Sum](Solutions/Python/maximum_matrix_sum.py) |
 | 11/23/24 | [1861. Rotating the Box](Solutions/Python/rotating_the_box.py) |
+| 11/22/24 | [1072. Flip Columns For Maximum Number of Equal Rows](Solutions/Python/flip_columns_for_maximum_number_of_equal_rows.py) |
 | 11/21/24 | [2257. Count Unguarded Cells in the Grid](Solutions/Python/count_unguarded_cells_in_the_grid.py) |
 | 11/20/24 | [2516. Take K of Each Character From Left and Right](Solutions/Python/take_k_of_each_character_from_left_and_right.py) |
 | 11/19/24 | [2461. Maximum Sum of Distinct Subarrays With Length K](Solutions/Python/maximum_sum_of_distinct_subarrays_with_length_k.py) |
