@@ -33,4 +33,5 @@
 | 11/15/24 | [1574. Shortest Subarray to be Removed to Make Array Sorted](Solutions/Python/shortest_subarray_to_be_removed_to_make_array_sorted.py) |
 | 11/14/24 | [2064. Minimized Maximum of Products Distributed to Any Store](Solutions/Python/minimized_maximum_of_products_distributed_to_any_store.py) |
 | 11/13/24 | [2563. Count the Number of Fair Pairs](Solutions/Python/count_the_number_of_fair_pairs.py) |
+| 11/12/24 | [2070. Most Beautiful Item for Each Query](Solution/Python/most_beautiful_item_for_each_query.py) |
 | 11/02/24 | [2490. Circular Sentence](Solutions/Python/circular_sentence.py) |
