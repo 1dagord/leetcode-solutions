@@ -29,6 +29,7 @@
 | 11/19/24 | [2461. Maximum Sum of Distinct Subarrays With Length K](Solutions/Python/maximum_sum_of_distinct_subarrays_with_length_k.py) |
 | 11/18/24 | [1652. Defuse the Bomb](Solutions/Python/defuse_the_bomb.py) |
 | 11/17/24 | [862. Shortest Subarray with Sum at Least K](Solutions/Python/shortest_subarray_with_sum_at_least_k.py) |
+| 11/16/24 | [3254. Find the Power of K-Size Subarrays I](Solutions/Python/find_the_power_of_k_size_subarrays_i.py) |
 | 11/15/24 | [1574. Shortest Subarray to be Removed to Make Array Sorted](Solutions/Python/shortest_subarray_to_be_removed_to_make_array_sorted.py) |
 | 11/14/24 | [2064. Minimized Maximum of Products Distributed to Any Store](Solutions/Python/minimized_maximum_of_products_distributed_to_any_store.py) |
 | 11/02/24 | [2490. Circular Sentence](Solutions/Python/circular_sentence.py) |
