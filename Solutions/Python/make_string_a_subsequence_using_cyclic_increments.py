@@ -30,4 +30,8 @@ class Solution:
             i1 += 1
 
         # true if all of str2 has been found within str1
+<<<<<<< HEAD
         return i2 == n2
+=======
+        return i2 == n2
+>>>>>>> e9b67840641c61281070c0d9aeb6850dd73d7e28

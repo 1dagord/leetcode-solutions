@@ -13,7 +13,7 @@
 | 12/07/24 | [1760. Minimum Limit of Balls in a Bag](Solutions/Python/minimum_limit_of_balls_in_a_bag.py) |
 | 12/06/24 | [2554. Maximum Number of Integers to Choose From a Range I](Solutions/Python/maximum_number_of_integers_to_choose_from_a_range_i.py) |
 | 12/05/24 | [2337. Move Pieces to Obtain a String](Solutions/Python/move_pieces_to_obtain_a_string.py) |
-| 12/04/24 | [2825. Make String a Subsequence Using Cyclic Increments]() |
+| 12/04/24 | [2825. Make String a Subsequence Using Cyclic Increments](Solutions/Python/make_string_a_subsequence_using_cyclic_increments.py) |
 | 12/03/24 | [2109. Adding Spaces to a String](Solutions/Python/adding_spaces_to_a_string.py) |
 | 12/02/24 | [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Solutions/Python/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.py) |
 | 12/01/24 | [1346. Check If N and Its Double Exist](Solutions/Python/check_if_n_and_its_double_exist.py) |
