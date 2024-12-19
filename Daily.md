@@ -5,12 +5,10 @@
 | 12/18/24 | [1475. Final Prices With a Special Discount in a Shop](Solutions/Python/final_prices_with_a_special_discount_in_a_shop.py) |
 | 12/17/24 | [2182. Construct String With Repeat Limit](Solutions/Python/construct_string_with_repeat_limit.py) |
 | 12/16/24 | [3264. Final Array State After K Multiplication Operations I](Solutions/Python/final_array_state_after_k_multiplication_operations_i.py) |
-| 12/15/24 | |
-| 12/14/24 | |
-| 12/13/24 | |
 | 12/12/24 | [2558. Take Gifts From the Richest Pile](Solutions/Python/take_gifts_from_the_richest_pile.py) |
 | 12/11/24 | [2779. Maximum Beauty of an Array After Applying Operation](Solutions/Python/maximum_beauty_of_an_array_after_applying_operation.py) |
 | 12/10/24 | [2981. Find Longest Special Substring That Occurs Thrice I](Solutions/Python/find_longest_special_substring_that_occurs_thrice_i.py) |
+| 12/09/24 | [3152. Special Array II](Solutions/Python/special_array_ii.py) |
 | 12/09/24 | [3152. Special Array II](Solutions/Python/special_array_ii.py) |
 | 12/08/24 | [2054. Two Best Non-Overlapping Events](Solutions/Python/two_best_non_overlapping_events.py) |
 | 12/07/24 | [1760. Minimum Limit of Balls in a Bag](Solutions/Python/minimum_limit_of_balls_in_a_bag.py) |
@@ -19,13 +17,6 @@
 | 12/03/24 | [2109. Adding Spaces to a String](Solutions/Python/adding_spaces_to_a_string.py) |
 | 12/02/24 | [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Solutions/Python/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.py) |
 | 12/01/24 | [1346. Check If N and Its Double Exist](Solutions/Python/check_if_n_and_its_double_exist.py) |
-| 12/18/24 | [1475. Final Prices With a Special Discount in a Shop](Solutions/Python/final_prices_with_a_special_discount_in_a_shop.py) |
-| 12/17/24 | [2182. Construct String With Repeat Limit](Solutions/Python/construct_string_with_repeat_limit.py) |
-| 12/16/24 | [3264. Final Array State After K Multiplication Operations I](Solutions/Python/final_array_state_after_k_multiplication_operations_i.py) |
-| 12/12/24 | [2558. Take Gifts From the Richest Pile](Solutions/Python/take_gifts_from_the_richest_pile.py) |
-| 12/11/24 | [2779. Maximum Beauty of an Array After Applying Operation](Solutions/Python/maximum_beauty_of_an_array_after_applying_operation.py) |
-| 12/10/24 | [2981. Find Longest Special Substring That Occurs Thrice I](Solutions/Python/find_longest_special_substring_that_occurs_thrice_i.py) |
-| 12/09/24 | [3152. Special Array II](Solutions/Python/special_array_ii.py) |
 | 11/28/24 | [2290. Minimum Obstacle Removal to Reach Corner](Solutions/Python/minimum_obstacle_removal_to_reach_corner.py) |
 | 11/27/24 | [3243. Shortest Distance After Road Addition Queries I](Solutions/Python/shortest_distance_after_road_addition_queries_i.py) |
 | 11/26/24 | [2924. Find Champion II](Solutions/Python/find_champion_ii.py) |
