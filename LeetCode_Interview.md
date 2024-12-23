@@ -52,7 +52,12 @@
       <td colspan="2" align="center"><b><i>Bit Manipulation</i></b></td>
     </tr>
     <tr>
+      <td>Python</td>
+      <td>C++</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/reverse_bits.py">190. Reverse Bits</a></td>
+      <td><a href="Solutions/Cpp/reverse_bits.cpp">190. Reverse Bits</a></td>
     </tr>
   </table>
 </html>
