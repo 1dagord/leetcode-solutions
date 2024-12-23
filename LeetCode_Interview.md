@@ -52,8 +52,8 @@
       <td colspan="2" align="center"><b><i>Bit Manipulation</i></b></td>
     </tr>
     <tr>
-      <td>Python</td>
-      <td>C++</td>
+      <td align="center">Python</td>
+      <td align="center">C++</td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/add_binary.py">67. Add Binary</a></td>
