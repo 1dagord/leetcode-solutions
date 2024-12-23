@@ -56,6 +56,9 @@
       <td>C++</td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/add_binary.py">67. Add Binary</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/reverse_bits.py">190. Reverse Bits</a></td>
       <td><a href="Solutions/Cpp/reverse_bits.cpp">190. Reverse Bits</a></td>
     </tr>
