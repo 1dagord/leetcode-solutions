@@ -25,7 +25,7 @@
       <td><a href="Solutions/Python/copy_list_with_random_pointer.py">138. Copy List with Random Pointer</a></td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/reverse_linked_list_ii">92. Reverse Linked List II</a></td>
+      <td><a href="Solutions/Python/reverse_linked_list_ii.py">92. Reverse Linked List II</a></td>
     </tr>
   </table>
 </html>
