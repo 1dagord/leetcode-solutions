@@ -16,4 +16,13 @@
       <td><a href="Solutions/Python/trapping_rain_water.py">42. Trapping Rain Water</a></td>
     </tr>
   </table>
+
+  <table>
+    <tr>
+      <td colspan="2" align="center"><b><i>Linked List</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/copy_list_with_random_pointer.py">138. Copy List with Random Pointer</a></td>
+    </tr>
+  </table>
 </html>
