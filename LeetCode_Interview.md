@@ -60,4 +60,13 @@
       <td><a href="Solutions/Cpp/reverse_bits.cpp">190. Reverse Bits</a></td>
     </tr>
   </table>
+
+  <table>
+    <tr>
+      <td colspan="2" align="center"><b><i>Math</i></b></td>
+    </tr>
+    <tr>
+     <td><a href="Solutions/Python/palindrome_number.py">9. Palindrome Number</a></td>
+    </tr>
+  </table>
 </html>
