@@ -37,4 +37,13 @@
       <td><a href="Solutions/Python/path_sum.py">112. Path Sum</a></td>
     </tr>
   </table>
+
+  <table>
+    <tr>
+      <td colspan="2" align="center"><b><i>Binary Search</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/search_in_rotated_sorted_array.py">33. Search in Rotated Sorted Array</a></td>
+    </tr>
+  </table>
 </html>
