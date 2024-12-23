@@ -72,4 +72,13 @@
      <td><a href="Solutions/Python/palindrome_number.py">9. Palindrome Number</a></td>
     </tr>
   </table>
+
+  <table>
+    <tr>
+      <td colspan="2" align="center"><b><i>Multidimensional DP</i></b></td>
+    </tr>
+    <tr>
+     <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock_iii.py">123. Best Time to Buy and Sell Stock III</a></td>
+    </tr>
+  </table>
 </html>
