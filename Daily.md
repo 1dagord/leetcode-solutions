@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 12/24/24 | [3203. Find Minimum Diameter After Merging Two Trees](Solutions/Python/find_minimum_diameter_after_merging_two_trees.py) |
 | 12/19/24 | [769. Max Chunks To Make Sorted](Solutions/Python/max_chunks_to_make_sorted.py) |
 | 12/18/24 | [1475. Final Prices With a Special Discount in a Shop](Solutions/Python/final_prices_with_a_special_discount_in_a_shop.py) |
 | 12/17/24 | [2182. Construct String With Repeat Limit](Solutions/Python/construct_string_with_repeat_limit.py) |
