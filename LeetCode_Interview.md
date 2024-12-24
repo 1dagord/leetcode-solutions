@@ -19,6 +19,15 @@
 
   <table>
     <tr>
+      <td colspan="2" align="center"><b><i>Hashmap</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/longest_consecutive_sequence.py">128. Longest Consecutive Sequence</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
       <td colspan="2" align="center"><b><i>Linked List</i></b></td>
     </tr>
     <tr>
