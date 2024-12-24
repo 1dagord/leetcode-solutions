@@ -83,6 +83,9 @@
     <tr>
      <td><a href="Solutions/Python/palindrome_number.py">9. Palindrome Number</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/plus_one.py">66. Plus One</td>
+    </tr>
   </table>
 
   <table>
