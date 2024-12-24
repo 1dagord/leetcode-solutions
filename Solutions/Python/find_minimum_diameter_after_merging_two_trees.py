@@ -27,8 +27,6 @@ class Solution:
                 tree[src].append(snk)
                 tree[snk].append(src)
 
-            size = len(edges)
-
             # find furthest node
             q = deque([0])
 
@@ -37,8 +35,9 @@ class Solution:
                 visited = set()
 
                 while q:
+                    len_q = len(q)
                     longest_path += 1
-                    for _ in range(len(q)):
+                    for _ in range(len_q):
                         curr = q.popleft()
                         visited.add(curr)
                         for node in tree[curr]:
