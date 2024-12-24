@@ -36,6 +36,9 @@
     <tr>
       <td><a href="Solutions/Python/reverse_linked_list_ii.py">92. Reverse Linked List II</a></td>
     </tr>
+    <tr>
+      <tr><a href="Solutions/Python/lru_cache.py">146. LRU Cache</tr>
+    </tr>
   </table>
 
   <table>
