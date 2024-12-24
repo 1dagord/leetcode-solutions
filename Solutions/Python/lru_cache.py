@@ -7,7 +7,7 @@
     - linked list
 
     Stats:
-        Runtime | 88 ms     [Beatd 97.31%]
+        Runtime | 88 ms     [Beats 97.31%]
         Memory  | 78.06 MB  [Beats 29.78%]
 """
 
