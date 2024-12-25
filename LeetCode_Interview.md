@@ -79,6 +79,10 @@
       <td><a href="Solutions/Python/reverse_bits.py">190. Reverse Bits</a></td>
       <td><a href="Solutions/Cpp/reverse_bits.cpp">190. Reverse Bits</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/number_of_1_bits.py">191. Number of 1 Bits</td>
+      <td><a href="Solutions/Cpp/number_of_1_bits.cpp">191. Number of 1 Bits</td>
+    </tr>
   </table>
 
   <table>
