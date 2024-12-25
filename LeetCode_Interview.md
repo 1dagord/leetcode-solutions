@@ -55,6 +55,15 @@
 
   <table>
     <tr>
+      <td colspan="2" align="center"><b><i>Graph General</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/number_of_islands.py">200. Number of Islands</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
       <td colspan="2" align="center"><b><i>Binary Search</i></b></td>
     </tr>
     <tr>
