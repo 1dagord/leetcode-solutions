@@ -48,6 +48,9 @@
     <tr>
       <td><a href="Solutions/Python/path_sum.py">112. Path Sum</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/count_complete_tree_nodes.py">222. Count Complete Tree Nodes</td>
+    </tr>
   </table>
 
   <table>
