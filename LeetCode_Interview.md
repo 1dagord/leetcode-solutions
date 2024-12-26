@@ -108,6 +108,15 @@
 
   <table>
     <tr>
+      <td colspan="2" align="center"><b><i>1D DP</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/house_robber.py">198. House Robber</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
       <td colspan="2" align="center"><b><i>Multidimensional DP</i></b></td>
     </tr>
     <tr>
