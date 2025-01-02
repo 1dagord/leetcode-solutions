@@ -15,6 +15,9 @@
     <tr>
       <td><a href="Solutions/Python/trapping_rain_water.py">42. Trapping Rain Water</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/text_justification.py">68. Text Justification</td>
+    </tr>
   </table>
 
   <table>
