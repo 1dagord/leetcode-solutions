@@ -17,7 +17,7 @@ class Solution:
         m = len(words)
 
         res = [0]*n
-        vowels = set(["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"])
+        vowels = set(["a", "e", "i", "o", "u"])
 
         pref = [0]*m
         pref[0] = int(words[0][0] in vowels and words[0][-1] in vowels)
