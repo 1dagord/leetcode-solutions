@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/2/25 | [2559. Count Vowel Strings in Ranges](Solutions/Python/count_vowel_strings_in_ranges.py) |
 | 1/1/25 | [1422. Maximum Score After Splitting a String](Solutions/Python/maximum_score_after_splitting_a_string.py) |
 | 12/26/24 | [494. Target Sum](Solutions/Python/target_sum.py) |
 | 12/25/24 | [515. Find Largest Value in Each Tree Row](Solutions/Python/find_largest_value_in_each_tree_row.py) |
