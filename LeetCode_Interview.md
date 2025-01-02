@@ -22,6 +22,9 @@
       <td colspan="2" align="center"><b><i>Hashmap</i></b></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/group_anagrams.py">49. Group Anagrams</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/longest_consecutive_sequence.py">128. Longest Consecutive Sequence</td>
     </tr>
   </table>
