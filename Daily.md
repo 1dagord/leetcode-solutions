@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/3/25 | [2270. Number of Ways to Split Array](Solutions/Python/number_of_ways_to_split_array.py) |
 | 1/2/25 | [2559. Count Vowel Strings in Ranges](Solutions/Python/count_vowel_strings_in_ranges.py) |
 | 1/1/25 | [1422. Maximum Score After Splitting a String](Solutions/Python/maximum_score_after_splitting_a_string.py) |
 | 12/26/24 | [494. Target Sum](Solutions/Python/target_sum.py) |
