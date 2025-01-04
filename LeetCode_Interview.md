@@ -82,6 +82,15 @@
 
   <table>
     <tr>
+      <td colspan="2" align="center"><b><i>Divide & Conquer</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/sort_list.py">148. Sort List</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
       <td colspan="2" align="center"><b><i>Binary Search</i></b></td>
     </tr>
     <tr>
