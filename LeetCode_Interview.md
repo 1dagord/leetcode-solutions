@@ -67,7 +67,7 @@
       <td colspan="2" align="center"><b><i>Binary Search Tree</i></b></td>
     </tr>
     <tr>
-      <td><a href="Solution/Python/kth_smallest_element_in_a_bst.py">230. Kth Smallest Element in a BST</td>
+      <td><a href="Solutions/Python/kth_smallest_element_in_a_bst.py">230. Kth Smallest Element in a BST</td>
     </tr>
   </table>
 
