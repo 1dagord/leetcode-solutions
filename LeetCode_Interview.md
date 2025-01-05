@@ -37,6 +37,15 @@
 
   <table>
     <tr>
+      <td colspan="2" align="center"><b><i>Intervals</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="">228. Summary Ranges</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
       <td colspan="2" align="center"><b><i>Linked List</i></b></td>
     </tr>
     <tr>
