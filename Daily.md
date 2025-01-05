@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/5/25 | [2381. Shifting Letters II](Solutions/Python/shifting_letters_ii.py) |
 | 1/4/25 | [1930. Unique Length-3 Palindromic Subsequences](Solutions/Python/unique_length_3_palindromic_subsequences.py) |
 | 1/3/25 | [2270. Number of Ways to Split Array](Solutions/Python/number_of_ways_to_split_array.py) |
 | 1/2/25 | [2559. Count Vowel Strings in Ranges](Solutions/Python/count_vowel_strings_in_ranges.py) |
