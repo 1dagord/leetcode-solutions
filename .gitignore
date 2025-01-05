@@ -155,5 +155,4 @@ dmypy.json
 cython_debug/
 
 # ----- Custom -----
-# data structures and algorithms
-# DSA/
+DSA/GraphTraversal/dijkstra_shortest_path.py
