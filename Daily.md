@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/6/25 | [1769. Minimum Number of Operations to Move All Balls to Each Box](Solutions/Python/minimum_number_of_operations_to_move_all_balls_to_each_box.py) |
 | 1/5/25 | [2381. Shifting Letters II](Solutions/Python/shifting_letters_ii.py) |
 | 1/4/25 | [1930. Unique Length-3 Palindromic Subsequences](Solutions/Python/unique_length_3_palindromic_subsequences.py) |
 | 1/3/25 | [2270. Number of Ways to Split Array](Solutions/Python/number_of_ways_to_split_array.py) |
