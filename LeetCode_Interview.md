@@ -167,6 +167,7 @@
     </tr>
     <tr>
       <td><a href="Solutions/Python/add_binary.py">67. Add Binary</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/reverse_bits.py">190. Reverse Bits</a></td>
