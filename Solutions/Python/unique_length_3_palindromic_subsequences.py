@@ -7,8 +7,8 @@
     - string
 
     Stats:
-        Runtime | 135 ms    [Beats 81.32%]
-        Memory  | 18.36 MB  [Beats 22.86%]
+        Runtime | 113 ms    [Beats 81.31%]
+        Memory  | 18.39 MB  [Beats 42.69%]
 """
 
 class Solution:
@@ -25,10 +25,7 @@ class Solution:
         count = 0
 
         def getVal(key: str):
-            try:
-                return n - s[::-1].index(key) - 1
-            except ValueError:
-                return -1
+            return n - s[::-1].find(key) - 1
 
         last_occurances = {
             (key := chr(ord("a") + i)) :
