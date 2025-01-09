@@ -2,6 +2,8 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/8/25 | [3042. Count Prefix and Suffix Pairs I](Solutions/Python/count_prefix_and_suffix_pairs_i.py) |
+| 1/7/25 | [1408. String Matching in an Array](Solutions/Python/string_matching_in_an_array.py) |
 | 1/6/25 | [1769. Minimum Number of Operations to Move All Balls to Each Box](Solutions/Python/minimum_number_of_operations_to_move_all_balls_to_each_box.py) |
 | 1/5/25 | [2381. Shifting Letters II](Solutions/Python/shifting_letters_ii.py) |
 | 1/4/25 | [1930. Unique Length-3 Palindromic Subsequences](Solutions/Python/unique_length_3_palindromic_subsequences.py) |
