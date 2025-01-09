@@ -13,10 +13,25 @@
       <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock_ii.py">122. Best Time to Buy and Sell Stock II</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/product_of_array_except_self.py">238. Product of Array Except Self</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/trapping_rain_water.py">42. Trapping Rain Water</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/find_the_index_of_the_first_occurrence_in_a_string.py">28. Find the Index of the First Occurrence in a String</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/text_justification.py">68. Text Justification</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td colspan="2" align="center"><b><i>Sliding Window</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/minimum_window_substring.py">76. Minimum Window Substring</td>
     </tr>
   </table>
 
@@ -46,6 +61,15 @@
 
   <table>
     <tr>
+      <td colspan="2" align="center"><b><i>Stack</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/min_stack.py">155. Min Stack</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
       <td colspan="2" align="center"><b><i>Linked List</i></b></td>
     </tr>
     <tr>
@@ -67,7 +91,22 @@
       <td><a href="Solutions/Python/path_sum.py">112. Path Sum</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/sum_root_to_leaf_numbers.py">129. Sum Root to Leaf Numbers</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/count_complete_tree_nodes.py">222. Count Complete Tree Nodes</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td colspan="2" align="center"><b><i>Binary Tree BFS</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/binary_tree_right_side_view.py">199. Binary Tree Right Side View</td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/binary_tree_zigzag_level_order_traversal.py">103. Binary Tree Zigzag Level Order Traversal</td>
     </tr>
   </table>
 
@@ -86,6 +125,15 @@
     </tr>
     <tr>
       <td><a href="Solutions/Python/number_of_islands.py">200. Number of Islands</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td colspan="2" align="center"><b><i>Backtracking</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/permutations.py">46. Permutations</td>
     </tr>
   </table>
 
@@ -127,6 +175,10 @@
     <tr>
       <td><a href="Solutions/Python/number_of_1_bits.py">191. Number of 1 Bits</td>
       <td><a href="Solutions/Cpp/number_of_1_bits.cpp">191. Number of 1 Bits</td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/single_number.py">136. Single Number</td>
+      <td></td>
     </tr>
   </table>
 
