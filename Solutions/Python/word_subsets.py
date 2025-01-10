@@ -11,7 +11,7 @@
         Memory  | 27.19 MB  [Beats 5.58%]
 """
 
-from collecitions import Counter, defaultdict
+from collections import Counter, defaultdict
 
 class Solution:
     def wordSubsets(self, words1: List[str], words2: List[str]) -> List[str]:
