@@ -155,6 +155,9 @@
       <td colspan="2" align="center"><b><i>Backtracking</i></b></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/letter_combinations_of_a_phone_number.py">17. Letter Combinations of a Phone Number</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/permutations.py">46. Permutations</td>
     </tr>
   </table>
