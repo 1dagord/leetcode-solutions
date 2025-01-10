@@ -37,6 +37,15 @@
 
   <table>
     <tr>
+      <td colspan="2" align="center"><b><i>Matrix</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/game_of_life.py">289. Game of Life</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
       <td colspan="2" align="center"><b><i>Hashmap</i></b></td>
     </tr>
     <tr>
