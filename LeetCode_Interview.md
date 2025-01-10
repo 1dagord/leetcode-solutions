@@ -167,6 +167,9 @@
       <td colspan="2" align="center"><b><i>Divide & Conquer</i></b></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/convert_sorted_array_to_binary_search_tree.py">108. Convert Sorted Array to Binary Search Tree</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/sort_list.py">148. Sort List</td>
     </tr>
   </table>
