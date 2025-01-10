@@ -97,13 +97,24 @@
       <td colspan="2" align="center"><b><i>Binary Tree General</i></b></td>
     </tr>
     <tr>
+      <td align="center">Python</td>
+      <td align="center">C++</td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/invert_binary_tree.py">226. Invert Binary Tree</td>
+      <td><a href="Solutions/Cpp/invert_binary_tree.cpp">226. Invert Binary Tree</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/path_sum.py">112. Path Sum</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/sum_root_to_leaf_numbers.py">129. Sum Root to Leaf Numbers</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/count_complete_tree_nodes.py">222. Count Complete Tree Nodes</td>
+      <td></td>
     </tr>
   </table>
 
