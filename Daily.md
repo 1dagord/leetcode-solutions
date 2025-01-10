@@ -2,6 +2,8 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/10/25 | [916. Word Subsets](Solutions/Python/word_subsets.py) |
+| 1/9/25 | [2185. Counting Words With a Given Prefix](Solutions/Python/counting_words_with_a_given_prefix.py) |
 | 1/8/25 | [3042. Count Prefix and Suffix Pairs I](Solutions/Python/count_prefix_and_suffix_pairs_i.py) |
 | 1/7/25 | [1408. String Matching in an Array](Solutions/Python/string_matching_in_an_array.py) |
 | 1/6/25 | [1769. Minimum Number of Operations to Move All Balls to Each Box](Solutions/Python/minimum_number_of_operations_to_move_all_balls_to_each_box.py) |
