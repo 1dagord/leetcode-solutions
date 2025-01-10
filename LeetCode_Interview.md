@@ -183,6 +183,9 @@
     <tr>
       <td><a href="Solutions/Python/search_in_rotated_sorted_array.py">33. Search in Rotated Sorted Array</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/find_minimum_in_rotated_sorted_array.py">153. Find Minimum in Rotated Sorted Array</td>
+    </tr>
   </table>
 
   <table>
