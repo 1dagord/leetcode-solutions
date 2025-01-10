@@ -126,6 +126,9 @@
     <tr>
       <td><a href="Solutions/Python/kth_smallest_element_in_a_bst.py">230. Kth Smallest Element in a BST</td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/validate_binary_search_tree.py">98. Validate Binary Search Tree</td>
+    </tr>
   </table>
 
   <table>
