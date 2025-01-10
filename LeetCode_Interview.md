@@ -124,10 +124,20 @@
       <td colspan="2" align="center"><b><i>Binary Search Tree</i></b></td>
     </tr>
     <tr>
+      <td align="center">Python</td>
+      <td align="center">C++</td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/minimum_absolute_difference_in_bst.py">530. Minimum Absolute Difference in BST</td>
+      <td><a href="Solutions/Cpp/minimum_absolute_difference_in_bst.cpp">530. Minimum Absolute Difference in BST</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/kth_smallest_element_in_a_bst.py">230. Kth Smallest Element in a BST</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/validate_binary_search_tree.py">98. Validate Binary Search Tree</td>
+      <td></td>
     </tr>
   </table>
 
