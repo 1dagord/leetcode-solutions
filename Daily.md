@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/11/25 | [1400. Construct K Palindrome Strings](Solutions/Python/construct_k_palindrome_strings.py) |
 | 1/10/25 | [916. Word Subsets](Solutions/Python/word_subsets.py) |
 | 1/9/25 | [2185. Counting Words With a Given Prefix](Solutions/Python/counting_words_with_a_given_prefix.py) |
 | 1/8/25 | [3042. Count Prefix and Suffix Pairs I](Solutions/Python/count_prefix_and_suffix_pairs_i.py) |
