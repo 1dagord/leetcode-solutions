@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/12/25 | [2116. Check if a Parentheses String Can Be Valid](Solutions/Python/check_if_a_parentheses_string_can_be_valid.py) |
 | 1/11/25 | [1400. Construct K Palindrome Strings](Solutions/Python/construct_k_palindrome_strings.py) |
 | 1/10/25 | [916. Word Subsets](Solutions/Python/word_subsets.py) |
 | 1/9/25 | [2185. Counting Words With a Given Prefix](Solutions/Python/counting_words_with_a_given_prefix.py) |
