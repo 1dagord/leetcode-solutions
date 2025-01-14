@@ -49,6 +49,9 @@
       <td colspan="2" align="center"><b><i>Matrix</i></b></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/spiral_matrix.py">54. Spiral Matrix</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/game_of_life.py">289. Game of Life</a></td>
     </tr>
   </table>
