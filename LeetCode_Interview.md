@@ -7,31 +7,44 @@
       <td colspan="2" align="center"><b><i>Array/String</i></b></td>
     </tr>
     <tr>
+      <td align="center">Python</td>
+      <td align="center">C++</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/merge_sorted_array.py">88. Merge Sorted Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/remove_element.py">27. Remove Element</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/remove_duplicates_from_sorted_array.py">26. Remove Duplicates from Sorted Array</a></td>
+      <td><a href="Solutions/Cpp/remove_duplicates_from_sorted_array.cpp">26. Remove Duplicates from Sorted Array</a></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock.py">121. Best Time to Buy and Sell Stock</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock_ii.py">122. Best Time to Buy and Sell Stock II</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/product_of_array_except_self.py">238. Product of Array Except Self</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/trapping_rain_water.py">42. Trapping Rain Water</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/find_the_index_of_the_first_occurrence_in_a_string.py">28. Find the Index of the First Occurrence in a String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/text_justification.py">68. Text Justification</a></td>
+      <td></td>
     </tr>
   </table>
 
