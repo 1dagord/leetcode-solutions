@@ -7,8 +7,8 @@
     - hash table
 
     Stats:
-        Runtime | 384 ms    [Beats 12.66%]
-        Memory  | 19.02 MB  [Beats 7.08%]
+        Runtime | 138 ms    [Beats 75.65%]
+        Memory  | 18.87 MB  [Beats 52.77%]
 """
 
 from collections import Counter
