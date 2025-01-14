@@ -11,6 +11,8 @@
         Memory  | 18.19 MB  [Beats 19.36%]
 """
 
+from collections import Counter
+
 class Solution:
     def canConstruct(self, s: str, k: int) -> bool:
         """
