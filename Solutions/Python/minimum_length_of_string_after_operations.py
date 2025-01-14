@@ -22,7 +22,7 @@ class Solution:
         counter = Counter(s)
 
         for k in counter:
-            while counter[k] >= 3:
-                counter[k] -= 2
+            if counter[k] >= 3:
+                counter[k] = 1 + int(counter[k] % 2 == 0)
 
         return sum([v for v in counter.values()])
