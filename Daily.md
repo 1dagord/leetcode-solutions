@@ -2,6 +2,8 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/14/25 | [2657. Find the Prefix Common Array of Two Arrays](Solutions/Python/find_the_prefix_common_array_of_two_arrays.py) |
+| 1/13/25 | [3223. Minimum Length of String After Operations](Solutions/Python/minimum_length_of_string_after_operations.py) |
 | 1/12/25 | [2116. Check if a Parentheses String Can Be Valid](Solutions/Python/check_if_a_parentheses_string_can_be_valid.py) |
 | 1/11/25 | [1400. Construct K Palindrome Strings](Solutions/Python/construct_k_palindrome_strings.py) |
 | 1/10/25 | [916. Word Subsets](Solutions/Python/word_subsets.py) |
