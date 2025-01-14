@@ -7,6 +7,9 @@
       <td colspan="2" align="center"><b><i>Array/String</i></b></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/merge_sorted_array.py">88. Merge Sorted Array</td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/remove_element.py">27. Remove Element</td>
     <tr>
       <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock.py">121. Best Time to Buy and Sell Stock</a></td>
