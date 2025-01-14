@@ -1,5 +1,5 @@
 """
-    [MEDIUM]
+    [EASY]
     88. Merge Sorted Array
 
     Concepts:
