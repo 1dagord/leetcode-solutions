@@ -203,6 +203,9 @@
       <td><a href="Solutions/Python/letter_combinations_of_a_phone_number.py">17. Letter Combinations of a Phone Number</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/combinations.py">77. Combinations</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/permutations.py">46. Permutations</a></td>
     </tr>
   </table>
