@@ -7,8 +7,8 @@
     - simulation
 
     Stats:
-        Runtime | 3 ms      [Beats 22.97%]
-        Memory  | 17.96 MB  [Beats 11.94%]
+        Runtime | 0 ms      [Beats 100%]
+        Memory  | 17.80 MB  [Beats 25.41%]
 """
 
 class Solution:
@@ -35,9 +35,8 @@ class Solution:
                 # get number of live neighbors
                 live_neighbors = 0
                 for di, dj in moves:
-                    ni, nj = i + di, j + dj
-                    if (0 <= ni < m and
-                        0 <= nj < n and
+                    if (0 <= (ni := i + di) < m and
+                        0 <= (nj := j + dj) < n and
                         board[ni][nj]):
                         live_neighbors += 1
 
@@ -55,5 +54,4 @@ class Solution:
 
         # update board
         for i in range(m):
-            for j in range(n):
-                board[i][j] = next_state[i][j]
+            board[i] = next_state[i]
