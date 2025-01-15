@@ -207,6 +207,9 @@
     <tr>
       <td><a href="Solutions/Python/number_of_islands.py">200. Number of Islands</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/clone_graph.py">133. Clone Graph</a></td>
+    </tr>
   </table>
 
   <table>
