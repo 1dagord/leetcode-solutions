@@ -39,6 +39,9 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/zigzag_conversion.py">6. Zigzag Conversion</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/find_the_index_of_the_first_occurrence_in_a_string.py">28. Find the Index of the First Occurrence in a String</a></td>
       <td></td>
     </tr>
