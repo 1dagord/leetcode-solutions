@@ -61,7 +61,16 @@
       <td colspan="2" align="center"><b><i>Sliding Window</i></b></td>
     </tr>
     <tr>
+      <td align="center">Python</td>
+      <td align="center">C++</td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/longest_substring_without_repeating_characters.py">3. Longest Substring Without Repeating Characters</a></td>
+      <td><a href="Solutions/Cpp/longest_substring_without_repeating_characters.cpp">3. Longest Substring Without Repeating Characters</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/minimum_window_substring.py">76. Minimum Window Substring</a></td>
+      <td></td>
     </tr>
   </table>
 
