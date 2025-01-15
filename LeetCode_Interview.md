@@ -39,6 +39,9 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/reverse_words_in_a_string.py">151. Reverse Words in a String</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/zigzag_conversion.py">6. Zigzag Conversion</a></td>
     </tr>
     <tr>
