@@ -13,17 +13,17 @@
 class Solution:
     def convert(self, s: str, num_rows: int) -> str:
         str_dirs = []
-        isMovingDown = True
+        is_moving_down = True
         k = 0
 
         for i, c in enumerate(s):
             str_dirs.append((c, k))
-            k += 1 if isMovingDown else -1
+            k += 1 if is_moving_down else -1
 
             if k == 0:
-                isMovingDown = True
+                is_moving_down = True
             elif k == num_rows - 1:
-                isMovingDown = False
+                is_moving_down = False
 
         str_dirs.sort(key=lambda x: x[1])
         return "".join([c for c, _ in str_dirs])
