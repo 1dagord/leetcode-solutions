@@ -251,6 +251,10 @@
       <td><a href="Solutions/Python/single_number.py">136. Single Number</a></td>
       <td></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/single_number_ii.py">137. Single Number II</a></td>
+      <td></td>
+    </tr>
   </table>
 
   <table>
