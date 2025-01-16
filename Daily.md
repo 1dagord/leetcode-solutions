@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/16/25 | [2425. Bitwise XOR of All Pairings](Solutions/Python/bitwise_xor_of_all_pairings.py) |
 | 1/15/25 | [2429. Minimize XOR](Solutions/Python/minimize_xor.py) |
 | 1/14/25 | [2657. Find the Prefix Common Array of Two Arrays](Solutions/Python/find_the_prefix_common_array_of_two_arrays.py) |
 | 1/13/25 | [3223. Minimum Length of String After Operations](Solutions/Python/minimum_length_of_string_after_operations.py) |
