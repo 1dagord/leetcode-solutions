@@ -161,6 +161,11 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/binary_search_tree_iterator.py
+">173. Binary Search Tree Iterator</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/count_complete_tree_nodes.py">222. Count Complete Tree Nodes</a></td>
       <td></td>
     </tr>
