@@ -16,8 +16,14 @@ class Solution:
         """
             Kadane's Algorithm
 
-            Begin constructing subarray until sum drops below
-            max_sum, then begin new subarray from current position
+            While iterating over array, each position
+            offers two choices:
+            
+            1) extend subarray by adding current value
+            2) begin new subarray at current value
+
+            If current sum ending at previous index < 0,
+            begin new subarray at current index
         """
         curr_sum, max_sum = 0, -float("inf")
 
