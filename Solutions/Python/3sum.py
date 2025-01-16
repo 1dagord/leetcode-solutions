@@ -7,7 +7,7 @@
     - sorting
 
     Stats:
-        Runtime | 522 ms    [Beats 77.51%]
+        Runtime | 487 ms    [Beats 80.76%]
         Memory  | 19.14 MB  [Beats 99.28%]
 """
 
