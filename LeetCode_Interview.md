@@ -58,6 +58,15 @@
 
   <table>
     <tr>
+      <td colspan="2" align="center"><b><i>Two Pointers</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/3sum.py">15. 3Sum</a></td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
       <td colspan="2" align="center"><b><i>Sliding Window</i></b></td>
     </tr>
     <tr>
