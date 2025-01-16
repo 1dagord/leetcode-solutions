@@ -342,6 +342,9 @@
       <td colspan="2" align="center"><b><i>Multidimensional DP</i></b></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/minimum_path_sum.py">64. Minimum Path Sum</a></td>
+    </tr>
+    <tr>
      <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock_iii.py">123. Best Time to Buy and Sell Stock III</a></td>
     </tr>
   </table>
