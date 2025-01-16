@@ -9,7 +9,7 @@
 
     Stats:
         Runtime | 0 ms      [Beats 100%]
-        Memory  | 17.96 MB  [Beats 36.70%]
+        Memory  | 17.82 MB  [Beats 47.36%]
 """
 
 # Definition for a binary tree node.
@@ -40,5 +40,3 @@ class Solution:
         for i in range(len(prot) - 1):
             prot[i].left = None
             prot[i].right = prot[i+1]
-
-        return prot[0] if prot else TreeNode()
