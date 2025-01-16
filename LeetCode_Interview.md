@@ -181,6 +181,10 @@
       <td><a href="Solutions/Python/count_complete_tree_nodes.py">222. Count Complete Tree Nodes</a></td>
       <td></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/lowest_common_ancestor_of_a_binary_tree.py">236. Lowest Common Ancestor of a Binary Tree</a></td>
+      <td></td>
+    </tr>
   </table>
 
   <table>
