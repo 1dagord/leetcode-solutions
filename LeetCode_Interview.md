@@ -246,6 +246,15 @@
 
   <table>
     <tr>
+      <td colspan="2" align="center"><b><i>Kadane's Algorithm</i></b></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/maximum_subarray.py">53. Maximum Subarray</a></td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
       <td colspan="2" align="center"><b><i>Binary Search</i></b></td>
     </tr>
     <tr>
