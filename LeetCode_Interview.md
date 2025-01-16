@@ -145,6 +145,9 @@
       <td><a href="Solutions/Python/remove_nth_node_from_end_of_list.py">19. Remove Nth Node From End of List</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/remove_duplicates_from_sorted_linked_list_ii.py">82. Remove Duplicates from Sorted List II</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/lru_cache.py">146. LRU Cache</a></td>
     </tr>
   </table>
