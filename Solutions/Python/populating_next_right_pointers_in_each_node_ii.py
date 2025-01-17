@@ -7,8 +7,8 @@
     - breadth-first search
 
     Stats:
-        Runtime | 53 ms     [Beats 10.12%]
-        Memory  | 18.92 MB  [Beats 18.71%]
+        Runtime | 35 ms     [Beats 96.16%]
+        Memory  | 18.98 MB  [Beats 18.71%]
 """
 
 """
@@ -30,20 +30,24 @@ class Solution:
             return None
 
         queue = deque([root])
+        level = []
 
         while queue:
             len_q = len(queue)
-            level = queue.copy()
+
+            if level:
+                for i in range(len_q - 1):
+                    level[i].next = level[i+1]
+                level.clear()
 
             for _ in range(len_q):
                 curr = queue.popleft()
 
                 if curr.left:
                     queue.append(curr.left)
+                    level.append(curr.left)
                 if curr.right:
                     queue.append(curr.right)
-
-            for i in range(len_q - 1):
-                level[i].next = level[i+1]
+                    level.append(curr.right)
 
         return root
