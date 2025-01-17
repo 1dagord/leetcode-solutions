@@ -23,7 +23,7 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        prot = []
+        prot = [] # pre-order traversal
 
         def dfs(curr: TreeNode):
             nonlocal prot
