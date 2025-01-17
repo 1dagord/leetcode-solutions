@@ -165,6 +165,10 @@
       <td><a href="Solutions/Cpp/invert_binary_tree.cpp">226. Invert Binary Tree</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/populating_next_right_pointers_in_each_node_ii.py">117. Populating Next Right Pointers in Each Node II</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/flatten_binary_tree_to_linked_list.py">114. Flatten Binary Tree to Linked List</a></td>
       <td></td>
     </tr>
