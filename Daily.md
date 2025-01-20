@@ -2,6 +2,8 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/20/25 | [2661. First Completely Painted Row or Column](Solutions/Python/first_completely_painted_row_or_column.py) |
+| 1/18/25 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](Solutions/Python/minimum_cost_to_make_at_least_one_valid_path_in_a_grid.py) |
 | 1/17/25 | [2683. Neighboring Bitwise XOR](Solutions/Python/neighboring_bitwise_xor.py) |
 | 1/16/25 | [2425. Bitwise XOR of All Pairings](Solutions/Python/bitwise_xor_of_all_pairings.py) |
 | 1/15/25 | [2429. Minimize XOR](Solutions/Python/minimize_xor.py) |
