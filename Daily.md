@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/21/25 | [2017. Grid Game](Solutions/Python/grid_game.py) |
 | 1/20/25 | [2661. First Completely Painted Row or Column](Solutions/Python/first_completely_painted_row_or_column.py) |
 | 1/18/25 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](Solutions/Python/minimum_cost_to_make_at_least_one_valid_path_in_a_grid.py) |
 | 1/17/25 | [2683. Neighboring Bitwise XOR](Solutions/Python/neighboring_bitwise_xor.py) |
