@@ -349,6 +349,9 @@
       <td><a href="Solutions/Python/minimum_path_sum.py">64. Minimum Path Sum</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/unique_paths_ii.py">63. Unique Paths II</a></td>
+    </tr>
+    <tr>
      <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock_iii.py">123. Best Time to Buy and Sell Stock III</a></td>
     </tr>
   </table>
