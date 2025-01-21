@@ -2,6 +2,9 @@
     [EASY]
     1757. Recyclable and Low Fat Products
 
+    Concepts:
+    - select
+
     Stats:
         Runtime | 1003 ms   [Beats 29.67%]
 */
