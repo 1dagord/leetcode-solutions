@@ -7,4 +7,7 @@
   <tr>
     <td><a href="Solutions/SQL/recyclable_and_low_fat_products.sql">1757. Recyclable and Low Fat Products</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/find_customer_referee.sql">584. Find Customer Referee</td>
+  </tr>
 </table>
