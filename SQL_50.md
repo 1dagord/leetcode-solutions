@@ -13,4 +13,7 @@
   <tr>
     <td><a href="Solutions/SQL/big_countries.sql">595. Big Countries</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/article_views_i.sql">1148. Article Views I</a></td>
+  </tr>
 </table>
