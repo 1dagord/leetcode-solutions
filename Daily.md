@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/22/25 | [1765. Map of Highest Peak](Solutions/Python/map_of_highest_peak.py) |
 | 1/21/25 | [2017. Grid Game](Solutions/Python/grid_game.py) |
 | 1/20/25 | [2661. First Completely Painted Row or Column](Solutions/Python/first_completely_painted_row_or_column.py) |
 | 1/18/25 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](Solutions/Python/minimum_cost_to_make_at_least_one_valid_path_in_a_grid.py) |
