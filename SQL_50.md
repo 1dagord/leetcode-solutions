@@ -20,3 +20,12 @@
     <td><a href="Solutions/SQL/invalid_tweets.sql">1683. Invalid Tweets</a></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td align="center"><b><i>Basic Joins</i></b></tr>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/replace_employee_id_with_the_unique_identifier.sql">1378. Replace Employee ID With The Unique Identifier</a></td>
+  </tr>
+</table>
