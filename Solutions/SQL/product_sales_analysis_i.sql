@@ -1,5 +1,5 @@
 /*
-    [MEDIUM]
+    [EASY]
     1068. Product Sales Analysis I
 
     Concepts:
