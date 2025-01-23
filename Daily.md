@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/23/25 | [1267. Count Servers that Communicate](Solutions/Python/count_servers_that_communicate.py) |
 | 1/22/25 | [1765. Map of Highest Peak](Solutions/Python/map_of_highest_peak.py) |
 | 1/21/25 | [2017. Grid Game](Solutions/Python/grid_game.py) |
 | 1/20/25 | [2661. First Completely Painted Row or Column](Solutions/Python/first_completely_painted_row_or_column.py) |
