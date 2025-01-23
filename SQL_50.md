@@ -28,4 +28,7 @@
   <tr>
     <td><a href="Solutions/SQL/replace_employee_id_with_the_unique_identifier.sql">1378. Replace Employee ID With The Unique Identifier</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/product_sales_analysis_i.sql">1068. Product Sales Analysis I</a></td>
+  </tr>
 </table>
