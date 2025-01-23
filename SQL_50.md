@@ -31,4 +31,7 @@
   <tr>
     <td><a href="Solutions/SQL/product_sales_analysis_i.sql">1068. Product Sales Analysis I</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/customer_who_visited_but_did_not_make_any_transactions.sql">1581. Customer Who Visited but Did Not Make Any Transactions</a></td>
+  </tr>
 </table>
