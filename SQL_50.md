@@ -34,4 +34,7 @@
   <tr>
     <td><a href="Solutions/SQL/customer_who_visited_but_did_not_make_any_transactions.sql">1581. Customer Who Visited but Did Not Make Any Transactions</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/rising_temperature.sql">197. Rising Temperature</a></td>
+  </tr>
 </table>
