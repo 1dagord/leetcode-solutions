@@ -16,4 +16,7 @@
   <tr>
     <td><a href="Solutions/SQL/article_views_i.sql">1148. Article Views I</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/invalid_tweets.sql">1683. Invalid Tweets</a></td>
+  </tr>
 </table>
