@@ -40,4 +40,7 @@
   <tr>
     <td><a href="Solutions/SQL/average_time_of_process_per_machine.sql">1661. Average Time of Process per Machine</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/employee_bonus.sql">577. Employee Bonus</a></td>
+  </tr>
 </table>
