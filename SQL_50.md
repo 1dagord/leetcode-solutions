@@ -43,4 +43,7 @@
   <tr>
     <td><a href="Solutions/SQL/employee_bonus.sql">577. Employee Bonus</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/students_and_examinations.sql">1280. Students and Examinations</a></td>
+  </tr>
 </table>
