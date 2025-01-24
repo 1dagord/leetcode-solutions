@@ -46,4 +46,7 @@
   <tr>
     <td><a href="Solutions/SQL/students_and_examinations.sql">1280. Students and Examinations</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/managers_with_at_least_5_direct_reports.sql">570. Managers with at Least 5 Direct Reports</a></td>
+  </tr>
 </table>
