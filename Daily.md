@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/24/25 | [802. Find Eventual Safe States](Solutions/Python/find_eventual_safe_states.py) |
 | 1/23/25 | [1267. Count Servers that Communicate](Solutions/Python/count_servers_that_communicate.py) |
 | 1/22/25 | [1765. Map of Highest Peak](Solutions/Python/map_of_highest_peak.py) |
 | 1/21/25 | [2017. Grid Game](Solutions/Python/grid_game.py) |
