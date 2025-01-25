@@ -75,6 +75,14 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/length_of_last_word.py">58. Length of Last Word</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/longest_common_prefix.py">14. Longest Common Prefix</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/reverse_words_in_a_string.py">151. Reverse Words in a String</a></td>
       <td></td>
     </tr>
