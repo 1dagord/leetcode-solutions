@@ -6,12 +6,12 @@
     - aggregate functions
 
     Stats:
-        Runtime | 1156 ms   [Beats 56.55%]
+        Runtime | 717 ms    [Beats 93.37%]
 */
 
 SELECT 
     p.product_id
-    , COALESCE(ROUND(SUM(price * units) / SUM(units), 2), 0)
+    , IFNULL(ROUND(SUM(price * units) / SUM(units), 2), 0)
         AS average_price
 FROM Prices p
 LEFT JOIN UnitsSold u
