@@ -51,6 +51,14 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/h_index.py">274. H-Index</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/insert_delete_getrandom_o_1.py">380. Insert Delete GetRandom O(1)</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/product_of_array_except_self.py">238. Product of Array Except Self</a></td>
       <td></td>
     </tr>
