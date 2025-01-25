@@ -75,6 +75,10 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/roman_to_integer.py">13. Roman to Integer</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/length_of_last_word.py">58. Length of Last Word</a></td>
       <td></td>
     </tr>
