@@ -67,6 +67,10 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/candy.py">135. Candy</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/trapping_rain_water.py">42. Trapping Rain Water</a></td>
       <td></td>
     </tr>
