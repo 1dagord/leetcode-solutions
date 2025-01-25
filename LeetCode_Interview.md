@@ -43,6 +43,14 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/jump_game.py">55. Jump Game</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/jump_game_ii.py">45. Jump Game II</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/product_of_array_except_self.py">238. Product of Array Except Self</a></td>
       <td></td>
     </tr>
