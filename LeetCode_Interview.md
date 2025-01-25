@@ -31,6 +31,10 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/rotate_array.py">189. Rotate Array</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock.py">121. Best Time to Buy and Sell Stock</a></td>
       <td></td>
     </tr>
