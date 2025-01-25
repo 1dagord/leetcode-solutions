@@ -56,6 +56,9 @@
 
 <table>
   <tr>
+    <td align="center"><b><i>Basic Aggregate Functions</i></b></tr>
+  </tr>
+  <tr>
     <td><a href="Solutions/SQL/not_boring_movies.sql">620. Not Boring Movies</a></td>
   </tr>
   <tr>
