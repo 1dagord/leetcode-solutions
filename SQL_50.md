@@ -53,3 +53,15 @@
     <td><a href="Solutions/SQL/confirmation_rate.sql">1934. Confirmation Rate</a></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td><a href="Solutions/SQL/not_boring_movies.sql">620. Not Boring Movies</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/average_selling_price.sql">1251. Average Selling Price</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/project_employees_i.sql">1075. Project Employees I</a></td>
+  </tr>
+</table>
