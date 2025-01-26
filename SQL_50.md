@@ -67,4 +67,10 @@
   <tr>
     <td><a href="Solutions/SQL/project_employees_i.sql">1075. Project Employees I</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/percentage_of_users_attended_a_contest.sql">1633. Percentage of Users Attended a Contest</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/query_quality_and_percentage.sql">1211. Queries Quality and Percentage</a></td>
+  </tr>
 </table>
