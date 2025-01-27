@@ -7,7 +7,7 @@
     - prefix sum
 
     Stats:
-        Runtime | 138 ms    [Beats 5.01%]
+        Runtime | 116 ms    [Beats 8.89%]
         Memory  | 37.94 MB  [Beats 5.01%]
 """
 
@@ -16,15 +16,15 @@ class Solution:
         n = len(nums)
         count = 0
 
-        pref = [num for num in nums]
-        suff = [num for num in nums]
+        pref = nums.copy()
+        suff = nums.copy()
 
         for i in range(1, n):
             pref[i] += pref[i-1]
             suff[n-i-1] += suff[n-i]
 
-        pref = [0] + pref
-        suff += [0]
+        pref.insert(0, 0)
+        suff.append(0)
 
         for i in range(1, n):
             if pref[i] >= suff[i]:
