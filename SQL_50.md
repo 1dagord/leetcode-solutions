@@ -73,4 +73,13 @@
   <tr>
     <td><a href="Solutions/SQL/query_quality_and_percentage.sql">1211. Queries Quality and Percentage</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/monthly_transactions_i.sql">1193. Monthly Transactions I</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/immediate_food_delivery_ii.sql">1174. Immediate Food Delivery II</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/game_play_analysis_iv.sql">550. Game Play Analysis IV</a></td>
+  </tr>
 </table>
