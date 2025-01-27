@@ -11,6 +11,8 @@
         Memory  | 55.79 MB  [Beats 99.98%]
 """
 
+from random import choice
+
 class RandomizedSet:
 
     def __init__(self):
@@ -34,7 +36,7 @@ class RandomizedSet:
             return False
 
     def getRandom(self) -> int:
-        return random.choice(self.list)
+        return choice(self.list)
 
 
 # Your RandomizedSet object will be instantiated and called as such:
