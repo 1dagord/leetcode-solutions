@@ -26,11 +26,8 @@ class Solution:
             2) count for chars in word <= count for chars in board
         """
         m, n = len(board), len(board[0])
-
-        if (m, n) == (1, 1):
-            return word == board[0][0]
-
-        def dfs(i: int, j: int, idx: int, substr: str, visited: set[tuple]) -> bool:
+        
+        def dfs(i: int, j: int, substr: str, idx: int, visited: set[tuple[int]]) -> str:
             output = ""
 
             if substr == word:
@@ -78,11 +75,10 @@ class Solution:
             if c not in board_counter or board_counter[c] < word_counter[c]:
                 return False
 
-        # run dfs
+        # search for first char in word, then run DFS
         for i in range(m):
             for j in range(n):
                 if board[i][j] == word[0]:
                     if dfs(i, j, word[0], 0, set()) == word:
                         return True
-
         return False
