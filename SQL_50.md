@@ -83,3 +83,18 @@
     <td><a href="Solutions/SQL/game_play_analysis_iv.sql">550. Game Play Analysis IV</a></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td align="center"><b><i>Sorting and Grouping</i></b></tr>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/number_of_unique_subjects_taught_by_each_teacher.sql">2356. Number of Unique Subjects Taught by Each Teacher</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/user_activity_for_the_past_30_days_i.sql">1141. User Activity for the Past 30 Days I</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/product_sales_analysis_iii.sql">1070. Product Sales Analysis III</a></td>
+  </tr>
+</table>
