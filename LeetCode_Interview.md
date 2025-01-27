@@ -305,6 +305,9 @@
     <tr>
       <td><a href="Solutions/Python/permutations.py">46. Permutations</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/word_search.py">79. Word Search</a></td>
+    </tr>
   </table>
 
   <table>
