@@ -373,6 +373,10 @@
       <td><a href="Solutions/Python/single_number_ii.py">137. Single Number II</a></td>
       <td></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/bitwise_and_of_numbers_range.py">201. Bitwise AND of Numbers Range</a></td>
+      <td></td>
+    </tr>
   </table>
 
   <table>
