@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 1/28/25 | [2658. Maximum Number of Fish in a Grid](Solutions/Python/maximum_number_of_fish_in_a_grid.py) |
 | 1/27/25 | [1462. Course Schedule IV](Solutions/Python/course_schedule_iv.py) |
 | 1/26/25 | [2127. Maximum Employees to Be Invited to a Meeting](Solutions/Python/maximum_employees_to_be_invited_to_a_meeting.py) |
 | 1/25/25 | [2948. Make Lexicographically Smallest Array by Swapping Elements](Solutions/Python/make_lexicographically_smallest_array_by_swapping_elements.py) |
