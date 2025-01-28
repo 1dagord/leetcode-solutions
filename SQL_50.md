@@ -97,4 +97,34 @@
   <tr>
     <td><a href="Solutions/SQL/product_sales_analysis_iii.sql">1070. Product Sales Analysis III</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/classes_more_than_5_students.sql">596. Classes More Than 5 Students</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/find_followers_count.sql">1729. Find Followers Count</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/biggest_single_number.sql">619. Biggest Single Number</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/customers_who_bought_all_products.sql">1045. Customers Who Bought All Products</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><b><i>Advanced Select and Joins</i></b></tr>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/the_number_of_employees_which_report_to_each_employee.sql">1731. The Number of Employees Which Report to Each Employee</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/primary_department_for_each_employee.sql">1789. Primary Department for Each Employee</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/triangle_judgement.sql">610. Triangle Judgement</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/consecutive_numbers.sql">180. Consecutive Numbers</a></td>
+  </tr>
 </table>
