@@ -1,15 +1,17 @@
+/*
+    [EASY]
+    1. Two Sum
+
+    Concepts:
+    - array
+    - hash table
+
+    Stats:
+        Runtime | 0 ms      [Beats 100%]
+        Memory  | 52.16 MB  [Beats 10.59%]
+*/
+
 /**
- * [EASY]
- * 1. Two Sum
- * 
- * Concepts:
- * - array
- * - hash table
- * 
- * Stats:
- *      Runtime | 0 ms      [Beats 100%]
- *      Memory  | 52.16 MB  [Beats 10.59%]
- * 
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
