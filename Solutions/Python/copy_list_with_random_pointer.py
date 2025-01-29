@@ -8,7 +8,7 @@
 
     Stats:
         Runtime | 36 ms     [Beats 70.78%]
-        Memory  | 17.41     [Beats 62.71%]
+        Memory  | 17.41 MB  [Beats 62.71%]
 """
 
 """
