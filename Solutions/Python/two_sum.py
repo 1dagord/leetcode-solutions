@@ -6,21 +6,21 @@
     - hash table
 
     Stats:
-        Runtime | 5 ms      [Beats 38.78%]
-        Memory  | 19.80 MB  [Beats 7.23%]
+        Runtime | 0 ms      [Beats 100%]
+        Memory  | 19.90 MB  [Beats 5.33%]
 """
 
 from collections import defaultdict
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        items = defaultdict(list)
+        seen = defaultdict(list)
 
         for i, num in enumerate(nums):
-            items[num].append(i)
-
-        for i, num in enumerate(nums):
-            if target - num in items:
-                for j in items[target - num]:
-                    if i != j:
-                        return [i, j]
+            seen[num].append(i)
+            
+            if target - num in seen and seen[target - num][0] != i:
+                if num == target - num:
+                    return seen[num]
+                else:
+                    return [seen[num][0], seen[target - num][0]]
