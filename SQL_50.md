@@ -1,9 +1,9 @@
 # SQL 50
 
 <table>
-  <tr>
-    <td align="center"><b><i>Select</i></b></tr>
-  </tr>
+  <th>
+    <b><i>Select</i></b>
+  </th>
   <tr>
     <td><a href="Solutions/SQL/recyclable_and_low_fat_products.sql">1757. Recyclable and Low Fat Products</a></td>
   </tr>
@@ -22,9 +22,9 @@
 </table>
 
 <table>
-  <tr>
-    <td align="center"><b><i>Basic Joins</i></b></tr>
-  </tr>
+  <th>
+    <b><i>Basic Joins</i></b>
+  </th>
   <tr>
     <td><a href="Solutions/SQL/replace_employee_id_with_the_unique_identifier.sql">1378. Replace Employee ID With The Unique Identifier</a></td>
   </tr>
@@ -55,9 +55,9 @@
 </table>
 
 <table>
-  <tr>
-    <td align="center"><b><i>Basic Aggregate Functions</i></b></tr>
-  </tr>
+  <th>
+    <b><i>Basic Aggregate Functions</i></b>
+  </th>
   <tr>
     <td><a href="Solutions/SQL/not_boring_movies.sql">620. Not Boring Movies</a></td>
   </tr>
@@ -85,9 +85,9 @@
 </table>
 
 <table>
-  <tr>
-    <td align="center"><b><i>Sorting and Grouping</i></b></tr>
-  </tr>
+  <th>
+    <b><i>Sorting and Grouping</i></b>
+  </th>
   <tr>
     <td><a href="Solutions/SQL/number_of_unique_subjects_taught_by_each_teacher.sql">2356. Number of Unique Subjects Taught by Each Teacher</a></td>
   </tr>
@@ -112,9 +112,9 @@
 </table>
 
 <table>
-  <tr>
-    <td align="center"><b><i>Advanced Select and Joins</i></b></tr>
-  </tr>
+  <th>
+    <b><i>Advanced Select and Joins</i></b>
+  </th>
   <tr>
     <td><a href="Solutions/SQL/the_number_of_employees_which_report_to_each_employee.sql">1731. The Number of Employees Which Report to Each Employee</a></td>
   </tr>
