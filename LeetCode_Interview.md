@@ -233,6 +233,10 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/binary_tree_maximum_path_sum.py">124. Binary Tree Maximum Path Sum</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/binary_search_tree_iterator.py">173. Binary Search Tree Iterator</a></td>
       <td></td>
     </tr>
