@@ -127,4 +127,13 @@
   <tr>
     <td><a href="Solutions/SQL/consecutive_numbers.sql">180. Consecutive Numbers</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/product_price_at_a_given_date.sql">1164. Product Price at a Given Date</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/last_person_to_fit_in_the_bus.sql">1204. Last Person to Fit in the Bus</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/count_salary_categories.sql">1907. Count Salary Categories</a></td>
+  </tr>
 </table>
