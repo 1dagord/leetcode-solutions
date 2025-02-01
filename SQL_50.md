@@ -137,3 +137,12 @@
     <td><a href="Solutions/SQL/count_salary_categories.sql">1907. Count Salary Categories</a></td>
   </tr>
 </table>
+
+<table>
+  <th>
+    <b><i>Subqueries</i></b>
+  </th>
+  <tr>
+    <td><a href="Solutions/SQL/employees_whose_manager_left_the_company.sql">1978. Employees Whose Manager Left the Company</a></td>
+  </tr>
+</table>
