@@ -2,6 +2,8 @@
 
 | Date | Problem |
 |-----|-----|
+| 2/1/25 | [3151. Special Array I](Solutions/Python/special_array_i.py) |
+| 1/31/25 | [827. Making A Large Island](Solutions/Python/making_a_large_island.py) |
 | 1/29/25 | [684. Redundant Connection](Solutions/Python/redundant_connection.py) |
 | 1/28/25 | [2658. Maximum Number of Fish in a Grid](Solutions/Python/maximum_number_of_fish_in_a_grid.py) |
 | 1/27/25 | [1462. Course Schedule IV](Solutions/Python/course_schedule_iv.py) |
