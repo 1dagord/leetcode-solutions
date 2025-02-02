@@ -7,8 +7,8 @@
     - hash table
 
     Stats:
-        Runtime | 5 ms      [Beats 52.38%]
-        Memory  | 51.30 MB  [Beats 90.78%]
+        Runtime | 0 ms      [Beats 100%]
+        Memory  | 51.29 MB  [Beats 90.78%]
 */
 
 /**
@@ -16,18 +16,13 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let half_length = ~~(nums.length / 2);
-    let counter = new Map();
+    // Moore's Voting Algorithm
+    let count = 0, candidate = 0;
 
-    for (const num of nums) {
-        if (counter.has(num)) {
-            counter.set(num, counter.get(num) + 1);
-        } else {
-            counter.set(num, 1);
-        }
-
-        if (counter.get(num) > half_length) {
-            return num;
-        }
+    for (let i = 0; i < nums.length; i++) {
+        if (!count) { candidate = nums[i]; }
+        if (nums[i] == candidate) { count++; }
+        else { count--; }
     }
+    return candidate;
 };
