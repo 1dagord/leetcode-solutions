@@ -3,7 +3,7 @@
 
 <html>
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Array/String</i></b>
     </th>
     <tr>
@@ -109,7 +109,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Two Pointers</i></b>
     </th>
     <tr>
@@ -118,7 +118,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Sliding Window</i></b>
     </th>
     <tr>
@@ -136,7 +136,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Matrix</i></b>
     </th>
     <tr>
@@ -151,7 +151,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Hashmap</i></b>
     </th>
     <tr>
@@ -166,7 +166,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Intervals</i></b>
     </th>
     <tr>
@@ -175,7 +175,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Stack</i></b>
     </th>
     <tr>
@@ -184,7 +184,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Linked List</i></b>
     </th>
     <tr>
@@ -205,7 +205,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Binary Tree General</i></b>
     </th>
     <tr>
@@ -251,7 +251,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Binary Tree BFS</i></b>
     </th>
     <tr>
@@ -263,7 +263,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Binary Search Tree</i></b>
     </th>
     <tr>
@@ -285,7 +285,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Graph General</i></b>
     </th>
     <tr>
@@ -297,7 +297,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Trie</i></b>
     </th>
     <tr>
@@ -306,7 +306,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Backtracking</i></b>
     </th>
     <tr>
@@ -327,7 +327,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Divide & Conquer</i></b>
     </th>
     <tr>
@@ -339,7 +339,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Kadane's Algorithm</i></b>
     </th>
     <tr>
@@ -348,7 +348,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Binary Search</i></b>
     </th>
     <tr>
@@ -362,7 +362,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Bit Manipulation</i></b>
     </th>
     <tr>
@@ -396,7 +396,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Math</i></b>
     </th>
     <tr>
@@ -408,7 +408,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>1D DP</i></b>
     </th>
     <tr>
@@ -417,7 +417,7 @@
   </table>
 
   <table>
-    <th>
+    <th colspan="2">
       <b><i>Multidimensional DP</i></b>
     </th>
     <tr>
