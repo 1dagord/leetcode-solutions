@@ -297,9 +297,18 @@
   </table>
 
   <table>
+    <th>
+      <b><i>Trie</i></b>
+    </th>
     <tr>
-      <td colspan="2" align="center"><b><i>Backtracking</i></b></td>
+      <td><a href="Solutions/Python/design_add_and_search_words_data_structure.py">211. Design Add and Search Words Data Structure</a></td>
     </tr>
+  </table>
+
+  <table>
+    <th>
+      <b><i>Backtracking</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/letter_combinations_of_a_phone_number.py">17. Letter Combinations of a Phone Number</a></td>
     </tr>
@@ -318,9 +327,9 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Divide & Conquer</i></b></td>
-    </tr>
+    <th>
+      <b><i>Divide & Conquer</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/convert_sorted_array_to_binary_search_tree.py">108. Convert Sorted Array to Binary Search Tree</a></td>
     </tr>
@@ -330,18 +339,18 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Kadane's Algorithm</i></b></td>
-    </tr>
+    <th>
+      <b><i>Kadane's Algorithm</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/maximum_subarray.py">53. Maximum Subarray</a></td>
     </tr>
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Binary Search</i></b></td>
-    </tr>
+    <th>
+      <b><i>Binary Search</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/search_a_2d_matrix.py">74. Search a 2D Matrix</a></td>
     <tr>
@@ -353,9 +362,9 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Bit Manipulation</i></b></td>
-    </tr>
+    <th>
+      <b><i>Bit Manipulation</i></b>
+    </th>
     <tr>
       <td align="center">Python</td>
       <td align="center">C++</td>
@@ -387,9 +396,9 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Math</i></b></td>
-    </tr>
+    <th>
+      <b><i>Math</i></b>
+    </th>
     <tr>
      <td><a href="Solutions/Python/palindrome_number.py">9. Palindrome Number</a></td>
     </tr>
@@ -399,18 +408,18 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>1D DP</i></b></td>
-    </tr>
+    <th>
+      <b><i>1D DP</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/house_robber.py">198. House Robber</a></td>
     </tr>
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Multidimensional DP</i></b></td>
-    </tr>
+    <th>
+      <b><i>Multidimensional DP</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/minimum_path_sum.py">64. Minimum Path Sum</a></td>
     </tr>
