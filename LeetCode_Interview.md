@@ -3,9 +3,9 @@
 
 <html>
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Array/String</i></b></td>
-    </tr>
+    <th>
+      <b><i>Array/String</i></b>
+    </th>
     <tr>
       <td align="center">Python</td>
       <td align="center">C++</td>
@@ -109,18 +109,18 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Two Pointers</i></b></td>
-    </tr>
+    <th>
+      <b><i>Two Pointers</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/3sum.py">15. 3Sum</a></td>
     </tr>
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Sliding Window</i></b></td>
-    </tr>
+    <th>
+      <b><i>Sliding Window</i></b>
+    </th>
     <tr>
       <td align="center">Python</td>
       <td align="center">C++</td>
@@ -136,9 +136,9 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Matrix</i></b></td>
-    </tr>
+    <th>
+      <b><i>Matrix</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/spiral_matrix.py">54. Spiral Matrix</a></td>
     </tr>
@@ -151,9 +151,9 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Hashmap</i></b></td>
-    </tr>
+    <th>
+      <b><i>Hashmap</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/group_anagrams.py">49. Group Anagrams</a></td>
     </tr>
@@ -166,27 +166,27 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Intervals</i></b></td>
-    </tr>
+    <th>
+      <b><i>Intervals</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/summary_ranges.py">228. Summary Ranges</a></td>
     </tr>
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Stack</i></b></td>
-    </tr>
+    <th>
+      <b><i>Stack</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/min_stack.py">155. Min Stack</a></td>
     </tr>
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Linked List</i></b></td>
-    </tr>
+    <th>
+      <b><i>Linked List</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/copy_list_with_random_pointer.py">138. Copy List with Random Pointer</a></td>
     </tr>
@@ -205,9 +205,9 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Binary Tree General</i></b></td>
-    </tr>
+    <th>
+      <b><i>Binary Tree General</i></b>
+    </th>
     <tr>
       <td align="center">Python</td>
       <td align="center">C++</td>
@@ -251,9 +251,9 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Binary Tree BFS</i></b></td>
-    </tr>
+    <th>
+      <b><i>Binary Tree BFS</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/binary_tree_right_side_view.py">199. Binary Tree Right Side View</a></td>
     </tr>
@@ -263,9 +263,9 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Binary Search Tree</i></b></td>
-    </tr>
+    <th>
+      <b><i>Binary Search Tree</i></b>
+    </th>
     <tr>
       <td align="center">Python</td>
       <td align="center">C++</td>
@@ -285,9 +285,9 @@
   </table>
 
   <table>
-    <tr>
-      <td colspan="2" align="center"><b><i>Graph General</i></b></td>
-    </tr>
+    <th>
+      <b><i>Graph General</i></b>
+    </th>
     <tr>
       <td><a href="Solutions/Python/number_of_islands.py">200. Number of Islands</a></td>
     </tr>
