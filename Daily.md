@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 2/3/25 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Solutions/Python/longest_strictly_increasing_or_strictly_decreasing_subarray.py) |
 | 2/2/25 | [1752. Check if Array Is Sorted and Rotated](Solutions/Python/check_if_array_is_sorted_and_rotated.py) |
 | 2/1/25 | [3151. Special Array I](Solutions/Python/special_array_i.py) |
 | 1/31/25 | [827. Making A Large Island](Solutions/Python/making_a_large_island.py) |
