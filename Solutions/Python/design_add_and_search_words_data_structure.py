@@ -8,7 +8,7 @@
     - depth-first search
 
     Stats:
-        Runtime | 806 ms   [Beats 93.92%]
+        Runtime | 806 ms    [Beats 93.92%]
         Memory  | 52.62 MB  [Beats 84.66%]
 """
 
