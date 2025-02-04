@@ -18,9 +18,8 @@ class Solution:
 
             Identify which half has min, then run Binary Search
         """
-        n = len(nums)
         l = 0
-        r = n - 1
+        r = len(nums) - 1
 
         while l <= r:
             m = (l + r) // 2
