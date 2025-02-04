@@ -420,6 +420,9 @@
     <tr>
       <td><a href="Solutions/Python/plus_one.py">66. Plus One</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/pow_x_n.py">50. Pow(x, n)</a></td>
+    </tr>
   </table>
 
   <table>
@@ -427,7 +430,13 @@
       <b><i>1D DP</i></b>
     </th>
     <tr>
+      <td><a href="Solutions/Python/climbing_stairs.py">70. Climbing Stairs</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/house_robber.py">198. House Robber</a></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/word_break.py">139. Word Break</a></td>
     </tr>
   </table>
 
