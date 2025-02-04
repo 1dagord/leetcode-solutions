@@ -438,6 +438,9 @@
     <tr>
       <td><a href="Solutions/Python/word_break.py">139. Word Break</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/coin_change.py">322. Coin Change</a></td>
+    </tr>
   </table>
 
   <table>
