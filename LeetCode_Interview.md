@@ -301,6 +301,9 @@
       <b><i>Trie</i></b>
     </th>
     <tr>
+      <td><a href="Solutions/Python/implement_trie_prefix_tree.py">208. Implement Trie (Prefix Tree)</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/design_add_and_search_words_data_structure.py">211. Design Add and Search Words Data Structure</a></td>
     </tr>
   </table>
