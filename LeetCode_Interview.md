@@ -361,6 +361,9 @@
       <b><i>Binary Search</i></b>
     </th>
     <tr>
+      <td><a href="Solutions/Python/search_insert_position.py">35. Search Insert Position</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/search_a_2d_matrix.py">74. Search a 2D Matrix</a></td>
     <tr>
       <td><a href="Solutions/Python/search_in_rotated_sorted_array.py">33. Search in Rotated Sorted Array</a></td>
