@@ -322,6 +322,9 @@
       <td><a href="Solutions/Python/combination_sum.py">39. Combination Sum</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/generate_parentheses.py">22. Generate Parentheses</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/word_search.py">79. Word Search</a></td>
     </tr>
   </table>
@@ -335,6 +338,9 @@
     </tr>
     <tr>
       <td><a href="Solutions/Python/sort_list.py">148. Sort List</a></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/construct_quad_tree.py">427. Construct Quad Tree</td>
     </tr>
   </table>
 
@@ -355,6 +361,9 @@
       <td><a href="Solutions/Python/search_a_2d_matrix.py">74. Search a 2D Matrix</a></td>
     <tr>
       <td><a href="Solutions/Python/search_in_rotated_sorted_array.py">33. Search in Rotated Sorted Array</a></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/find_first_and_last_position_of_element_in_sorted_array.py">34. Find First and Last Position of Element in Sorted Array</a></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/find_minimum_in_rotated_sorted_array.py">153. Find Minimum in Rotated Sorted Array</a></td>
