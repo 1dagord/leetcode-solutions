@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 2/5/25 | [1790. Check if One String Swap Can Make Strings Equal](Solutions/Python/check_if_one_string_swap_can_make_strings_equal.py) |
 | 2/4/25 | [1800. Maximum Ascending Subarray Sum](Solutions/Python/maximum_ascending_subarray_sum.py) |
 | 2/3/25 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Solutions/Python/longest_strictly_increasing_or_strictly_decreasing_subarray.py) |
 | 2/2/25 | [1752. Check if Array Is Sorted and Rotated](Solutions/Python/check_if_array_is_sorted_and_rotated.py) |
