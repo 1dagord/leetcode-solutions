@@ -354,6 +354,9 @@
     <tr>
       <td><a href="Solutions/Python/maximum_subarray.py">53. Maximum Subarray</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/maximum_sum_circular_subarray.py">918. Maximum Sum Circular Subarray</a></td>
+    </tr>
   </table>
 
   <table>
