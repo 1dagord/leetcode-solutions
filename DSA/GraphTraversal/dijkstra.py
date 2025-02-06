@@ -1,65 +1,37 @@
+"""
+	Dijkstra's Algorithm
+
+	https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+"""
+
+"""
+Example graph:
+graph = {
+	"A" : {"B" : 1, "C", 4},
+	"B" : {"A" : 1, "C" : 2, "D" : 5},
+	"C" : {"A" : 4, "B" : 2, "D" : 1},
+	"D" : {"B" : 5, "C" : 1}
+}
+"""
+
 from collections import heapq
-from typing import Tuple, Dict
 
-# https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+def dijkstra(graph: dict[str, dict], start: str) -> dict[str, int]:
+	distances = {node : float("inf") for node in graph}
+	distances[start] = 0
+	priority_queue = [(0, start)]
 
-"""
-class Graph():
-	def __init__():
-		pass
+	while priority_queue:
+		curr_dist, curr_node = heapq.heappop(priority_queue)
 
-class Vertex():
-	def __init__():
-		pass
+		if curr_dist > distances[curr_node]:
+			continue
 
-class Edge():
-	def __init__():
-		pass
-"""
+		for neighbor, weight in graph[curr_node].items():
+			new_dist = curr_dist + weight
 
-def dijkstra(G: Graph, source: Vertex) -> Tuple[Dict, Dict]:
-	pq = []
-	dist = {}
-	prev = {}
+			if distance < distances[neighbor]:
+				distances[neighbor] = new_dist
+				heapq.heappush(priority_queue, (new_dist, neighbor))
 
-	dist[source] = 0
-	heapq.heappush(pq, (0, source))
-
-	for v in G.vertices:
-		if v != source:
-			prev[v] = None
-			dist[v] = float("inf")
-
-			heapq.heappush((float("inf"), v))
-
-	while pq:
-		u = heapq.heappop(pq)
-
-		for v in u.neighbors:
-			alt = dist[u] + Graph.edges(u, v)
-			if alt < dist[v]:
-				prev[v] = u
-				dist[v] = alt
-
-				# decrease priority
-				
-
-	return dist, prev
-
-def uniform_cost_search(start):
-	node = start
-	frontier = [(0, node)]	# priority queue
-	expanded = set()
-
-	while frontier:
-		weight, curr = frontier.pop()
-		if curr == goal:
-			return # solution
-
-		expanded.add(curr)
-		for n in curr.neighbors:
-			if n not in expanded and n not in frontier:
-				heapq.heappush(frontier, (weight + 1, n))
-			elif n in frontier: # with higher cost
-				# replace existing node with n
-				pass
+	return distances
