@@ -423,6 +423,9 @@
     <tr>
       <td><a href="Solutions/Python/pow_x_n.py">50. Pow(x, n)</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/max_points_on_a_line.py">149. Max Points on a Line</a></td>
+    </tr>
   </table>
 
   <table>
@@ -440,6 +443,9 @@
     </tr>
     <tr>
       <td><a href="Solutions/Python/coin_change.py">322. Coin Change</a></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/longest_increasing_subsequence.py">300. Longest Increasing Subsequence</a></td>
     </tr>
   </table>
 
