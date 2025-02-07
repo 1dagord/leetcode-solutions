@@ -1,3 +1,20 @@
+"""
+	Merge Sort
+
+	Recursively splits lists until all
+	sublists have size 1, then sorts
+	and joins sublists
+
+
+	---== Time Complexity ==---
+		Best Case: O(n log(n))
+		Average: O(n log(n))
+		Worst Case: (n log(n))
+
+	---== Space Complexity ==---
+		Worst Case: O(n)
+"""
+
 import ultraimport
 
 ListNode = ultraimport("__dir__/../DataStructures/linked_list.py", "ListNode")
