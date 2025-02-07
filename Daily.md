@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 2/7/25 | [3160. Find the Number of Distinct Colors Among the Balls](Solutions/Python/find_the_number_of_distinct_colors_among_the_balls.py) |
 | 2/6/25 | [1726. Tuple with Same Product](Solutions/Python/tuple_with_same_product.py) |
 | 2/5/25 | [1790. Check if One String Swap Can Make Strings Equal](Solutions/Python/check_if_one_string_swap_can_make_strings_equal.py) |
 | 2/4/25 | [1800. Maximum Ascending Subarray Sum](Solutions/Python/maximum_ascending_subarray_sum.py) |
