@@ -4,7 +4,7 @@
 
     Concepts:
     - binary search tree
-    - divide & conquer
+    - divide and conquer
 
     Stats:
         Runtime | 3 ms      [Beats 73.42%]
