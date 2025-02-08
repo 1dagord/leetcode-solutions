@@ -50,3 +50,12 @@
     <td><a href="Solutions/JavaScript/memoize.js">2623. Memoize</a></td>
   </tr>
 </table>
+
+<table>
+  <th>
+    <b><i>Promises</i></b>
+  </th>
+  <tr>
+    <td><a href="Solutions/JavaScript/add_two_promises.js">2723. Add Two Promises</a></td>
+  </tr>
+</table>
