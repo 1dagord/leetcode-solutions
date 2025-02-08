@@ -15,6 +15,8 @@
  * @return {Function}
  */
 function memoize(fn) {
+    // cache stores arrays by reference
+    // convert to string to force cache hit
     const cache = new Map();
     return function(...args) {
         const key = JSON.stringify(args);
