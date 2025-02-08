@@ -4,7 +4,7 @@
 
     Concepts:
     - linked list
-    - merge sort
+    - sorting
 
     Stats:
         Runtime | 26 ms     [Beats 89.96%]
