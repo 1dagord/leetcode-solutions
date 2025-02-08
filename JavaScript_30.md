@@ -46,4 +46,7 @@
   <tr>
     <td><a href="Solutions/JavaScript/allow_one_function_call.js">2666. Allow One Function Call</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/memoize.js">2623. Memoize</a></td>
+  </tr>
 </table>
