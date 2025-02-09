@@ -58,4 +58,10 @@
   <tr>
     <td><a href="Solutions/JavaScript/add_two_promises.js">2723. Add Two Promises</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/sleep.js">2621. Sleep</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/timeout_cancellation.js">2715. Timeout Cancellation</a></td>
+  </tr>
 </table>
