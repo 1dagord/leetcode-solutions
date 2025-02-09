@@ -433,6 +433,9 @@
       <td><a href="Solutions/Python/plus_one.py">66. Plus One</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/sqrt_x.py">69. Sqrt(x)</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/pow_x_n.py">50. Pow(x, n)</a></td>
     </tr>
     <tr>
