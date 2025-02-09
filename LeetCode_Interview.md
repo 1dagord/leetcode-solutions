@@ -298,6 +298,15 @@
 
   <table>
     <th colspan="2">
+      <b><i>Graph BFS</i></b>
+    </th>
+    <tr>
+      <td><a href="Solutions/Python/minimum_genetic_mutation.py">433. Minimum Genetic Mutation</a></td>
+    </tr>
+  </table>
+  
+  <table>
+    <th colspan="2">
       <b><i>Trie</i></b>
     </th>
     <tr>
