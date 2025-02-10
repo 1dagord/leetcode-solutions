@@ -64,4 +64,7 @@
   <tr>
     <td><a href="Solutions/JavaScript/timeout_cancellation.js">2715. Timeout Cancellation</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/interval_cancellation.js">2725. Interval Cancellation</a></td>
+  </tr>
 </table>
