@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 2/9/25 | [3174. Clear Digits](Solutions/Python/clear_digits.py) |
 | 2/8/25 | [2349. Design a Number Container System](Solutions/Python/design_a_number_container_system.py) |
 | 2/7/25 | [3160. Find the Number of Distinct Colors Among the Balls](Solutions/Python/find_the_number_of_distinct_colors_among_the_balls.py) |
 | 2/6/25 | [1726. Tuple with Same Product](Solutions/Python/tuple_with_same_product.py) |
