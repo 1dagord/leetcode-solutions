@@ -13,7 +13,7 @@
 WITH RunningTotal AS (
     SELECT
         person_id
-        , SUM(weight) OVER (order by turn) AS run_total
+        , SUM(weight) OVER (ORDER BY turn) AS run_total
     FROM Queue
 )
 SELECT
