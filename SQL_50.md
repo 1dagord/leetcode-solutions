@@ -145,4 +145,7 @@
   <tr>
     <td><a href="Solutions/SQL/employees_whose_manager_left_the_company.sql">1978. Employees Whose Manager Left the Company</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/exchange_seats.sql">626. Exchange Seats</a></td>
+  </tr>
 </table>
