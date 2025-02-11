@@ -67,4 +67,19 @@
   <tr>
     <td><a href="Solutions/JavaScript/interval_cancellation.js">2725. Interval Cancellation</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/promise_time_limit.js">2637. Promise Time Limit</a></td>
+  </tr>
+</table>
+
+<table>
+  <th>
+    <b><i>Classes</i></b>
+  </th>
+  <tr>
+    <td><a href="Solutions/JavaScript/array_wrapper.js">2695. Array Wrapper</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/calculator_with_method_chaining.js">2726. Calculator with Method Chaining</a></td>
+  </tr>
 </table>
