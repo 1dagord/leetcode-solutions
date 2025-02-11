@@ -126,6 +126,10 @@
       <td align="center">C++</td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/minimum_size_subarray_sum.py">209. Minimum Size Subarray Sum</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/longest_substring_without_repeating_characters.py">3. Longest Substring Without Repeating Characters</a></td>
       <td><a href="Solutions/Cpp/longest_substring_without_repeating_characters.cpp">3. Longest Substring Without Repeating Characters</a></td>
     </tr>
