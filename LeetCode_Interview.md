@@ -315,6 +315,9 @@
     <tr>
       <td><a href="Solutions/Python/design_add_and_search_words_data_structure.py">211. Design Add and Search Words Data Structure</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/word_search_ii.py">212. Word Search II</a></td>
+    </tr>
   </table>
 
   <table>
