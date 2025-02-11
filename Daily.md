@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 2/10/25 | [1910. Remove All Occurrences of a Substring](Solutions/Python/remove_all_occurrences_of_a_substring.py) |
 | 2/9/25 | [3174. Clear Digits](Solutions/Python/clear_digits.py) |
 | 2/8/25 | [2349. Design a Number Container System](Solutions/Python/design_a_number_container_system.py) |
 | 2/7/25 | [3160. Find the Number of Distinct Colors Among the Balls](Solutions/Python/find_the_number_of_distinct_colors_among_the_balls.py) |
