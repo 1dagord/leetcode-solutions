@@ -408,6 +408,9 @@
       <b><i>Heap</i></b>
     </th>
     <tr>
+      <td><a href="Solutions/Python/kth_largest_element_in_an_array.py">215. Kth Largest Element in an Array</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/find_median_from_data_stream.py">295. Find Median from Data Stream</a></td>
     </tr>
   </table>
