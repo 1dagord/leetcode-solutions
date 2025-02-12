@@ -19,7 +19,7 @@
 #         self.right = right
 class Solution:
     def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
-        def construct(iot, pot):
+        def construct(iot, pot) -> TreeNode:
             if not iot or not pot:
                 return None
 
