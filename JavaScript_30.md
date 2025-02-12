@@ -74,6 +74,15 @@
 
 <table>
   <th>
+    <b><i>JSON</i></b>
+  </th>
+  <td>
+    <tr><a href="Solutions/JavaScript/is_object_empty.js">2727. Is Object Empty</a></tr>
+  </td>
+</table>
+
+<table>
+  <th>
     <b><i>Classes</i></b>
   </th>
   <tr>
