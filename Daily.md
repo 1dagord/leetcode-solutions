@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 2/11/25 | [2342. Max Sum of a Pair With Equal Sum of Digits](Solutions/Python/max_sum_of_a_pair_with_equal_sum_of_digits.py) |
 | 2/10/25 | [1910. Remove All Occurrences of a Substring](Solutions/Python/remove_all_occurrences_of_a_substring.py) |
 | 2/9/25 | [3174. Clear Digits](Solutions/Python/clear_digits.py) |
 | 2/8/25 | [2349. Design a Number Container System](Solutions/Python/design_a_number_container_system.py) |
