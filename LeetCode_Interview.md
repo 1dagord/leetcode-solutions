@@ -221,6 +221,14 @@
       <td><a href="Solutions/Cpp/invert_binary_tree.cpp">226. Invert Binary Tree</a></td>
     </tr>
     <tr>
+      <td><a href="Solutions/Python/construct_binary_tree_from_preorder_and_inorder_traversal.py">105. Construct Binary Tree from Preorder and Inorder Traversal</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/construct_binary_tree_from_inorder_and_postorder_traversal.py">106. Construct Binary Tree from Inorder and Postorder Traversal</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/populating_next_right_pointers_in_each_node_ii.py">117. Populating Next Right Pointers in Each Node II</a></td>
       <td></td>
     </tr>
@@ -392,6 +400,15 @@
     </tr>
     <tr>
       <td><a href="Solutions/Python/find_minimum_in_rotated_sorted_array.py">153. Find Minimum in Rotated Sorted Array</a></td>
+    </tr>
+  </table>
+
+  <table>
+    <th colspan="2">
+      <b><i>Heap</i></b>
+    </th>
+    <tr>
+      <td><a href="Solutions/Python/find_median_from_data_stream.py">295. Find Median from Data Stream</a></td>
     </tr>
   </table>
 
