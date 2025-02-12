@@ -7,8 +7,8 @@
     - depth-first search
 
     Stats:
-        Runtime | 1 ms      [Beats 9.28%]
-        Memory  | 17.77 MB  [Beats 16.97%]
+        Runtime | 0 ms      [Beats 100%]
+        Memory  | 17.85 MB  [Beats 33.79%]
 """
 
 # Definition for a binary tree node.
@@ -19,22 +19,20 @@
 #         self.right = right
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        nums = []
+        rtl_sum = 0
+        convert = lambda l: sum(v * (10 ** i) for i, v in enumerate(l[::-1]))
 
-        if not root:
-            return 0
-        
-        def dfs(curr: TreeNode, path: str):
-            nonlocal nums
-
-            if not curr.left and not curr.right:
-                nums.append(path)
+        def dfs(curr: TreeNode, path: list[int]):
+            nonlocal rtl_sum
 
             if curr.left:
-                dfs(curr.left, path + str(curr.left.val))
+                dfs(curr.left, path + [curr.left.val])
             if curr.right:
-                dfs(curr.right, path + str(curr.right.val))
+                dfs(curr.right, path + [curr.right.val])
 
+            if not curr.left and not curr.right:
+                rtl_sum += convert(path)
 
-        dfs(root, str(root.val))
-        return sum([int(num) for num in nums])
+        dfs(root, [root.val])
+
+        return rtl_sum
