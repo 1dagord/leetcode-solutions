@@ -332,6 +332,9 @@
     <tr>
       <td><a href="Solutions/Python/minimum_genetic_mutation.py">433. Minimum Genetic Mutation</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/word_ladder.py">127. Word Ladder</a></td>
+    </tr>
   </table>
   
   <table>
