@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 2/12/25 | [3066. Minimum Operations to Exceed Threshold Value II](Solutions/Python/minimum_operations_to_exceed_threshold_value_ii.py) |
 | 2/11/25 | [2342. Max Sum of a Pair With Equal Sum of Digits](Solutions/Python/max_sum_of_a_pair_with_equal_sum_of_digits.py) |
 | 2/10/25 | [1910. Remove All Occurrences of a Substring](Solutions/Python/remove_all_occurrences_of_a_substring.py) |
 | 2/9/25 | [3174. Clear Digits](Solutions/Python/clear_digits.py) |
