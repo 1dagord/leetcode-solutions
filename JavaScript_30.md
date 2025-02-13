@@ -70,6 +70,9 @@
   <tr>
     <td><a href="Solutions/JavaScript/promise_time_limit.js">2637. Promise Time Limit</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/cache_with_time_limit.js">2622. Cache With Time Limit</a></td>
+  </tr>
 </table>
 
 <table>
