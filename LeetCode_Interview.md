@@ -192,22 +192,36 @@
       <b><i>Linked List</i></b>
     </th>
     <tr>
+      <td align="center">Python</td>
+      <td align="center">C++</td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/linked_list_cycle.py">141. Linked List Cycle</a></td>
+      <td><a href="Solutions/Cpp/linked_list_cycle.cpp">141. Linked List Cycle</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/add_two_numbers.py">2. Add Two Numbers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/copy_list_with_random_pointer.py">138. Copy List with Random Pointer</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/reverse_linked_list_ii.py">92. Reverse Linked List II</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/remove_nth_node_from_end_of_list.py">19. Remove Nth Node From End of List</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/remove_duplicates_from_sorted_linked_list_ii.py">82. Remove Duplicates from Sorted List II</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="Solutions/Python/lru_cache.py">146. LRU Cache</a></td>
+      <td></td>
     </tr>
   </table>
 
