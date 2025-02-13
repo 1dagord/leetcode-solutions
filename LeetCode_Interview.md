@@ -113,7 +113,20 @@
       <b><i>Two Pointers</i></b>
     </th>
     <tr>
+      <td align="center">Python</td>
+      <td align="center">C++</td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/valid_palindrome.py">125. Valid Palindrome</a></td>
+      <td><a href="Solutions/Cpp/valid_palindrome.cpp">125. Valid Palindrome</a></td>
+    </tr>
+    <tr>
+      <td><a href="Solutions/Python/is_subsequence.py">392. Is Subsequence</a></td>
+      <td><a href="Solutions/Cpp/is_subsequence.cpp">392. Is Subsequence</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/3sum.py">15. 3Sum</a></td>
+      <td></td>
     </tr>
   </table>
 
