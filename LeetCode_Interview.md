@@ -192,6 +192,9 @@
       <b><i>Linked List</i></b>
     </th>
     <tr>
+      <td><a href="Solutions/Python/add_two_numbers.py">2. Add Two Numbers</a></td>
+    </tr>
+    <tr>
       <td><a href="Solutions/Python/copy_list_with_random_pointer.py">138. Copy List with Random Pointer</a></td>
     </tr>
     <tr>
