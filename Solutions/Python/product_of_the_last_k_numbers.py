@@ -31,7 +31,6 @@ class ProductOfNumbers:
 
     def getProduct(self, k: int) -> int:
         curr_prod, curr_zero_idx = self.stream[-1]
-        prev_prod, prev_zero_idx = self.stream[-k]
 
         if len(self.stream) - k > curr_zero_idx:
             return (curr_prod // self.stream[-k-1][0])
