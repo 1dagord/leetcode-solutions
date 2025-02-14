@@ -30,10 +30,10 @@ class ProductOfNumbers:
             self.stream.append((prod, len(self.stream)))
 
     def getProduct(self, k: int) -> int:
-        curr_prod, curr_zero_idx = self.stream[-1]
+        prod, zero_idx = self.stream[-1]
 
-        if len(self.stream) - k > curr_zero_idx:
-            return (curr_prod // self.stream[-k-1][0])
+        if len(self.stream) - k > zero_idx:
+            return (prod // self.stream[-k-1][0])
         return 0
 
 
