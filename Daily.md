@@ -2,48 +2,48 @@
 
 | Date | Problem |
 |-----|-----|
-| 2/13/25 | [1352. Product of the Last K Numbers](Solutions/Python/product_of_the_last_k_numbers.py) |
-| 2/12/25 | [3066. Minimum Operations to Exceed Threshold Value II](Solutions/Python/minimum_operations_to_exceed_threshold_value_ii.py) |
-| 2/11/25 | [2342. Max Sum of a Pair With Equal Sum of Digits](Solutions/Python/max_sum_of_a_pair_with_equal_sum_of_digits.py) |
-| 2/10/25 | [1910. Remove All Occurrences of a Substring](Solutions/Python/remove_all_occurrences_of_a_substring.py) |
-| 2/9/25 | [3174. Clear Digits](Solutions/Python/clear_digits.py) |
-| 2/8/25 | [2349. Design a Number Container System](Solutions/Python/design_a_number_container_system.py) |
-| 2/7/25 | [3160. Find the Number of Distinct Colors Among the Balls](Solutions/Python/find_the_number_of_distinct_colors_among_the_balls.py) |
-| 2/6/25 | [1726. Tuple with Same Product](Solutions/Python/tuple_with_same_product.py) |
-| 2/5/25 | [1790. Check if One String Swap Can Make Strings Equal](Solutions/Python/check_if_one_string_swap_can_make_strings_equal.py) |
-| 2/4/25 | [1800. Maximum Ascending Subarray Sum](Solutions/Python/maximum_ascending_subarray_sum.py) |
-| 2/3/25 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Solutions/Python/longest_strictly_increasing_or_strictly_decreasing_subarray.py) |
-| 2/2/25 | [1752. Check if Array Is Sorted and Rotated](Solutions/Python/check_if_array_is_sorted_and_rotated.py) |
-| 2/1/25 | [3151. Special Array I](Solutions/Python/special_array_i.py) |
-| 1/31/25 | [827. Making A Large Island](Solutions/Python/making_a_large_island.py) |
-| 1/29/25 | [684. Redundant Connection](Solutions/Python/redundant_connection.py) |
-| 1/28/25 | [2658. Maximum Number of Fish in a Grid](Solutions/Python/maximum_number_of_fish_in_a_grid.py) |
-| 1/27/25 | [1462. Course Schedule IV](Solutions/Python/course_schedule_iv.py) |
-| 1/26/25 | [2127. Maximum Employees to Be Invited to a Meeting](Solutions/Python/maximum_employees_to_be_invited_to_a_meeting.py) |
-| 1/25/25 | [2948. Make Lexicographically Smallest Array by Swapping Elements](Solutions/Python/make_lexicographically_smallest_array_by_swapping_elements.py) |
-| 1/24/25 | [802. Find Eventual Safe States](Solutions/Python/find_eventual_safe_states.py) |
-| 1/23/25 | [1267. Count Servers that Communicate](Solutions/Python/count_servers_that_communicate.py) |
-| 1/22/25 | [1765. Map of Highest Peak](Solutions/Python/map_of_highest_peak.py) |
-| 1/21/25 | [2017. Grid Game](Solutions/Python/grid_game.py) |
-| 1/20/25 | [2661. First Completely Painted Row or Column](Solutions/Python/first_completely_painted_row_or_column.py) |
-| 1/18/25 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](Solutions/Python/minimum_cost_to_make_at_least_one_valid_path_in_a_grid.py) |
-| 1/17/25 | [2683. Neighboring Bitwise XOR](Solutions/Python/neighboring_bitwise_xor.py) |
-| 1/16/25 | [2425. Bitwise XOR of All Pairings](Solutions/Python/bitwise_xor_of_all_pairings.py) |
-| 1/15/25 | [2429. Minimize XOR](Solutions/Python/minimize_xor.py) |
-| 1/14/25 | [2657. Find the Prefix Common Array of Two Arrays](Solutions/Python/find_the_prefix_common_array_of_two_arrays.py) |
-| 1/13/25 | [3223. Minimum Length of String After Operations](Solutions/Python/minimum_length_of_string_after_operations.py) |
-| 1/12/25 | [2116. Check if a Parentheses String Can Be Valid](Solutions/Python/check_if_a_parentheses_string_can_be_valid.py) |
-| 1/11/25 | [1400. Construct K Palindrome Strings](Solutions/Python/construct_k_palindrome_strings.py) |
-| 1/10/25 | [916. Word Subsets](Solutions/Python/word_subsets.py) |
-| 1/9/25 | [2185. Counting Words With a Given Prefix](Solutions/Python/counting_words_with_a_given_prefix.py) |
-| 1/8/25 | [3042. Count Prefix and Suffix Pairs I](Solutions/Python/count_prefix_and_suffix_pairs_i.py) |
-| 1/7/25 | [1408. String Matching in an Array](Solutions/Python/string_matching_in_an_array.py) |
-| 1/6/25 | [1769. Minimum Number of Operations to Move All Balls to Each Box](Solutions/Python/minimum_number_of_operations_to_move_all_balls_to_each_box.py) |
-| 1/5/25 | [2381. Shifting Letters II](Solutions/Python/shifting_letters_ii.py) |
-| 1/4/25 | [1930. Unique Length-3 Palindromic Subsequences](Solutions/Python/unique_length_3_palindromic_subsequences.py) |
-| 1/3/25 | [2270. Number of Ways to Split Array](Solutions/Python/number_of_ways_to_split_array.py) |
-| 1/2/25 | [2559. Count Vowel Strings in Ranges](Solutions/Python/count_vowel_strings_in_ranges.py) |
-| 1/1/25 | [1422. Maximum Score After Splitting a String](Solutions/Python/maximum_score_after_splitting_a_string.py) |
+| 02/13/25 | [1352. Product of the Last K Numbers](Solutions/Python/product_of_the_last_k_numbers.py) |
+| 02/12/25 | [3066. Minimum Operations to Exceed Threshold Value II](Solutions/Python/minimum_operations_to_exceed_threshold_value_ii.py) |
+| 02/11/25 | [2342. Max Sum of a Pair With Equal Sum of Digits](Solutions/Python/max_sum_of_a_pair_with_equal_sum_of_digits.py) |
+| 02/10/25 | [1910. Remove All Occurrences of a Substring](Solutions/Python/remove_all_occurrences_of_a_substring.py) |
+| 02/09/25 | [3174. Clear Digits](Solutions/Python/clear_digits.py) |
+| 02/08/25 | [2349. Design a Number Container System](Solutions/Python/design_a_number_container_system.py) |
+| 02/07/25 | [3160. Find the Number of Distinct Colors Among the Balls](Solutions/Python/find_the_number_of_distinct_colors_among_the_balls.py) |
+| 02/06/25 | [1726. Tuple with Same Product](Solutions/Python/tuple_with_same_product.py) |
+| 02/05/25 | [1790. Check if One String Swap Can Make Strings Equal](Solutions/Python/check_if_one_string_swap_can_make_strings_equal.py) |
+| 02/04/25 | [1800. Maximum Ascending Subarray Sum](Solutions/Python/maximum_ascending_subarray_sum.py) |
+| 02/03/25 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](Solutions/Python/longest_strictly_increasing_or_strictly_decreasing_subarray.py) |
+| 02/02/25 | [1752. Check if Array Is Sorted and Rotated](Solutions/Python/check_if_array_is_sorted_and_rotated.py) |
+| 02/01/25 | [3151. Special Array I](Solutions/Python/special_array_i.py) |
+| 01/31/25 | [827. Making A Large Island](Solutions/Python/making_a_large_island.py) |
+| 01/29/25 | [684. Redundant Connection](Solutions/Python/redundant_connection.py) |
+| 01/28/25 | [2658. Maximum Number of Fish in a Grid](Solutions/Python/maximum_number_of_fish_in_a_grid.py) |
+| 01/27/25 | [1462. Course Schedule IV](Solutions/Python/course_schedule_iv.py) |
+| 01/26/25 | [2127. Maximum Employees to Be Invited to a Meeting](Solutions/Python/maximum_employees_to_be_invited_to_a_meeting.py) |
+| 01/25/25 | [2948. Make Lexicographically Smallest Array by Swapping Elements](Solutions/Python/make_lexicographically_smallest_array_by_swapping_elements.py) |
+| 01/24/25 | [802. Find Eventual Safe States](Solutions/Python/find_eventual_safe_states.py) |
+| 01/23/25 | [1267. Count Servers that Communicate](Solutions/Python/count_servers_that_communicate.py) |
+| 01/22/25 | [1765. Map of Highest Peak](Solutions/Python/map_of_highest_peak.py) |
+| 01/21/25 | [2017. Grid Game](Solutions/Python/grid_game.py) |
+| 01/20/25 | [2661. First Completely Painted Row or Column](Solutions/Python/first_completely_painted_row_or_column.py) |
+| 01/18/25 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](Solutions/Python/minimum_cost_to_make_at_least_one_valid_path_in_a_grid.py) |
+| 01/17/25 | [2683. Neighboring Bitwise XOR](Solutions/Python/neighboring_bitwise_xor.py) |
+| 01/16/25 | [2425. Bitwise XOR of All Pairings](Solutions/Python/bitwise_xor_of_all_pairings.py) |
+| 01/15/25 | [2429. Minimize XOR](Solutions/Python/minimize_xor.py) |
+| 01/14/25 | [2657. Find the Prefix Common Array of Two Arrays](Solutions/Python/find_the_prefix_common_array_of_two_arrays.py) |
+| 01/13/25 | [3223. Minimum Length of String After Operations](Solutions/Python/minimum_length_of_string_after_operations.py) |
+| 01/12/25 | [2116. Check if a Parentheses String Can Be Valid](Solutions/Python/check_if_a_parentheses_string_can_be_valid.py) |
+| 01/11/25 | [1400. Construct K Palindrome Strings](Solutions/Python/construct_k_palindrome_strings.py) |
+| 01/10/25 | [916. Word Subsets](Solutions/Python/word_subsets.py) |
+| 01/09/25 | [2185. Counting Words With a Given Prefix](Solutions/Python/counting_words_with_a_given_prefix.py) |
+| 01/08/25 | [3042. Count Prefix and Suffix Pairs I](Solutions/Python/count_prefix_and_suffix_pairs_i.py) |
+| 01/07/25 | [1408. String Matching in an Array](Solutions/Python/string_matching_in_an_array.py) |
+| 01/06/25 | [1769. Minimum Number of Operations to Move All Balls to Each Box](Solutions/Python/minimum_number_of_operations_to_move_all_balls_to_each_box.py) |
+| 01/05/25 | [2381. Shifting Letters II](Solutions/Python/shifting_letters_ii.py) |
+| 01/04/25 | [1930. Unique Length-3 Palindromic Subsequences](Solutions/Python/unique_length_3_palindromic_subsequences.py) |
+| 01/03/25 | [2270. Number of Ways to Split Array](Solutions/Python/number_of_ways_to_split_array.py) |
+| 01/02/25 | [2559. Count Vowel Strings in Ranges](Solutions/Python/count_vowel_strings_in_ranges.py) |
+| 01/01/25 | [1422. Maximum Score After Splitting a String](Solutions/Python/maximum_score_after_splitting_a_string.py) |
 | 12/26/24 | [494. Target Sum](Solutions/Python/target_sum.py) |
 | 12/25/24 | [515. Find Largest Value in Each Tree Row](Solutions/Python/find_largest_value_in_each_tree_row.py) |
 | 12/24/24 | [3203. Find Minimum Diameter After Merging Two Trees](Solutions/Python/find_minimum_diameter_after_merging_two_trees.py) |
