@@ -19,3 +19,5 @@ var map = function(arr, fn) {
     arr.forEach((num, idx) => arr[idx] = fn(num, idx));
     return arr;
 };
+
+// imitates built-in `Array.map` function

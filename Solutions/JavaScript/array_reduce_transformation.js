@@ -23,3 +23,5 @@ var reduce = function(nums, fn, init) {
     }
     return res;
 };
+
+// imitates built-in `Array.reduce` function

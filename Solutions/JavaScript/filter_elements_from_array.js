@@ -22,3 +22,5 @@ var filter = function(arr, fn) {
     }
     return res;
 };
+
+// imitates built-in `Array.filter` function

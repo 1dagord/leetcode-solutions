@@ -22,3 +22,5 @@ var chunk = function(arr, size) {
     }
     return res;
 };
+
+// imitates Lodash's `_.chunk` function
