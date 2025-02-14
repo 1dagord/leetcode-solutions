@@ -82,6 +82,9 @@
   <tr>
     <td><a href="Solutions/JavaScript/is_object_empty.js">2727. Is Object Empty</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/chunk_array.js">2677. Chunk Array</a></td>
+  </tr>
 </table>
 
 <table>
