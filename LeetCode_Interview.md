@@ -182,20 +182,23 @@
       <b><i>Sliding Window</i></b>
     </th>
     <tr>
-      <td align="center">Python</td>
-      <td align="center">C++</td>
+      <td>209. Minimum Size Subarray Sum</td>
+      <td>
+        <a href="Solutions/Python/minimum_size_subarray_sum.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/minimum_size_subarray_sum.py">209. Minimum Size Subarray Sum</a></td>
-      <td></td>
+      <td>3. Longest Substring Without Repeating Characters</td>
+      <td>
+        <a href="Solutions/Python/longest_substring_without_repeating_characters.py">Python</a>
+         | <a href="Solutions/Cpp/longest_substring_without_repeating_characters.cpp">C++</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/longest_substring_without_repeating_characters.py">3. Longest Substring Without Repeating Characters</a></td>
-      <td><a href="Solutions/Cpp/longest_substring_without_repeating_characters.cpp">3. Longest Substring Without Repeating Characters</a></td>
-    </tr>
-    <tr>
-      <td><a href="Solutions/Python/minimum_window_substring.py">76. Minimum Window Substring</a></td>
-      <td></td>
+      <td>76. Minimum Window Substring</td>
+      <td>
+        <a href="Solutions/Python/minimum_window_substring.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -204,13 +207,22 @@
       <b><i>Matrix</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/spiral_matrix.py">54. Spiral Matrix</a></td>
+      <td>54. Spiral Matrix</td>
+      <td>
+        <a href="Solutions/Python/spiral_matrix.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/rotate_image.py">48. Rotate Image</a></td>
+      <td>48. Rotate Image</td>
+      <td>
+        <a href="Solutions/Python/rotate_image.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/game_of_life.py">289. Game of Life</a></td>
+      <td>289. Game of Life</td>
+      <td>
+        <a href="Solutions/Python/game_of_life.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -219,13 +231,22 @@
       <b><i>Hashmap</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/group_anagrams.py">49. Group Anagrams</a></td>
+      <td>49. Group Anagrams</td>
+      <td>
+        <a href="Solutions/Python/group_anagrams.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/two_sum.py">1. Two Sum</a></td>
+      <td>1. Two Sum</td>
+      <td>
+        <a href="Solutions/Python/two_sum.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/longest_consecutive_sequence.py">128. Longest Consecutive Sequence</a></td>
+      <td>128. Longest Consecutive Sequence</td>
+      <td>
+        <a href="Solutions/Python/longest_consecutive_sequence.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -234,10 +255,16 @@
       <b><i>Intervals</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/summary_ranges.py">228. Summary Ranges</a></td>
+      <td>228. Summary Ranges</td>
+      <td>
+        <a href="Solutions/Python/summary_ranges.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/merge_intervals.py">56. Merge Intervals</a></td>
+      <td>56. Merge Intervals</td>
+      <td>
+        <a href="Solutions/Python/merge_intervals.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -246,7 +273,10 @@
       <b><i>Stack</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/min_stack.py">155. Min Stack</a></td>
+      <td>155. Min Stack</td>
+      <td>
+        <a href="Solutions/Python/min_stack.py">Python</a>
+      </td>
     </tr>
   </table>
 
