@@ -434,6 +434,9 @@
     <tr>
       <td><a href="Solutions/Python/find_minimum_in_rotated_sorted_array.py">153. Find Minimum in Rotated Sorted Array</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/median_of_two_sorted_arrays.py">4. Median of Two Sorted Arrays</a></td>
+    </tr>
   </table>
 
   <table>
