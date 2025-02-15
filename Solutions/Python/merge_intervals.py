@@ -39,14 +39,14 @@ class Solution:
         rng = []
         for i in range(len(pref)):
             if pref[i] and not suff[i]:
-                # begin range
+                # begin interval
                 rng = [i]
             elif not pref[i] and suff[i]:
-                # end range
+                # end interval
                 res.append(rng + [i])
                 rng.clear()
             elif not pref[i] and not suff[i]:
-                # length-1 range
+                # length-1 interval
                 if i in singles:
                     res.append([i, i])
             
