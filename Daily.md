@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 02/14/25 | [2698. Find the Punishment Number of an Integer](Solutions/Python/find_the_punishment_number_of_an_integer.py) |
 | 02/13/25 | [1352. Product of the Last K Numbers](Solutions/Python/product_of_the_last_k_numbers.py) |
 | 02/12/25 | [3066. Minimum Operations to Exceed Threshold Value II](Solutions/Python/minimum_operations_to_exceed_threshold_value_ii.py) |
 | 02/11/25 | [2342. Max Sum of a Pair With Equal Sum of Digits](Solutions/Python/max_sum_of_a_pair_with_equal_sum_of_digits.py) |
