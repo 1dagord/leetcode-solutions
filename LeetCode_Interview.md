@@ -189,6 +189,9 @@
     <tr>
       <td><a href="Solutions/Python/summary_ranges.py">228. Summary Ranges</a></td>
     </tr>
+    <tr>
+      <td><a href="Solutions/Python/merge_intervals.py">56. Merge Intervals</a></td>
+    </tr>
   </table>
 
   <table>
