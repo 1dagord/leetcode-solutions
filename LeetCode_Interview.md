@@ -7,104 +7,149 @@
       <b><i>Array/String</i></b>
     </th>
     <tr>
-      <td align="center">Python</td>
-      <td align="center">C++</td>
+      <td>88. Merge Sorted Array</td>
+      <td>
+        <a href="Solutions/Python/merge_sorted_array.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/merge_sorted_array.py">88. Merge Sorted Array</a></td>
-      <td></td>
+      <td>27. Remove Element</td>
+      <td>
+        <a href="Solutions/Python/remove_element.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/remove_element.py">27. Remove Element</a></td>
-      <td></td>
+      <td>26. Remove Duplicates from Sorted Array</td>
+      <td>
+        <a href="Solutions/Python/remove_duplicates_from_sorted_array.py">Python</a>
+         | <a href="Solutions/Cpp/remove_duplicates_from_sorted_array.cpp">C++</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/remove_duplicates_from_sorted_array.py">26. Remove Duplicates from Sorted Array</a></td>
-      <td><a href="Solutions/Cpp/remove_duplicates_from_sorted_array.cpp">26. Remove Duplicates from Sorted Array</a></td>
+      <td>80. Remove Duplicates from Sorted Array II</td>
+      <td>
+        <a href="Solutions/Python/remove_duplicates_from_sorted_array_ii.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/remove_duplicates_from_sorted_array_ii.py">80. Remove Duplicates from Sorted Array II</a></td>
-      <td></td>
+      <td>169. Majority Element</td>
+      <td>
+        <a href="Solutions/Python/majority_element.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/majority_element.py">169. Majority Element</a></td>
-      <td></td>
+      <td>189. Rotate Array</td>
+      <td>
+        <a href="Solutions/Python/rotate_array.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/rotate_array.py">189. Rotate Array</a></td>
-      <td></td>
+      <td>121. Best Time to Buy and Sell Stock</td>
+      <td>
+        <a href="Solutions/Python/best_time_to_buy_and_sell_stock.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock.py">121. Best Time to Buy and Sell Stock</a></td>
-      <td></td>
+      <td>122. Best Time to Buy and Sell Stock II</td>
+      <td>
+        <a href="Solutions/Python/best_time_to_buy_and_sell_stock_ii.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock_ii.py">122. Best Time to Buy and Sell Stock II</a></td>
-      <td></td>
+      <td>55. Jump Game</td>
+      <td>
+        <a href="Solutions/Python/jump_game.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/jump_game.py">55. Jump Game</a></td>
-      <td></td>
+      <td>45. Jump Game II</td>
+      <td>
+        <a href="Solutions/Python/jump_game_ii.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/jump_game_ii.py">45. Jump Game II</a></td>
-      <td></td>
+      <td>274. H-Index</td>
+      <td>
+        <a href="Solutions/Python/h_index.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/h_index.py">274. H-Index</a></td>
-      <td></td>
+      <td>380. Insert Delete GetRandom O(1)</td>
+      <td>
+        <a href="Solutions/Python/insert_delete_getrandom_o_1.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/insert_delete_getrandom_o_1.py">380. Insert Delete GetRandom O(1)</a></td>
-      <td></td>
+      <td>238. Product of Array Except Self</td>
+      <td>
+        <a href="Solutions/Python/product_of_array_except_self.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/product_of_array_except_self.py">238. Product of Array Except Self</a></td>
-      <td></td>
+      <td>134. Gas Station</td>
+      <td>
+        <a href="Solutions/Python/gas_station.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/gas_station.py">134. Gas Station</a></td>
-      <td></td>
+      <td>135. Candy</td>
+      <td>
+        <a href="Solutions/Python/candy.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/candy.py">135. Candy</a></td>
-      <td></td>
+      <td>42. Trapping Rain Water</td>
+      <td>
+        <a href="Solutions/Python/trapping_rain_water.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/trapping_rain_water.py">42. Trapping Rain Water</a></td>
-      <td></td>
+      <td>13. Roman to Integer</td>
+      <td>
+        <a href="Solutions/Python/roman_to_integer.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/roman_to_integer.py">13. Roman to Integer</a></td>
-      <td></td>
+      <td>12. Integer to Roman</td>
+      <td>
+        <a href="Solutions/Python/integer_to_roman.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/integer_to_roman.py">12. Integer to Roman</a></td>
-      <td></td>
+      <td>58. Length of Last Word</td>
+      <td>
+        <a href="Solutions/Python/length_of_last_word.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/length_of_last_word.py">58. Length of Last Word</a></td>
-      <td></td>
+      <td>14. Longest Common Prefix</td>
+      <td>
+        <a href="Solutions/Python/longest_common_prefix.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/longest_common_prefix.py">14. Longest Common Prefix</a></td>
-      <td></td>
+      <td>151. Reverse Words in a String</td>
+      <td>
+        <a href="Solutions/Python/reverse_words_in_a_string.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/reverse_words_in_a_string.py">151. Reverse Words in a String</a></td>
-      <td></td>
+      <td>6. Zigzag Conversion</td>
+      <td>
+        <a href="Solutions/Python/zigzag_conversion.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/zigzag_conversion.py">6. Zigzag Conversion</a></td>
-      <td></td>
+      <td>28. Find the Index of the First Occurrence in a String</td>
+      <td>
+        <a href="Solutions/Python/find_the_index_of_the_first_occurrence_in_a_string.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/find_the_index_of_the_first_occurrence_in_a_string.py">28. Find the Index of the First Occurrence in a String</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="Solutions/Python/text_justification.py">68. Text Justification</a></td>
-      <td></td>
+      <td>68. Text Justification</td>
+      <td>
+        <a href="Solutions/Python/text_justification.py">Python</a>
+      </td>
     </tr>
   </table>
 
