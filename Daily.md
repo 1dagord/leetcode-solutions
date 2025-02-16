@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 2/15/25 | [1718. Construct the Lexicographically Largest Valid Sequence](Solutions/Python/construct_the_lexicographically_largest_valid_sequence.py) |
 | 02/14/25 | [2698. Find the Punishment Number of an Integer](Solutions/Python/find_the_punishment_number_of_an_integer.py) |
 | 02/13/25 | [1352. Product of the Last K Numbers](Solutions/Python/product_of_the_last_k_numbers.py) |
 | 02/12/25 | [3066. Minimum Operations to Exceed Threshold Value II](Solutions/Python/minimum_operations_to_exceed_threshold_value_ii.py) |
