@@ -334,52 +334,71 @@
       <b><i>Binary Tree General</i></b>
     </th>
     <tr>
-      <td align="center">Python</td>
-      <td align="center">C++</td>
+      <td>226. Invert Binary Tree</td>
+      <td>
+        <a href="Solutions/Python/invert_binary_tree.py">Python</a>
+         | <a href="Solutions/Cpp/invert_binary_tree.cpp">C++</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/invert_binary_tree.py">226. Invert Binary Tree</a></td>
-      <td><a href="Solutions/Cpp/invert_binary_tree.cpp">226. Invert Binary Tree</a></td>
+      <td>105. Construct Binary Tree from Preorder and Inorder Traversal</td>
+      <td>
+        <a href="Solutions/Python/construct_binary_tree_from_preorder_and_inorder_traversal.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/construct_binary_tree_from_preorder_and_inorder_traversal.py">105. Construct Binary Tree from Preorder and Inorder Traversal</a></td>
-      <td></td>
+      <td>106. Construct Binary Tree from Inorder and Postorder Traversal</td>
+      <td>
+        <a href="Solutions/Python/construct_binary_tree_from_inorder_and_postorder_traversal.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/construct_binary_tree_from_inorder_and_postorder_traversal.py">106. Construct Binary Tree from Inorder and Postorder Traversal</a></td>
-      <td></td>
+      <td>117. Populating Next Right Pointers in Each Node II</td>
+      <td>
+        <a href="Solutions/Python/populating_next_right_pointers_in_each_node_ii.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/populating_next_right_pointers_in_each_node_ii.py">117. Populating Next Right Pointers in Each Node II</a></td>
-      <td></td>
+      <td>114. Flatten Binary Tree to Linked List</td>
+      <td>
+        <a href="Solutions/Python/flatten_binary_tree_to_linked_list.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/flatten_binary_tree_to_linked_list.py">114. Flatten Binary Tree to Linked List</a></td>
-      <td></td>
+      <td>112. Path Sum</td>
+      <td>
+        <a href="Solutions/Python/path_sum.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/path_sum.py">112. Path Sum</a></td>
-      <td></td>
+      <td>129. Sum Root to Leaf Numbers</td>
+      <td>
+        <a href="Solutions/Python/sum_root_to_leaf_numbers.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/sum_root_to_leaf_numbers.py">129. Sum Root to Leaf Numbers</a></td>
-      <td></td>
+      <td>124. Binary Tree Maximum Path Sum</td>
+      <td>
+        <a href="Solutions/Python/binary_tree_maximum_path_sum.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/binary_tree_maximum_path_sum.py">124. Binary Tree Maximum Path Sum</a></td>
-      <td></td>
+      <td>173. Binary Search Tree Iterator</td>
+      <td>
+        <a href="Solutions/Python/binary_search_tree_iterator.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/binary_search_tree_iterator.py">173. Binary Search Tree Iterator</a></td>
-      <td></td>
+      <td>222. Count Complete Tree Nodes</td>
+      <td>
+        <a href="Solutions/Python/count_complete_tree_nodes.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/count_complete_tree_nodes.py">222. Count Complete Tree Nodes</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="Solutions/Python/lowest_common_ancestor_of_a_binary_tree.py">236. Lowest Common Ancestor of a Binary Tree</a></td>
-      <td></td>
+      <td>236. Lowest Common Ancestor of a Binary Tree</td>
+      <td>
+        <a href="Solutions/Python/lowest_common_ancestor_of_a_binary_tree.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -388,10 +407,16 @@
       <b><i>Binary Tree BFS</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/binary_tree_right_side_view.py">199. Binary Tree Right Side View</a></td>
+      <td>199. Binary Tree Right Side View</td>
+      <td>
+        <a href="Solutions/Python/binary_tree_right_side_view.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/binary_tree_zigzag_level_order_traversal.py">103. Binary Tree Zigzag Level Order Traversal</a></td>
+      <td>103. Binary Tree Zigzag Level Order Traversal</td>
+      <td>
+        <a href="Solutions/Python/binary_tree_zigzag_level_order_traversal.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -400,20 +425,23 @@
       <b><i>Binary Search Tree</i></b>
     </th>
     <tr>
-      <td align="center">Python</td>
-      <td align="center">C++</td>
+      <td>530. Minimum Absolute Difference in BST</td>
+      <td>
+        <a href="Solutions/Python/minimum_absolute_difference_in_bst.py">Python</a>
+         | <a href="Solutions/Cpp/minimum_absolute_difference_in_bst.cpp">C++</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/minimum_absolute_difference_in_bst.py">530. Minimum Absolute Difference in BST</a></td>
-      <td><a href="Solutions/Cpp/minimum_absolute_difference_in_bst.cpp">530. Minimum Absolute Difference in BST</a></td>
+      <td>230. Kth Smallest Element in a BST</td>
+      <td>
+        <a href="Solutions/Python/kth_smallest_element_in_a_bst.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/kth_smallest_element_in_a_bst.py">230. Kth Smallest Element in a BST</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="Solutions/Python/validate_binary_search_tree.py">98. Validate Binary Search Tree</a></td>
-      <td></td>
+      <td>98. Validate Binary Search Tree</td>
+      <td>
+        <a href="Solutions/Python/validate_binary_search_tree.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -422,10 +450,16 @@
       <b><i>Graph General</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/number_of_islands.py">200. Number of Islands</a></td>
+      <td>200. Number of Islands</td>
+      <td>
+        <a href="Solutions/Python/number_of_islands.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/clone_graph.py">133. Clone Graph</a></td>
+      <td>133. Clone Graph</td>
+      <td>
+        <a href="Solutions/Python/clone_graph.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -434,10 +468,16 @@
       <b><i>Graph BFS</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/minimum_genetic_mutation.py">433. Minimum Genetic Mutation</a></td>
+      <td>433. Minimum Genetic Mutation</td>
+      <td>
+        <a href="Solutions/Python/minimum_genetic_mutation.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/word_ladder.py">127. Word Ladder</a></td>
+      <td>127. Word Ladder</td>
+      <td>
+        <a href="Solutions/Python/word_ladder.py">Python</a>
+      </td>
     </tr>
   </table>
   
@@ -446,13 +486,22 @@
       <b><i>Trie</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/implement_trie_prefix_tree.py">208. Implement Trie (Prefix Tree)</a></td>
+      <td>208. Implement Trie (Prefix Tree)</td>
+      <td>
+        <a href="Solutions/Python/implement_trie_prefix_tree.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/design_add_and_search_words_data_structure.py">211. Design Add and Search Words Data Structure</a></td>
+      <td>211. Design Add and Search Words Data Structure</td>
+      <td>
+        <a href="Solutions/Python/design_add_and_search_words_data_structure.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/word_search_ii.py">212. Word Search II</a></td>
+      <td>212. Word Search II</td>
+      <td>
+        <a href="Solutions/Python/word_search_ii.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -461,22 +510,40 @@
       <b><i>Backtracking</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/letter_combinations_of_a_phone_number.py">17. Letter Combinations of a Phone Number</a></td>
+      <td>17. Letter Combinations of a Phone Number</td>
+      <td>
+        <a href="Solutions/Python/letter_combinations_of_a_phone_number.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/combinations.py">77. Combinations</a></td>
+      <td>77. Combinations</td>
+      <td>
+        <a href="Solutions/Python/combinations.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/permutations.py">46. Permutations</a></td>
+      <td>46. Permutations</td>
+      <td>
+        <a href="Solutions/Python/permutations.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/combination_sum.py">39. Combination Sum</a></td>
+      <td>39. Combination Sum</td>
+      <td>
+        <a href="Solutions/Python/combination_sum.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/generate_parentheses.py">22. Generate Parentheses</a></td>
+      <td>22. Generate Parentheses</td>
+      <td>
+        <a href="Solutions/Python/generate_parentheses.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/word_search.py">79. Word Search</a></td>
+      <td>79. Word Search</td>
+      <td>
+        <a href="Solutions/Python/word_search.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -485,13 +552,22 @@
       <b><i>Divide & Conquer</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/convert_sorted_array_to_binary_search_tree.py">108. Convert Sorted Array to Binary Search Tree</a></td>
+      <td>108. Convert Sorted Array to Binary Search Tree</td>
+      <td>
+        <a href="Solutions/Python/convert_sorted_array_to_binary_search_tree.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/sort_list.py">148. Sort List</a></td>
+      <td>148. Sort List</td>
+      <td>
+        <a href="Solutions/Python/sort_list.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/construct_quad_tree.py">427. Construct Quad Tree</td>
+      <td>427. Construct Quad Tree</td>
+      <td>
+        <a href="Solutions/Python/construct_quad_tree.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -500,10 +576,16 @@
       <b><i>Kadane's Algorithm</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/maximum_subarray.py">53. Maximum Subarray</a></td>
+      <td>53. Maximum Subarray</td>
+      <td>
+        <a href="Solutions/Python/maximum_subarray.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/maximum_sum_circular_subarray.py">918. Maximum Sum Circular Subarray</a></td>
+      <td>918. Maximum Sum Circular Subarray</td>
+      <td>
+        <a href="Solutions/Python/maximum_sum_circular_subarray.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -512,21 +594,39 @@
       <b><i>Binary Search</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/search_insert_position.py">35. Search Insert Position</a></td>
+      <td>35. Search Insert Position</td>
+      <td>
+        <a href="Solutions/Python/search_insert_position.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/search_a_2d_matrix.py">74. Search a 2D Matrix</a></td>
+      <td>74. Search a 2D Matrix</td>
+      <td>
+        <a href="Solutions/Python/search_a_2d_matrix.py">Python</a>
+      </td>
     <tr>
-      <td><a href="Solutions/Python/search_in_rotated_sorted_array.py">33. Search in Rotated Sorted Array</a></td>
+      <td>33. Search in Rotated Sorted Array</td>
+      <td>
+        <a href="Solutions/Python/search_in_rotated_sorted_array.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/find_first_and_last_position_of_element_in_sorted_array.py">34. Find First and Last Position of Element in Sorted Array</a></td>
+      <td>34. Find First and Last Position of Element in Sorted Array</td>
+      <td>
+        <a href="Solutions/Python/find_first_and_last_position_of_element_in_sorted_array.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/find_minimum_in_rotated_sorted_array.py">153. Find Minimum in Rotated Sorted Array</a></td>
+      <td>153. Find Minimum in Rotated Sorted Array</td>
+      <td>
+        <a href="Solutions/Python/find_minimum_in_rotated_sorted_array.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/median_of_two_sorted_arrays.py">4. Median of Two Sorted Arrays</a></td>
+      <td>4. Median of Two Sorted Arrays</td>
+      <td>
+        <a href="Solutions/Python/median_of_two_sorted_arrays.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -535,10 +635,16 @@
       <b><i>Heap</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/kth_largest_element_in_an_array.py">215. Kth Largest Element in an Array</a></td>
+      <td>215. Kth Largest Element in an Array</td>
+      <td>
+        <a href="Solutions/Python/kth_largest_element_in_an_array.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/find_median_from_data_stream.py">295. Find Median from Data Stream</a></td>
+      <td>295. Find Median from Data Stream</td>
+      <td>
+        <a href="Solutions/Python/find_median_from_data_stream.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -547,32 +653,42 @@
       <b><i>Bit Manipulation</i></b>
     </th>
     <tr>
-      <td align="center">Python</td>
-      <td align="center">C++</td>
+      <td>67. Add Binary</td>
+      <td>
+        <a href="Solutions/Python/add_binary.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/add_binary.py">67. Add Binary</a></td>
-      <td></td>
+      <td>190. Reverse Bits</td>
+      <td>
+        <a href="Solutions/Python/reverse_bits.py">Python</a>
+         | <a href="Solutions/Cpp/reverse_bits.cpp">C++</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/reverse_bits.py">190. Reverse Bits</a></td>
-      <td><a href="Solutions/Cpp/reverse_bits.cpp">190. Reverse Bits</a></td>
+      <td>191. Number of 1 Bits</td>
+      <td>
+        <a href="Solutions/Python/number_of_1_bits.py">Python</a>
+         | <a href="Solutions/Cpp/number_of_1_bits.cpp">C++</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/number_of_1_bits.py">191. Number of 1 Bits</a></td>
-      <td><a href="Solutions/Cpp/number_of_1_bits.cpp">191. Number of 1 Bits</a></td>
+      <td>136. Single Number</td>
+      <td>
+        <a href="Solutions/Python/single_number.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/single_number.py">136. Single Number</a></td>
-      <td></td>
+      <td>137. Single Number II</td>
+      <td>
+        <a href="Solutions/Python/single_number_ii.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/single_number_ii.py">137. Single Number II</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="Solutions/Python/bitwise_and_of_numbers_range.py">201. Bitwise AND of Numbers Range</a></td>
-      <td></td>
+      <td>201. Bitwise AND of Numbers Range</td>
+      <td>
+        <a href="Solutions/Python/bitwise_and_of_numbers_range.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -581,19 +697,34 @@
       <b><i>Math</i></b>
     </th>
     <tr>
-     <td><a href="Solutions/Python/palindrome_number.py">9. Palindrome Number</a></td>
+      <td>9. Palindrome Number</td>
+     <td>
+       <a href="Solutions/Python/palindrome_number.py">Python</a>
+     </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/plus_one.py">66. Plus One</a></td>
+      <td>66. Plus One</td>
+      <td>
+        <a href="Solutions/Python/plus_one.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/sqrt_x.py">69. Sqrt(x)</a></td>
+      <td>69. Sqrt(x)</td>
+      <td>
+        <a href="Solutions/Python/sqrt_x.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/pow_x_n.py">50. Pow(x, n)</a></td>
+      <td>50. Pow(x, n)</td>
+      <td>
+        <a href="Solutions/Python/pow_x_n.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/max_points_on_a_line.py">149. Max Points on a Line</a></td>
+      <td>149. Max Points on a Line</td>
+      <td>
+        <a href="Solutions/Python/max_points_on_a_line.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -602,19 +733,34 @@
       <b><i>1D DP</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/climbing_stairs.py">70. Climbing Stairs</a></td>
+      <td>70. Climbing Stairs</td>
+      <td>
+        <a href="Solutions/Python/climbing_stairs.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/house_robber.py">198. House Robber</a></td>
+      <td>198. House Robber</td>
+      <td>
+        <a href="Solutions/Python/house_robber.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/word_break.py">139. Word Break</a></td>
+      <td>139. Word Break</td>
+      <td>
+        <a href="Solutions/Python/word_break.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/coin_change.py">322. Coin Change</a></td>
+      <td>322. Coin Change</td>
+      <td>
+        <a href="Solutions/Python/coin_change.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/longest_increasing_subsequence.py">300. Longest Increasing Subsequence</a></td>
+      <td>300. Longest Increasing Subsequence</td>
+      <td>
+        <a href="Solutions/Python/longest_increasing_subsequence.py">Python</a>
+      </td>
     </tr>
   </table>
 
@@ -623,13 +769,22 @@
       <b><i>Multidimensional DP</i></b>
     </th>
     <tr>
-      <td><a href="Solutions/Python/minimum_path_sum.py">64. Minimum Path Sum</a></td>
+      <td>64. Minimum Path Sum</td>
+      <td>
+        <a href="Solutions/Python/minimum_path_sum.py">Python</a>
+      </td>
     </tr>
     <tr>
-      <td><a href="Solutions/Python/unique_paths_ii.py">63. Unique Paths II</a></td>
+      <td>63. Unique Paths II</td>
+      <td>
+        <a href="Solutions/Python/unique_paths_ii.py">Python</a>
+      </td>
     </tr>
     <tr>
-     <td><a href="Solutions/Python/best_time_to_buy_and_sell_stock_iii.py">123. Best Time to Buy and Sell Stock III</a></td>
+      <td>123. Best Time to Buy and Sell Stock III</td>
+     <td>
+       <a href="Solutions/Python/best_time_to_buy_and_sell_stock_iii.py">Python</a>
+     </td>
     </tr>
   </table>
 </html>
