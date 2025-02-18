@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 02/17/25 | [2375. Construct Smallest Number From DI String](Solutions/Python/construct_smallest_number_from_di_string.py) |
 | 02/16/25 | [1079. Letter Tile Possibilities](Solutions/Python/letter_tile_possibilities.py) |
 | 02/15/25 | [1718. Construct the Lexicographically Largest Valid Sequence](Solutions/Python/construct_the_lexicographically_largest_valid_sequence.py) |
 | 02/14/25 | [2698. Find the Punishment Number of an Integer](Solutions/Python/find_the_punishment_number_of_an_integer.py) |
