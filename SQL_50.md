@@ -148,4 +148,7 @@
   <tr>
     <td><a href="Solutions/SQL/exchange_seats.sql">626. Exchange Seats</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/movie_rating.sql">1341. Movie Rating</a></td>
+  </tr>
 </table>
