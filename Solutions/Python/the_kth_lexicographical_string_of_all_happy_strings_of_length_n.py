@@ -33,6 +33,4 @@ class Solution:
 
             return False
 
-        if solve(0, []):
-            return strings[-1]
-        return ""
+        return strings[-1] if solve(0, []) else ""
