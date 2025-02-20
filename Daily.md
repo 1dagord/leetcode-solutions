@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 02/19/25 | [1980. Find Unique Binary String](Solutions/Python/find_unique_binary_string.py) |
 | 02/18/25 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](Solutions/Python/the_kth_lexicographical_string_of_all_happy_strings_of_length_n.py) |
 | 02/17/25 | [2375. Construct Smallest Number From DI String](Solutions/Python/construct_smallest_number_from_di_string.py) |
 | 02/16/25 | [1079. Letter Tile Possibilities](Solutions/Python/letter_tile_possibilities.py) |
