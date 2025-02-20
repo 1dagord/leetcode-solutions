@@ -151,4 +151,7 @@
   <tr>
     <td><a href="Solutions/SQL/movie_rating.sql">1341. Movie Rating</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/restaurant_growth.sql">1321. Restaurant Growth</a></td>
+  </tr>
 </table>
