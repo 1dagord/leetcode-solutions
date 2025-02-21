@@ -13,6 +13,7 @@
 | 02/12/25 | [2342. Max Sum of a Pair With Equal Sum of Digits](Solutions/Python/max_sum_of_a_pair_with_equal_sum_of_digits.py) |
 | 02/11/25 | [1910. Remove All Occurrences of a Substring](Solutions/Python/remove_all_occurrences_of_a_substring.py) |
 | 02/10/25 | [3174. Clear Digits](Solutions/Python/clear_digits.py) |
+| 02/09/25 | [2364. Count Number of Bad Pairs](Solutions/Python/count_number_of_bad_pairs.py) |
 | 02/08/25 | [2349. Design a Number Container System](Solutions/Python/design_a_number_container_system.py) |
 | 02/07/25 | [3160. Find the Number of Distinct Colors Among the Balls](Solutions/Python/find_the_number_of_distinct_colors_among_the_balls.py) |
 | 02/06/25 | [1726. Tuple with Same Product](Solutions/Python/tuple_with_same_product.py) |
