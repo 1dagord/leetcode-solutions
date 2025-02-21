@@ -2,17 +2,17 @@
 
 | Date | Problem |
 |-----|-----|
-| 02/19/25 | [1980. Find Unique Binary String](Solutions/Python/find_unique_binary_string.py) |
-| 02/18/25 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](Solutions/Python/the_kth_lexicographical_string_of_all_happy_strings_of_length_n.py) |
-| 02/17/25 | [2375. Construct Smallest Number From DI String](Solutions/Python/construct_smallest_number_from_di_string.py) |
-| 02/16/25 | [1079. Letter Tile Possibilities](Solutions/Python/letter_tile_possibilities.py) |
-| 02/15/25 | [1718. Construct the Lexicographically Largest Valid Sequence](Solutions/Python/construct_the_lexicographically_largest_valid_sequence.py) |
-| 02/14/25 | [2698. Find the Punishment Number of an Integer](Solutions/Python/find_the_punishment_number_of_an_integer.py) |
-| 02/13/25 | [1352. Product of the Last K Numbers](Solutions/Python/product_of_the_last_k_numbers.py) |
-| 02/12/25 | [3066. Minimum Operations to Exceed Threshold Value II](Solutions/Python/minimum_operations_to_exceed_threshold_value_ii.py) |
-| 02/11/25 | [2342. Max Sum of a Pair With Equal Sum of Digits](Solutions/Python/max_sum_of_a_pair_with_equal_sum_of_digits.py) |
-| 02/10/25 | [1910. Remove All Occurrences of a Substring](Solutions/Python/remove_all_occurrences_of_a_substring.py) |
-| 02/09/25 | [3174. Clear Digits](Solutions/Python/clear_digits.py) |
+| 02/20/25 | [1980. Find Unique Binary String](Solutions/Python/find_unique_binary_string.py) |
+| 02/19/25 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](Solutions/Python/the_kth_lexicographical_string_of_all_happy_strings_of_length_n.py) |
+| 02/18/25 | [2375. Construct Smallest Number From DI String](Solutions/Python/construct_smallest_number_from_di_string.py) |
+| 02/17/25 | [1079. Letter Tile Possibilities](Solutions/Python/letter_tile_possibilities.py) |
+| 02/16/25 | [1718. Construct the Lexicographically Largest Valid Sequence](Solutions/Python/construct_the_lexicographically_largest_valid_sequence.py) |
+| 02/15/25 | [2698. Find the Punishment Number of an Integer](Solutions/Python/find_the_punishment_number_of_an_integer.py) |
+| 02/14/25 | [1352. Product of the Last K Numbers](Solutions/Python/product_of_the_last_k_numbers.py) |
+| 02/13/25 | [3066. Minimum Operations to Exceed Threshold Value II](Solutions/Python/minimum_operations_to_exceed_threshold_value_ii.py) |
+| 02/12/25 | [2342. Max Sum of a Pair With Equal Sum of Digits](Solutions/Python/max_sum_of_a_pair_with_equal_sum_of_digits.py) |
+| 02/11/25 | [1910. Remove All Occurrences of a Substring](Solutions/Python/remove_all_occurrences_of_a_substring.py) |
+| 02/10/25 | [3174. Clear Digits](Solutions/Python/clear_digits.py) |
 | 02/08/25 | [2349. Design a Number Container System](Solutions/Python/design_a_number_container_system.py) |
 | 02/07/25 | [3160. Find the Number of Distinct Colors Among the Balls](Solutions/Python/find_the_number_of_distinct_colors_among_the_balls.py) |
 | 02/06/25 | [1726. Tuple with Same Product](Solutions/Python/tuple_with_same_product.py) |
