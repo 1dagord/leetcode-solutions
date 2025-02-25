@@ -273,9 +273,27 @@
       <b><i>Stack</i></b>
     </th>
     <tr>
+      <td>20. Valid Parentheses</td>
+      <td>
+        <a href="Solutions/Python/valid_parentheses.py">Python</a>
+      </td>
+    </tr>
+    <tr>
+      <td>71. Simplify Path</td>
+      <td>
+        <a href="Solutions/Python/simplify_path.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>155. Min Stack</td>
       <td>
         <a href="Solutions/Python/min_stack.py">Python</a>
+      </td>
+    </tr>
+    <tr>
+      <td>150. Evaluate Reverse Polish Notation</td>
+      <td>
+        <a href="Solutions/Python/evaluate_reverse_polish_notation.py">Python</a>
       </td>
     </tr>
   </table>
