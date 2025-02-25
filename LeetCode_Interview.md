@@ -419,6 +419,12 @@
       </td>
     </tr>
     <tr>
+      <td>102. Binary Tree Level Order Traversal</td>
+      <td>
+        <a href="Solutions/Python/binary_tree_level_order_traversal.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>103. Binary Tree Zigzag Level Order Traversal</td>
       <td>
         <a href="Solutions/Python/binary_tree_zigzag_level_order_traversal.py">Python</a>
