@@ -7,8 +7,8 @@
     - sorting
 
     Stats:
-        Runtime | 26 ms     [Beats 89.96%]
-        Memory  | 33.01 MB  [Beats 19.91%]
+        Runtime | 183 ms    [Beats 56.91%]
+        Memory  | 32.92 MB  [Beats 41.86%]
 """
 
 # Definition for singly-linked list.
@@ -18,23 +18,48 @@
 #         self.next = next
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        nodes = []
-        curr = head
+        def findMiddle(head: ListNode):
+            slow = head
+            fast = head.next
 
-        while curr:
-            nodes.append(curr)
-            curr = curr.next
+            while fast and fast.next:
+                fast = fast.next.next
+                slow = slow.next
+            
+            return slow
 
-        for node in nodes:
-            node.next = None
+        def merge(left: ListNode, right: ListNode):
+            l = left
+            r = right
+            dummy = ListNode(-1)
+            curr = dummy
 
-        n = len(nodes)
+            while l and r:
+                if l.val < r.val:
+                    curr.next = l
+                    curr = l
+                    l = l.next
+                else:
+                    curr.next = r
+                    curr = r
+                    r = r.next
+                
+            curr.next = l if l else r
 
-        # implements timsort under the hood
-        nodes.sort(key=lambda x: x.val)
-        nodes += [None]
+            return dummy.next
 
-        for i in range(n):
-            nodes[i].next = nodes[i+1]
+        def mergeSort(head: ListNode):
+            if not head or not head.next:
+                return head
 
-        return nodes[0]
+            middle = findMiddle(head)
+            left_head = head
+            right_head = middle.next
+            middle.next = None
+
+            left = mergeSort(left_head)
+            right = mergeSort(right_head)
+
+            return merge(left, right)
+        
+        return mergeSort(head)
