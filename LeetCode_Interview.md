@@ -413,6 +413,12 @@
       </td>
     </tr>
     <tr>
+      <td>637. Average of Levels in Binary Tree</td>
+      <td>
+        <a href="Solutions/Python/average_of_levels_in_binary_tree.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>103. Binary Tree Zigzag Level Order Traversal</td>
       <td>
         <a href="Solutions/Python/binary_tree_zigzag_level_order_traversal.py">Python</a>
