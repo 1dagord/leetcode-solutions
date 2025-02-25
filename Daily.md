@@ -2,6 +2,8 @@
 
 | Date | Problem |
 |-----|-----|
+| 02/23/25 | [889. Construct Binary Tree from Preorder and Postorder Traversal](Solutions/Python/construct_binary_tree_from_preorder_and_postorder_traversal.py) |
+| 02/21/25 | [1261. Find Elements in a Contaminated Binary Tree](Solutions/Python/find_elements_in_a_contaminated_binary_tree.py) |
 | 02/20/25 | [1980. Find Unique Binary String](Solutions/Python/find_unique_binary_string.py) |
 | 02/19/25 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](Solutions/Python/the_kth_lexicographical_string_of_all_happy_strings_of_length_n.py) |
 | 02/18/25 | [2375. Construct Smallest Number From DI String](Solutions/Python/construct_smallest_number_from_di_string.py) |
