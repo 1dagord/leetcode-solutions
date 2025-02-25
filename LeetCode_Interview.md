@@ -461,6 +461,12 @@
         <a href="Solutions/Python/clone_graph.py">Python</a>
       </td>
     </tr>
+    <tr>
+      <td>399. Evaluate Division</td>
+      <td>
+        <a href="Solutions/Python/evaluate_division.py">Python</a>
+      </td>
+    </tr>
   </table>
 
   <table>
