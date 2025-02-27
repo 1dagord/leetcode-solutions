@@ -683,6 +683,12 @@
       </td>
     </tr>
     <tr>
+      <td>373. Find K Pairs with Smallest Sums</td>
+      <td>
+        <a href="Solutions/Python/find_k_pairs_with_smallest_sums.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>295. Find Median from Data Stream</td>
       <td>
         <a href="Solutions/Python/find_median_from_data_stream.py">Python</a>
