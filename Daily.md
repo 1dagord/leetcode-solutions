@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 02/26/25 | [873. Length of Longest Fibonacci Subsequence](Solutions/Python/length_of_longest_fibonacci_sequence.py) |
 | 02/25/25 | [1524. Number of Sub-arrays With Odd Sum](Solutions/Python/number_of_sub_arrays_with_odd_sum.py) |
 | 02/23/25 | [889. Construct Binary Tree from Preorder and Postorder Traversal](Solutions/Python/construct_binary_tree_from_preorder_and_postorder_traversal.py) |
 | 02/21/25 | [1261. Find Elements in a Contaminated Binary Tree](Solutions/Python/find_elements_in_a_contaminated_binary_tree.py) |
