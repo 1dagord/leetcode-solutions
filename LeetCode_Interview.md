@@ -497,6 +497,12 @@
         <a href="Solutions/Python/evaluate_division.py">Python</a>
       </td>
     </tr>
+    <tr>
+      <td>207. Course Schedule</td>
+      <td>
+        <a href="Solutions/Python/course_schedule.py">Python</a>
+      </td>
+    </tr>
   </table>
 
   <table>
