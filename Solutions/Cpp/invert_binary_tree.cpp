@@ -4,7 +4,7 @@
 
     Concepts:
     - binary tree
-    - breadth-first search
+    - depth-first search
 
     Stats:
         Runtime | 0 ms      [Beats 100%]
