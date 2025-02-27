@@ -328,6 +328,12 @@
       </td>
     </tr>
     <tr>
+      <td>25. Reverse Nodes in k-Group</td>
+      <td>
+        <a href="Solutions/Python/reverse_nodes_in_k_group.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>19. Remove Nth Node From End of List</td>
       <td>
         <a href="Solutions/Python/remove_nth_node_from_end_of_list.py">Python</a>
