@@ -1,6 +1,6 @@
 """
     [HARD]
-    1092. Shortest Common Supersequence 
+    1092. Shortest Common Supersequence
 
     Concepts:
     - string
@@ -17,16 +17,11 @@ class Solution:
         dp = [[0]*(n+1) for _ in range(m+1)]
 
         # find longest common subsequence
-
-        # iterate over char grid
         for i in reversed(range(m)):
             for j in reversed(range(n)):
-                # if same char...
                 if s1[i] == s2[j]:
-                    # ...increment both pointers and increment count at cell
                     dp[i][j] = dp[i+1][j+1] + 1
                 else:
-                    # ...take maximum of neighbors and increment pointers
                     dp[i][j] = max(dp[i][j+1], dp[i+1][j])
 
         i, j = 0, 0
