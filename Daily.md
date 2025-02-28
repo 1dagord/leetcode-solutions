@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 02/28/25 | [1092. Shortest Common Supersequence](Solutions/Python/shortest_common_supersequence.py) |
 | 02/27/25 | [873. Length of Longest Fibonacci Subsequence](Solutions/Python/length_of_longest_fibonacci_sequence.py) |
 | 02/26/25 | [1749. Maximum Absolute Sum of Any Subarray](Solutions/Python/maximum_absolute_sum_of_any_subarray.py) |
 | 02/25/25 | [1524. Number of Sub-arrays With Odd Sum](Solutions/Python/number_of_sub_arrays_with_odd_sum.py) |
