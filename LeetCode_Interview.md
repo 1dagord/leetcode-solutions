@@ -763,6 +763,12 @@
       </td>
     </tr>
     <tr>
+      <td>172. Factorial Trailing Zeroes</td>
+      <td>
+        <a href="Solutions/Python/factorial_trailing_zeroes.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>69. Sqrt(x)</td>
       <td>
         <a href="Solutions/Python/sqrt_x.py">Python</a>
