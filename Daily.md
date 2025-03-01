@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/01/25 | [2460. Apply Operations to an Array](Solutions/Python/apply_operations_to_an_array.py) |
 | 02/28/25 | [1092. Shortest Common Supersequence](Solutions/Python/shortest_common_supersequence.py) |
 | 02/27/25 | [873. Length of Longest Fibonacci Subsequence](Solutions/Python/length_of_longest_fibonacci_sequence.py) |
 | 02/26/25 | [1749. Maximum Absolute Sum of Any Subarray](Solutions/Python/maximum_absolute_sum_of_any_subarray.py) |
