@@ -588,6 +588,12 @@
       </td>
     </tr>
     <tr>
+      <td>52. N-Queens II</td>
+      <td>
+        <a href="Solutions/Python/n_queens_ii.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>22. Generate Parentheses</td>
       <td>
         <a href="Solutions/Python/generate_parentheses.py">Python</a>
