@@ -492,6 +492,12 @@
       </td>
     </tr>
     <tr>
+      <td>130. Surrounded Regions</td>
+      <td>
+        <a href="Solutions/Python/surrounded_regions.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>133. Clone Graph</td>
       <td>
         <a href="Solutions/Python/clone_graph.py">Python</a>
