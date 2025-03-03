@@ -266,6 +266,12 @@
         <a href="Solutions/Python/merge_intervals.py">Python</a>
       </td>
     </tr>
+    <tr>
+      <td>57. Insert Interval</td>
+      <td>
+        <a href="Solutions/Python/insert_interval.py">Python</a>
+      </td>
+    </tr>
   </table>
 
   <table>
