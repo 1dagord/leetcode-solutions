@@ -314,6 +314,12 @@
         <a href="Solutions/Python/evaluate_reverse_polish_notation.py">Python</a>
       </td>
     </tr>
+    <tr>
+      <td>224. Basic Calculator</td>
+      <td>
+        <a href="Solutions/Python/basic_calculator.py">Python</a>
+      </td>
+    </tr>
   </table>
 
   <table>
