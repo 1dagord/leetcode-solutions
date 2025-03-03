@@ -389,6 +389,12 @@
       </td>
     </tr>
     <tr>
+      <td>101. Symmetric Tree</td>
+      <td>
+        <a href="Solutions/Python/symmetric_tree.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>105. Construct Binary Tree from Preorder and Inorder Traversal</td>
       <td>
         <a href="Solutions/Python/construct_binary_tree_from_preorder_and_inorder_traversal.py">Python</a>
