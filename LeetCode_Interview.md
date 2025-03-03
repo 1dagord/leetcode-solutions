@@ -682,6 +682,13 @@
       <td>
         <a href="Solutions/Python/search_a_2d_matrix.py">Python</a>
       </td>
+    </tr>
+    <tr>
+      <td>162. Find Peak Element</td>
+      <td>
+        <a href="Solutions/Python/find_peak_element.py">Python</a>
+      </td>
+    </tr>
     <tr>
       <td>33. Search in Rotated Sorted Array</td>
       <td>
