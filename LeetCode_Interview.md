@@ -272,6 +272,12 @@
         <a href="Solutions/Python/insert_interval.py">Python</a>
       </td>
     </tr>
+    <tr>
+      <td>452. Minimum Number of Arrows to Burst Balloons</td>
+      <td>
+        <a href="Solutions/Python/minimum_number_of_arrows_to_burst_balloons.py">Python</a>
+      </td>
+    </tr>
   </table>
 
   <table>
