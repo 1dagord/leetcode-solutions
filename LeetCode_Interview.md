@@ -376,6 +376,12 @@
       </td>
     </tr>
     <tr>
+      <td>100. Same Tree</td>
+      <td>
+        <a href="Solutions/Python/same_tree.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>226. Invert Binary Tree</td>
       <td>
         <a href="Solutions/Python/invert_binary_tree.py">Python</a>
