@@ -2,6 +2,8 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/03/25 | [2161. Partition Array According to Given Pivot](Solutions/Python/partition_array_according_to_given_pivot.py
+) |
 | 03/02/25 | [2570. Merge Two 2D Arrays by Summing Values](Solutions/Python/merge_two_2d_arrays_by_summing_values.py) |
 | 03/01/25 | [2460. Apply Operations to an Array](Solutions/Python/apply_operations_to_an_array.py) |
 | 02/28/25 | [1092. Shortest Common Supersequence](Solutions/Python/shortest_common_supersequence.py) |
