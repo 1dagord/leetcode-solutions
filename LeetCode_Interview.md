@@ -641,6 +641,12 @@
         <a href="Solutions/Python/construct_quad_tree.py">Python</a>
       </td>
     </tr>
+    <tr>
+      <td>23. Merge k Sorted Lists</td>
+      <td>
+        <a href="Solutions/Python/merge_k_sorted_lists.py">Python</a>
+      </td>
+    </tr>
   </table>
 
   <table>
