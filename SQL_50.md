@@ -157,4 +157,7 @@
   <tr>
     <td><a href="Solutions/SQL/friend_requests_ii_who_has_the_most_friends.sql">602. Friend Requests II: Who Has the Most Friends</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/investments_in_2016.sql">585. Investments in 2016</a></td>
+  </tr>
 </table>
