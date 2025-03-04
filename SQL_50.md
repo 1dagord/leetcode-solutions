@@ -154,4 +154,7 @@
   <tr>
     <td><a href="Solutions/SQL/restaurant_growth.sql">1321. Restaurant Growth</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/friend_requests_ii_who_has_the_most_friends.sql">602. Friend Requests II: Who Has the Most Friends</a></td>
+  </tr>
 </table>
