@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/04/25 | [1780. Check if Number is a Sum of Powers of Three](Solutions/Python/check_if_number_is_a_sum_of_powers_of_three.py) |
 | 03/03/25 | [2161. Partition Array According to Given Pivot](Solutions/Python/partition_array_according_to_given_pivot.py) |
 | 03/02/25 | [2570. Merge Two 2D Arrays by Summing Values](Solutions/Python/merge_two_2d_arrays_by_summing_values.py) |
 | 03/01/25 | [2460. Apply Operations to an Array](Solutions/Python/apply_operations_to_an_array.py) |
