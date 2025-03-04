@@ -570,6 +570,12 @@
       <b><i>Graph BFS</i></b>
     </th>
     <tr>
+      <td>909. Snakes and Ladders</td>
+      <td>
+        <a href="Solutions/Python/snakes_and_ladders.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>433. Minimum Genetic Mutation</td>
       <td>
         <a href="Solutions/Python/minimum_genetic_mutation.py">Python</a>
