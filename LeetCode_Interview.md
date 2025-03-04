@@ -370,6 +370,12 @@
       </td>
     </tr>
     <tr>
+      <td>86. Partition List</td>
+      <td>
+        <a href="Solutions/Python/partition_list.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>146. LRU Cache</td>
       <td>
         <a href="Solutions/Python/lru_cache.py">Python</a>
