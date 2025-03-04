@@ -16,11 +16,9 @@ WITH Totals AS (
 ), Averages AS (
     SELECT
         visited_on
-        , (
-            SUM(amount) OVER (
-                ORDER BY visited_on
-                ROWS 6 PRECEDING
-            )
+        , SUM(amount) OVER (
+            ORDER BY visited_on
+            ROWS 6 PRECEDING
         ) AS amount
         , ROUND(
             AVG(amount) OVER (
@@ -33,4 +31,7 @@ WITH Totals AS (
 )
 SELECT *
 FROM Averages
-WHERE DATEDIFF(visited_on, (SELECT MIN(visited_on) FROM Averages)) > 5
+WHERE DATEDIFF(
+    visited_on
+    , (SELECT MIN(visited_on) FROM Averages)
+) > 5
