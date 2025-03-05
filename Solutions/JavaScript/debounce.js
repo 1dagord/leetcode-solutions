@@ -3,7 +3,8 @@
     2627. Debounce
 
     Concepts:
-    - promises and time
+    - promises
+    - time
 
     Stats:
         Runtime | 47 ms     [Beats 87.76%]
