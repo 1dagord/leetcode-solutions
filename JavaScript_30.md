@@ -53,7 +53,7 @@
 
 <table>
   <th>
-    <b><i>Promises</i></b>
+    <b><i>Promises and Time</i></b>
   </th>
   <tr>
     <td><a href="Solutions/JavaScript/add_two_promises.js">2723. Add Two Promises</a></td>
@@ -72,6 +72,9 @@
   </tr>
   <tr>
     <td><a href="Solutions/JavaScript/cache_with_time_limit.js">2622. Cache With Time Limit</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/debounce.js">2627. Debounce</a></td>
   </tr>
 </table>
 
