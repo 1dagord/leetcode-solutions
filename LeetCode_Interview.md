@@ -563,6 +563,12 @@
         <a href="Solutions/Python/course_schedule.py">Python</a>
       </td>
     </tr>
+    <tr>
+      <td>210. Course Schedule II</td>
+      <td>
+        <a href="Solutions/Python/course_schedule_ii.py">Python</a>
+      </td>
+    </tr>
   </table>
 
   <table>
@@ -765,6 +771,12 @@
       <td>215. Kth Largest Element in an Array</td>
       <td>
         <a href="Solutions/Python/kth_largest_element_in_an_array.py">Python</a>
+      </td>
+    </tr>
+    <tr>
+      <td>502. IPO</td>
+      <td>
+        <a href="Solutions/Python/ipo.py">Python</a>
       </td>
     </tr>
     <tr>
