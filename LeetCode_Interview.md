@@ -172,6 +172,18 @@
       </td>
     </tr>
     <tr>
+      <td>167. Two Sum II - Input Array Is Sorted</td>
+      <td>
+        <a href="Solutions/Python/two_sum_ii_input_array_is_sorted.py">Python</a>
+      </td>
+    </tr>
+    <tr>
+      <td>11. Container With Most Water</td>
+      <td>
+        <a href="Solutions/Python/container_with_most_water.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>15. 3Sum</td>
       <td><a href="Solutions/Python/3sum.py">Python</a></td>
     </tr>
