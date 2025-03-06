@@ -185,7 +185,9 @@
     </tr>
     <tr>
       <td>15. 3Sum</td>
-      <td><a href="Solutions/Python/3sum.py">Python</a></td>
+      <td>
+        <a href="Solutions/Python/3sum.py">Python</a>
+      </td>
     </tr>
   </table>
 
