@@ -403,6 +403,12 @@
       </td>
     </tr>
     <tr>
+      <td>21. Merge Two Sorted Lists</td>
+      <td>
+        <a href="Solutions/Python/merge_two_sorted_lists.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>138. Copy List with Random Pointer</td>
       <td>
         <a href="Solutions/Python/copy_list_with_random_pointer.py">Python</a>
@@ -430,6 +436,12 @@
       <td>82. Remove Duplicates from Sorted List II</td>
       <td>
         <a href="Solutions/Python/remove_duplicates_from_sorted_linked_list_ii.py">Python</a>
+      </td>
+    </tr>
+    <tr>
+      <td>61. Rotate List</td>
+      <td>
+        <a href="Solutions/Python/rotate_list.py">Python</a>
       </td>
     </tr>
     <tr>
