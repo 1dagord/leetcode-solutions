@@ -227,6 +227,12 @@
       <b><i>Matrix</i></b>
     </th>
     <tr>
+      <td>36. Valid Sudoku</td>
+      <td>
+        <a href="Solutions/Python/valid_sudoku.py">Python</a>
+      </td>
+    </tr>
+    <tr>
       <td>54. Spiral Matrix</td>
       <td>
         <a href="Solutions/Python/spiral_matrix.py">Python</a>
@@ -236,6 +242,12 @@
       <td>48. Rotate Image</td>
       <td>
         <a href="Solutions/Python/rotate_image.py">Python</a>
+      </td>
+    </tr>
+    <tr>
+      <td>73. Set Matrix Zeroes</td>
+      <td>
+        <a href="Solutions/Python/set_matrix_zeroes.py">Python</a>
       </td>
     </tr>
     <tr>
