@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/07/25 | [2523. Closest Prime Numbers in Range](Solutions/Python/closest_prime_numbers_in_range.py) |
 | 03/06/25 | [2965. Find Missing and Repeated Values](Solutions/Python/find_missing_and_repeated_values.py) |
 | 03/05/25 | [2579. Count Total Number of Colored Cells](Solutions/Python/count_total_number_of_colored_cells.py) |
 | 03/04/25 | [1780. Check if Number is a Sum of Powers of Three](Solutions/Python/check_if_number_is_a_sum_of_powers_of_three.py) |
