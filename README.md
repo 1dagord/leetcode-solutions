@@ -9,4 +9,4 @@ Will only be uploading the following problems:
 - [JavaScript 30](JavaScript_30.md)
 - [Weekly Contest Problems](WeeklyContests)
 
-All solutions were written by me
+All solutions were written by [me](https://leetcode.com/u/chmod711/)
