@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/08/25 | [2379. Minimum Recolors to Get K Consecutive Black Blocks](Solutions/Python/minimum_recolors_to_get_k_consecutive_black_blocks.py) |
 | 03/07/25 | [2523. Closest Prime Numbers in Range](Solutions/Python/closest_prime_numbers_in_range.py) |
 | 03/06/25 | [2965. Find Missing and Repeated Values](Solutions/Python/find_missing_and_repeated_values.py) |
 | 03/05/25 | [2579. Count Total Number of Colored Cells](Solutions/Python/count_total_number_of_colored_cells.py) |
