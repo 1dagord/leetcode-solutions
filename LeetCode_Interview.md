@@ -1018,5 +1018,29 @@
        <a href="Solutions/Python/best_time_to_buy_and_sell_stock_iii.py">Python</a>
      </td>
     </tr>
+    <tr>
+      <td>72. Edit Distance</td>
+      <td>
+        <a href="Solutions/Python/edit_distance.py">Python</a>
+      </td>
+    </tr>
+    <tr>
+      <td>123. Best Time to Buy and Sell Stock III</td>
+      <td>
+        <a href="Solutions/Python/best_time_to_buy_and_sell_stock_iii.py">Python</a>
+      </td>
+    </tr>
+    <tr>
+      <td>188. Best Time to Buy and Sell Stock IV</td>
+      <td>
+        <a href="Solutions/Python/best_time_to_buy_and_sell_stock_iv.py">Python</a>
+      </td>
+    </tr>
+    <tr>
+      <td>221. Maximal Square</td>
+      <td>
+        <a href="Solutions/Python/maximal_square.py">Python</a>
+      </td>
+    </tr>
   </table>
 </html>
