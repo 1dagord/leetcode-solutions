@@ -10,6 +10,7 @@
       <td>88. Merge Sorted Array</td>
       <td>
         <a href="Solutions/Python/merge_sorted_array.py">Python</a>
+         | <a href="Solutions/Cpp/merge_sorted_array.cpp">C++</a>
       </td>
     </tr>
     <tr>
