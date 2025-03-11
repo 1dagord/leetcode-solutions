@@ -17,6 +17,7 @@
       <td>27. Remove Element</td>
       <td>
         <a href="Solutions/Python/remove_element.py">Python</a>
+         | <a href="Solutions/Cpp/remove_element.cpp">C++</a>
       </td>
     </tr>
     <tr>
@@ -30,12 +31,14 @@
       <td>80. Remove Duplicates from Sorted Array II</td>
       <td>
         <a href="Solutions/Python/remove_duplicates_from_sorted_array_ii.py">Python</a>
+         | <a href="Solutions/Cpp/remove_duplicates_from_sorted_array_ii.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>169. Majority Element</td>
       <td>
         <a href="Solutions/Python/majority_element.py">Python</a>
+         | <a href="Solutions/Cpp/majority_element.cpp">C++</a>
       </td>
     </tr>
     <tr>
