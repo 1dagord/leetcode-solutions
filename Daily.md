@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/11/25 | [1358. Number of Substrings Containing All Three Characters](Solutions/Python/number_of_substrings_containing_all_three_characters.py) |
 | 03/10/25 | [3306. Count of Substrings Containing Every Vowel and K Consonants II](Solutions/Python/count_of_substrings_containing_every_vowel_and_k_consonants_ii.py) |
 | 03/09/25 | [3208. Alternating Groups II](Solutions/Python/alternating_groups_ii.py) |
 | 03/08/25 | [2379. Minimum Recolors to Get K Consecutive Black Blocks](Solutions/Python/minimum_recolors_to_get_k_consecutive_black_blocks.py) |
