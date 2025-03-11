@@ -167,6 +167,6 @@
     <b><i>Advanced String Functions/Regex/Clause</i></b>
   </th>
   <tr>
-    <td><a href="Solutions/SQL/fix_names_in_a_table.sql">1667. Fix Names in a Table</td>
+    <td><a href="Solutions/SQL/fix_names_in_a_table.sql">1667. Fix Names in a Table</a></td>
   </tr>
 </table>
