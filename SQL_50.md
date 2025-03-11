@@ -161,3 +161,12 @@
     <td><a href="Solutions/SQL/investments_in_2016.sql">585. Investments in 2016</a></td>
   </tr>
 </table>
+
+<table>
+  <th>
+    <b><i>Advanced String Functions/Regex/Clause</i></b>
+  </th>
+  <tr>
+    <td><a href="Solutions/SQL/fix_names_in_a_table.sql">1667. Fix Names in a Table</td>
+  </tr>
+</table>
