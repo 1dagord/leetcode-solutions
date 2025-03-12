@@ -7,13 +7,13 @@
     - binary search
 
     Stats:
-        Runtime | 2 ms      [Beats 36.21%]
-        Memory  | 18.08 MB  [Beats 41.77%]
+        Runtime | 0 ms      [Beats 100%]
+        Memory  | 17.92 MB  [Beats 69.11%]
 """
 
 class Solution:
     def maximumCount(self, nums: List[int]) -> int:
-        nums = list(filter(lambda num: num, nums))
+        nums = [num for num in nums if num]
         n = len(nums)
 
         def get_insert_position(target: int):
