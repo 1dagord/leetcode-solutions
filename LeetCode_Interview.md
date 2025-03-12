@@ -45,24 +45,28 @@
       <td>189. Rotate Array</td>
       <td>
         <a href="Solutions/Python/rotate_array.py">Python</a>
+         | <a href="Solutions/Cpp/rotate_array.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>121. Best Time to Buy and Sell Stock</td>
       <td>
         <a href="Solutions/Python/best_time_to_buy_and_sell_stock.py">Python</a>
+         | <a href="Solutions/Cpp/best_time_to_buy_and_sell_stock.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>122. Best Time to Buy and Sell Stock II</td>
       <td>
         <a href="Solutions/Python/best_time_to_buy_and_sell_stock_ii.py">Python</a>
+         | <a href="Solutions/Cpp/best_time_to_buy_and_sell_stock_ii.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>55. Jump Game</td>
       <td>
         <a href="Solutions/Python/jump_game.py">Python</a>
+         | <a href="Solutions/Cpp/jump_game.cpp">C++</a>
       </td>
     </tr>
     <tr>
