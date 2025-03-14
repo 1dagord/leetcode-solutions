@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/14/25 | [2226. Maximum Candies Allocated to K Children](Solutions/Python/maximum_candies_allocated_to_k_children.py) |
 | 03/13/25 | [3356. Zero Array Transformation II](Solutions/Python/zero_array_transformation_ii.py) |
 | 03/12/25 | [2529. Maximum Count of Positive Integer and Negative Integer](Solutions/Python/maximum_count_of_positive_integer_and_negative_integer.py) |
 | 03/11/25 | [1358. Number of Substrings Containing All Three Characters](Solutions/Python/number_of_substrings_containing_all_three_characters.py) |
