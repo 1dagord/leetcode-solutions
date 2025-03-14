@@ -73,18 +73,21 @@
       <td>45. Jump Game II</td>
       <td>
         <a href="Solutions/Python/jump_game_ii.py">Python</a>
+         | <a href="Solutions/Cpp/jump_game_ii.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>274. H-Index</td>
       <td>
         <a href="Solutions/Python/h_index.py">Python</a>
+         | <a href="Solutions/Cpp/h_index.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>380. Insert Delete GetRandom O(1)</td>
       <td>
         <a href="Solutions/Python/insert_delete_getrandom_o_1.py">Python</a>
+         | <a href="Solutions/Cpp/insert_delete_getrandom_o_1.cpp">C++</a>
       </td>
     </tr>
     <tr>
