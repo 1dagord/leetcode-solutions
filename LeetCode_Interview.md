@@ -94,12 +94,14 @@
       <td>238. Product of Array Except Self</td>
       <td>
         <a href="Solutions/Python/product_of_array_except_self.py">Python</a>
+         | <a href="Solutions/Cpp/product_of_array_except_self.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>134. Gas Station</td>
       <td>
         <a href="Solutions/Python/gas_station.py">Python</a>
+         | <a href="Solutions/Cpp/gas_station.cpp">C++</a>
       </td>
     </tr>
     <tr>
