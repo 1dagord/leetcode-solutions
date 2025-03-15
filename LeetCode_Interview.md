@@ -143,6 +143,7 @@
       <td>14. Longest Common Prefix</td>
       <td>
         <a href="Solutions/Python/longest_common_prefix.py">Python</a>
+         | <a href="Solutions/Cpp/longest_common_prefix.cpp">C++</a>
       </td>
     </tr>
     <tr>
