@@ -18,7 +18,6 @@ public:
         std::vector<std::string> strs(num_rows);
         bool is_moving_down = true;
         int k = 0;
-        std::string res = "";
 
         for (int i = 0; i < s.length(); i++) {
             strs[k] += s[i];
@@ -30,8 +29,6 @@ public:
                 is_moving_down = false;
         }
         
-        for (const std::string str : strs)
-            res += str;
-        return res;
+        return std::accumulate(strs.begin(), strs.end(), std::string{});
     }
 };
