@@ -136,6 +136,7 @@
       <td>58. Length of Last Word</td>
       <td>
         <a href="Solutions/Python/length_of_last_word.py">Python</a>
+         | <a href="Solutions/Cpp/length_of_last_word.cpp">C++</a>
       </td>
     </tr>
     <tr>
