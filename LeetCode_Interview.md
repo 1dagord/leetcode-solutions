@@ -122,12 +122,14 @@
       <td>13. Roman to Integer</td>
       <td>
         <a href="Solutions/Python/roman_to_integer.py">Python</a>
+         | <a href="Solutions/Cpp/roman_to_integer.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>12. Integer to Roman</td>
       <td>
         <a href="Solutions/Python/integer_to_roman.py">Python</a>
+         | <a href="Solutions/Cpp/integer_to_roman.cpp">C++</a>
       </td>
     </tr>
     <tr>
