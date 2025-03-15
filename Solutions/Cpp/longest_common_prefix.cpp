@@ -20,20 +20,20 @@ public:
         is_leaf(false),
         nodes({})
     {}
-};
 
-void insert(TrieNode* root, const string& key) {
-    TrieNode* curr = root;
+    void insert(const string& str) {
+        TrieNode* curr = this;
 
-    for (char c : key) {
-        if (!curr->nodes.contains(c))
-            curr->nodes[c] = new TrieNode();
+        for (char c : str) {
+            if (!curr->nodes.contains(c))
+                curr->nodes[c] = new TrieNode();
 
-        curr = curr->nodes[c];
+            curr = curr->nodes[c];
+        }
+
+        curr->is_leaf = true;
     }
-
-    curr->is_leaf = true;
-}
+};
 
 class Solution {
 public:
@@ -42,7 +42,7 @@ public:
         std::string prefix = "";
 
         for (std::string word : strs)
-            insert(curr, word);
+            curr->insert(word);
 
         for (char c : strs[0]) {
             if (curr->nodes.size() > 1 || curr->is_leaf)
