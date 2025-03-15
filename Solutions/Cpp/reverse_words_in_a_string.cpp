@@ -12,7 +12,7 @@
 
 class Solution {
 public:
-    std::string reverseWords(std::string s) {
+    string reverseWords(string s) {
         std::string word = "", res = "";
         std::deque<std::string> words = {};
 
