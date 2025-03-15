@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/15/25 | [2560. House Robber IV](Solutions/Python/house_robber_iv.py) |
 | 03/14/25 | [2226. Maximum Candies Allocated to K Children](Solutions/Python/maximum_candies_allocated_to_k_children.py) |
 | 03/13/25 | [3356. Zero Array Transformation II](Solutions/Python/zero_array_transformation_ii.py) |
 | 03/12/25 | [2529. Maximum Count of Positive Integer and Negative Integer](Solutions/Python/maximum_count_of_positive_integer_and_negative_integer.py) |
