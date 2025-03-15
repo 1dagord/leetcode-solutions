@@ -197,6 +197,7 @@
       <td>167. Two Sum II - Input Array Is Sorted</td>
       <td>
         <a href="Solutions/Python/two_sum_ii_input_array_is_sorted.py">Python</a>
+         | <a href="Solutions/Cpp/two_sum_ii_input_array_is_sorted.cpp">C++</a>
       </td>
     </tr>
     <tr>
