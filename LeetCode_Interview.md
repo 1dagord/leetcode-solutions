@@ -150,18 +150,21 @@
       <td>151. Reverse Words in a String</td>
       <td>
         <a href="Solutions/Python/reverse_words_in_a_string.py">Python</a>
+         | <a href="Solutions/Cpp/reverse_words_in_a_string.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>6. Zigzag Conversion</td>
       <td>
         <a href="Solutions/Python/zigzag_conversion.py">Python</a>
+         | <a href="Solutions/Cpp/zigzag_conversion.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>28. Find the Index of the First Occurrence in a String</td>
       <td>
         <a href="Solutions/Python/find_the_index_of_the_first_occurrence_in_a_string.py">Python</a>
+         | <a href="Solutions/Cpp/find_the_index_of_the_first_occurrence_in_a_string.cpp">C++</a>
       </td>
     </tr>
     <tr>
