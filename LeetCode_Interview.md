@@ -108,12 +108,14 @@
       <td>135. Candy</td>
       <td>
         <a href="Solutions/Python/candy.py">Python</a>
+         | <a href="Solutions/Cpp/candy.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>42. Trapping Rain Water</td>
       <td>
         <a href="Solutions/Python/trapping_rain_water.py">Python</a>
+         | <a href="Solutions/Cpp/trapping_rain_water.cpp">C++</a>
       </td>
     </tr>
     <tr>
