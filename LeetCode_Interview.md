@@ -204,12 +204,14 @@
       <td>11. Container With Most Water</td>
       <td>
         <a href="Solutions/Python/container_with_most_water.py">Python</a>
+         | <a href="Solutions/Cpp/container_with_most_water.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>15. 3Sum</td>
       <td>
         <a href="Solutions/Python/3sum.py">Python</a>
+         | <a href="Solutions/Cpp/3sum.cpp">C++</a>
       </td>
     </tr>
   </table>
