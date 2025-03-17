@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/17/25 | [2206. Divide Array Into Equal Pairs](Solutions/Python/divide_array_into_equal_pairs.py) |
 | 03/16/25 | [2594. Minimum Time to Repair Cars](Solutions/Python/minimum_time_to_repair_cars.py) |
 | 03/15/25 | [2560. House Robber IV](Solutions/Python/house_robber_iv.py) |
 | 03/14/25 | [2226. Maximum Candies Allocated to K Children](Solutions/Python/maximum_candies_allocated_to_k_children.py) |
