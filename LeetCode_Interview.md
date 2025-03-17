@@ -224,6 +224,7 @@
       <td>209. Minimum Size Subarray Sum</td>
       <td>
         <a href="Solutions/Python/minimum_size_subarray_sum.py">Python</a>
+         | <a href="Solutions/Cpp/minimum_size_subarray_sum.cpp">C++</a>
       </td>
     </tr>
     <tr>
@@ -255,30 +256,35 @@
       <td>36. Valid Sudoku</td>
       <td>
         <a href="Solutions/Python/valid_sudoku.py">Python</a>
+         | <a href="Solutions/Cpp/valid_sudoku.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>54. Spiral Matrix</td>
       <td>
         <a href="Solutions/Python/spiral_matrix.py">Python</a>
+         | <a href="Solutions/Cpp/spiral_matrix.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>48. Rotate Image</td>
       <td>
         <a href="Solutions/Python/rotate_image.py">Python</a>
+         | <a href="Solutions/Cpp/rotate_image.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>73. Set Matrix Zeroes</td>
       <td>
         <a href="Solutions/Python/set_matrix_zeroes.py">Python</a>
+         | <a href="Solutions/Cpp/set_matrix_zeroes.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>289. Game of Life</td>
       <td>
         <a href="Solutions/Python/game_of_life.py">Python</a>
+         | <a href="Solutions/Cpp/game_of_life.cpp">C++</a>
       </td>
     </tr>
   </table>
