@@ -14,6 +14,12 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
+        /*
+            1) keep track of window through two pointers
+            2) grow window by incrementing right pointer
+            3) if window sum exceeds target, decrease window
+                size from left and continue
+        */
         int n = nums.size();
         int min_len = n+1;
         int left = 0, curr_sum = 0;
