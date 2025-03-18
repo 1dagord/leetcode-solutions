@@ -297,36 +297,42 @@
       <td>383. Ransom Note</td>
       <td>
         <a href="Solutions/Python/ransom_note.py">Python</a>
+         | <a href="Solutions/Cpp/ransom_note.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>205. Isomorphic Strings</td>
       <td>
         <a href="Solutions/Python/isomorphic_strings.py">Python</a>
+         | <a href="Solutions/Cpp/isomorphic_strings.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>290. Word Pattern</td>
       <td>
         <a href="Solutions/Python/word_pattern.py">Python</a>
+         | <a href="Solutions/Cpp/word_pattern.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>242. Valid Anagram</td>
       <td>
         <a href="Solutions/Python/valid_anagram.py">Python</a>
+         | <a href="Solutions/Cpp/valid_anagram.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>49. Group Anagrams</td>
       <td>
         <a href="Solutions/Python/group_anagrams.py">Python</a>
+         | <a href="Solutions/Cpp/group_anagrams.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>1. Two Sum</td>
       <td>
         <a href="Solutions/Python/two_sum.py">Python</a>
+         | <a href="Solutions/Cpp/two_sum.cpp">C++</a>
       </td>
     </tr>
     <tr>
@@ -340,12 +346,14 @@
       <td>219. Contains Duplicate II</td>
       <td>
         <a href="Solutions/Python/contains_duplicate_ii.py">Python</a>
+         | <a href="Solutions/Cpp/contains_duplicate_ii.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>128. Longest Consecutive Sequence</td>
       <td>
         <a href="Solutions/Python/longest_consecutive_sequence.py">Python</a>
+         | <a href="Solutions/Cpp/longest_consecutive_sequence.cpp">C++</a>
       </td>
     </tr>
   </table>
