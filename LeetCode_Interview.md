@@ -380,12 +380,14 @@
       <td>57. Insert Interval</td>
       <td>
         <a href="Solutions/Python/insert_interval.py">Python</a>
+         | <a href="Solutions/Cpp/insert_interval.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>452. Minimum Number of Arrows to Burst Balloons</td>
       <td>
         <a href="Solutions/Python/minimum_number_of_arrows_to_burst_balloons.py">Python</a>
+         | <a href="Solutions/Cpp/minimum_number_of_arrows_to_burst_balloons.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -398,24 +400,28 @@
       <td>20. Valid Parentheses</td>
       <td>
         <a href="Solutions/Python/valid_parentheses.py">Python</a>
+         | <a href="Solutions/Cpp/valid_parentheses.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>71. Simplify Path</td>
       <td>
         <a href="Solutions/Python/simplify_path.py">Python</a>
+         | <a href="Solutions/Cpp/simplify_path.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>155. Min Stack</td>
       <td>
         <a href="Solutions/Python/min_stack.py">Python</a>
+         | <a href="Solutions/Cpp/min_stack.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>150. Evaluate Reverse Polish Notation</td>
       <td>
         <a href="Solutions/Python/evaluate_reverse_polish_notation.py">Python</a>
+         | <a href="Solutions/Cpp/evaluate_reverse_polish_notation.cpp">C++</a>
       </td>
     </tr>
     <tr>
