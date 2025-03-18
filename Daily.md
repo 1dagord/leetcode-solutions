@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/18/25 | [2401. Longest Nice Subarray](Solutions/Python/longest_nice_subarray.py) |
 | 03/17/25 | [2206. Divide Array Into Equal Pairs](Solutions/Python/divide_array_into_equal_pairs.py) |
 | 03/16/25 | [2594. Minimum Time to Repair Cars](Solutions/Python/minimum_time_to_repair_cars.py) |
 | 03/15/25 | [2560. House Robber IV](Solutions/Python/house_robber_iv.py) |
