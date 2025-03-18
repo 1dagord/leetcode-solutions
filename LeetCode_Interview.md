@@ -366,12 +366,14 @@
       <td>228. Summary Ranges</td>
       <td>
         <a href="Solutions/Python/summary_ranges.py">Python</a>
+         | <a href="Solutions/Cpp/summary_ranges.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>56. Merge Intervals</td>
       <td>
         <a href="Solutions/Python/merge_intervals.py">Python</a>
+         | <a href="Solutions/Cpp/merge_intervals.cpp">C++</a>
       </td>
     </tr>
     <tr>
