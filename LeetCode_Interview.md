@@ -447,24 +447,28 @@
       <td>2. Add Two Numbers</td>
       <td>
         <a href="Solutions/Python/add_two_numbers.py">Python</a>
+         | <a href="Solutions/Cpp/add_two_numbers.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>21. Merge Two Sorted Lists</td>
       <td>
         <a href="Solutions/Python/merge_two_sorted_lists.py">Python</a>
+         | <a href="Solutions/Cpp/merge_two_sorted_lists.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>138. Copy List with Random Pointer</td>
       <td>
         <a href="Solutions/Python/copy_list_with_random_pointer.py">Python</a>
+         | <a href="Solutions/Cpp/copy_list_with_random_pointer.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>92. Reverse Linked List II</td>
       <td>
         <a href="Solutions/Python/reverse_linked_list_ii.py">Python</a>
+         | <a href="Solutions/Cpp/reverse_linked_list_ii.cpp">C++</a>
       </td>
     </tr>
     <tr>
