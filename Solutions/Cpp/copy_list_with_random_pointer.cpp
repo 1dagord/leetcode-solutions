@@ -57,7 +57,7 @@ public:
             curr = curr->next;
         }
 
-        // return cop of new list
+        // return copy of new list
         return orig_to_cpy[head];
     }
 };
