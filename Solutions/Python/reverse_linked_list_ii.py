@@ -7,7 +7,7 @@
 
     Stats:
         Runtime | 0 ms      [Beats 100%]
-        Memory  | 16.70 MB  [Beats 33.44%]
+        Memory  | 16.70 MB  [Beats 100%]
 """
 
 # Definition for singly-linked list.
