@@ -475,12 +475,14 @@
       <td>25. Reverse Nodes in k-Group</td>
       <td>
         <a href="Solutions/Python/reverse_nodes_in_k_group.py">Python</a>
+         | <a href="Solutions/Cpp/reverse_nodes_in_k_group.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>19. Remove Nth Node From End of List</td>
       <td>
         <a href="Solutions/Python/remove_nth_node_from_end_of_list.py">Python</a>
+         | <a href="Solutions/Cpp/remove_nth_node_from_end_of_list.cpp">C++</a>
       </td>
     </tr>
     <tr>
