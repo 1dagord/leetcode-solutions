@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/20/25 | [3108. Minimum Cost Walk in Weighted Graph](Solutions/Python/minimum_cost_walk_in_weighted_graph.py) |
 | 03/19/25 | [3191. Minimum Operations to Make Binary Array Elements Equal to One I](Solutions/Python/minimum_operations_to_make_binary_array_elements_equal_to_one_i.py) |
 | 03/18/25 | [2401. Longest Nice Subarray](Solutions/Python/longest_nice_subarray.py) |
 | 03/17/25 | [2206. Divide Array Into Equal Pairs](Solutions/Python/divide_array_into_equal_pairs.py) |
