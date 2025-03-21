@@ -525,12 +525,14 @@
       <td>104. Maximum Depth of Binary Tree</td>
       <td>
         <a href="Solutions/Python/maximum_depth_of_binary_tree.py">Python</a>
+         | <a href="Solutions/Cpp/maximum_depth_of_binary_tree.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>100. Same Tree</td>
       <td>
         <a href="Solutions/Python/same_tree.py">Python</a>
+         | <a href="Solutions/Cpp/same_tree.cpp">C++</a>
       </td>
     </tr>
     <tr>
@@ -544,6 +546,7 @@
       <td>101. Symmetric Tree</td>
       <td>
         <a href="Solutions/Python/symmetric_tree.py">Python</a>
+         | <a href="Solutions/Cpp/symmetric_tree.cpp">C++</a>
       </td>
     </tr>
     <tr>
