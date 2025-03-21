@@ -238,12 +238,14 @@
       <td>30. Substring with Concatenation of All Words</td>
       <td>
         <a href="Solutions/Python/substring_with_concatenation_of_all_words.py">Python</a>
+         | <a href="Solutions/Cpp/substring_with_concatenation_of_all_words.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>76. Minimum Window Substring</td>
       <td>
         <a href="Solutions/Python/minimum_window_substring.py">Python</a>
+         | <a href="Solutions/Cpp/minimum_window_substring.cpp">C++</a>
       </td>
     </tr>
   </table>
