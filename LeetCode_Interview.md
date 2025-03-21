@@ -428,6 +428,7 @@
       <td>224. Basic Calculator</td>
       <td>
         <a href="Solutions/Python/basic_calculator.py">Python</a>
+         | <a href="Solutions/Cpp/basic_calculator.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -489,18 +490,21 @@
       <td>82. Remove Duplicates from Sorted List II</td>
       <td>
         <a href="Solutions/Python/remove_duplicates_from_sorted_linked_list_ii.py">Python</a>
+         | <a href="Solutions/Cpp/remove_duplicates_from_sorted_linked_list_ii.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>61. Rotate List</td>
       <td>
         <a href="Solutions/Python/rotate_list.py">Python</a>
+         | <a href="Solutions/Cpp/rotate_list.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>86. Partition List</td>
       <td>
         <a href="Solutions/Python/partition_list.py">Python</a>
+         | <a href="Solutions/Cpp/partition_list.cpp">C++</a>
       </td>
     </tr>
     <tr>
