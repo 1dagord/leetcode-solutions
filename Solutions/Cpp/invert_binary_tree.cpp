@@ -8,7 +8,7 @@
 
     Stats:
         Runtime | 0 ms      [Beats 100%]
-        Memory  | 12.36 MB  [Beats 63.59%]
+        Memory  | 12.32 MB  [Beats 85.95%]
 */
 
 /**
@@ -25,21 +25,13 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        if (root == nullptr) {
-            return nullptr;
-        }
-        
-        swapTrees(root);
+        if (root == nullptr)
+            return root;
 
+        std::swap(root->left, root->right);
         invertTree(root->left);
         invertTree(root->right);
-        return root;
-    }
 
-    void swapTrees(TreeNode* root) {
-        TreeNode* temp = root->left;
-        root->left = root->right;
-        root->right = temp;
-        return;
+        return root;
     }
 };
