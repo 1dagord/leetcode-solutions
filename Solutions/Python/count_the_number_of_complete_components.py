@@ -23,7 +23,7 @@ class Solution:
             graph[a].add(b)
             graph[b].add(a)
 
-        def dfs(curr: int):
+        def dfs(curr: int) -> None:
             nonlocal visited, components
 
             visited.add(curr)
