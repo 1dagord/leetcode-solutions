@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/23/25 | [1976. Number of Ways to Arrive at Destination](Solutions/Python/number_of_ways_to_arrive_at_destination.py) |
 | 03/22/25 | [2685. Count the Number of Complete Components](Solutions/Python/count_the_number_of_complete_components.py) |
 | 03/21/25 | [2115. Find All Possible Recipes from Given Supplies](Solutions/Python/find_all_possible_recipes_from_given_supplies.py) |
 | 03/20/25 | [3108. Minimum Cost Walk in Weighted Graph](Solutions/Python/minimum_cost_walk_in_weighted_graph.py) |
