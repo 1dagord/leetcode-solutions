@@ -553,18 +553,21 @@
       <td>105. Construct Binary Tree from Preorder and Inorder Traversal</td>
       <td>
         <a href="Solutions/Python/construct_binary_tree_from_preorder_and_inorder_traversal.py">Python</a>
+         | <a href="Solutions/Cpp/construct_binary_tree_from_preorder_and_inorder_traversal.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>106. Construct Binary Tree from Inorder and Postorder Traversal</td>
       <td>
         <a href="Solutions/Python/construct_binary_tree_from_inorder_and_postorder_traversal.py">Python</a>
+         | <a href="Solutions/Cpp/construct_binary_tree_from_inorder_and_postorder_traversal.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>117. Populating Next Right Pointers in Each Node II</td>
       <td>
         <a href="Solutions/Python/populating_next_right_pointers_in_each_node_ii.py">Python</a>
+         | <a href="Solutions/Cpp/populating_next_right_pointers_in_each_node_ii.cpp">C++</a>
       </td>
     </tr>
     <tr>
