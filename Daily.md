@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/26/25 | [2033. Minimum Operations to Make a Uni-Value Grid](Solutions/Python/minimum_operations_to_make_a_uni_value_grid.py) |
 | 03/25/25 | [3394. Check if Grid can be Cut into Sections](Solutions/Python/check_if_grid_can_be_cut_intosections.py) |
 | 03/24/25 | [3169. Count Days Without Meetings](Solutions/Python/count_days_without_meetings.py) |
 | 03/23/25 | [1976. Number of Ways to Arrive at Destination](Solutions/Python/number_of_ways_to_arrive_at_destination.py) |
