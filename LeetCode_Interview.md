@@ -574,18 +574,21 @@
       <td>114. Flatten Binary Tree to Linked List</td>
       <td>
         <a href="Solutions/Python/flatten_binary_tree_to_linked_list.py">Python</a>
+         | <a href="Solutions/Cpp/flatten_binary_tree_to_linked_list.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>112. Path Sum</td>
       <td>
         <a href="Solutions/Python/path_sum.py">Python</a>
+         | <a href="Solutions/Cpp/path_sum.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>129. Sum Root to Leaf Numbers</td>
       <td>
         <a href="Solutions/Python/sum_root_to_leaf_numbers.py">Python</a>
+         | <a href="Solutions/Cpp/sum_root_to_leaf_numbers.cpp">C++</a>
       </td>
     </tr>
     <tr>
