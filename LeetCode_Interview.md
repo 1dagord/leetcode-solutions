@@ -629,24 +629,28 @@
       <td>199. Binary Tree Right Side View</td>
       <td>
         <a href="Solutions/Python/binary_tree_right_side_view.py">Python</a>
+         | <a href="Solutions/Cpp/binary_tree_right_side_view.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>637. Average of Levels in Binary Tree</td>
       <td>
         <a href="Solutions/Python/average_of_levels_in_binary_tree.py">Python</a>
+         | <a href="Solutions/Cpp/average_of_levels_in_binary_tree.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>102. Binary Tree Level Order Traversal</td>
       <td>
         <a href="Solutions/Python/binary_tree_level_order_traversal.py">Python</a>
+         | <a href="Solutions/Cpp/binary_tree_level_order_traversal.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>103. Binary Tree Zigzag Level Order Traversal</td>
       <td>
         <a href="Solutions/Python/binary_tree_zigzag_level_order_traversal.py">Python</a>
+         | <a href="Solutions/Cpp/binary_tree_zigzag_level_order_traversal.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -666,12 +670,14 @@
       <td>230. Kth Smallest Element in a BST</td>
       <td>
         <a href="Solutions/Python/kth_smallest_element_in_a_bst.py">Python</a>
+         | <a href="Solutions/Cpp/kth_smallest_element_in_a_bst.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>98. Validate Binary Search Tree</td>
       <td>
         <a href="Solutions/Python/validate_binary_search_tree.py">Python</a>
+         | <a href="Solutions/Cpp/validate_binary_search_tree.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -684,18 +690,21 @@
       <td>200. Number of Islands</td>
       <td>
         <a href="Solutions/Python/number_of_islands.py">Python</a>
+         | <a href="Solutions/Cpp/number_of_islands.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>130. Surrounded Regions</td>
       <td>
         <a href="Solutions/Python/surrounded_regions.py">Python</a>
+         | <a href="Solutions/Cpp/surrounded_regions.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>133. Clone Graph</td>
       <td>
         <a href="Solutions/Python/clone_graph.py">Python</a>
+         | <a href="Solutions/Cpp/clone_graph.cpp">C++</a>
       </td>
     </tr>
     <tr>
@@ -708,6 +717,7 @@
       <td>207. Course Schedule</td>
       <td>
         <a href="Solutions/Python/course_schedule.py">Python</a>
+         | <a href="Solutions/Cpp/course_schedule.cpp">C++</a>
       </td>
     </tr>
     <tr>
