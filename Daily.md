@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/28/25 | [2503. Maximum Number of Points From Grid Queries](Solutions/Python/maximum_number_of_points_from_grid_queries.py) |
 | 03/27/25 | [2780. Minimum Index of a Valid Split](Solutions/Python/minimum_index_of_a_valid_split.py) |
 | 03/26/25 | [2033. Minimum Operations to Make a Uni-Value Grid](Solutions/Python/minimum_operations_to_make_a_uni_value_grid.py) |
 | 03/25/25 | [3394. Check if Grid can be Cut into Sections](Solutions/Python/check_if_grid_can_be_cut_intosections.py) |
