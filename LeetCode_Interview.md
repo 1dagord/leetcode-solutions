@@ -736,6 +736,7 @@
       <td>909. Snakes and Ladders</td>
       <td>
         <a href="Solutions/Python/snakes_and_ladders.py">Python</a>
+         | <a href="Solutions/Cpp/snakes_and_ladders.cpp">C++</a>
       </td>
     </tr>
     <tr>
