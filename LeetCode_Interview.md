@@ -743,12 +743,14 @@
       <td>433. Minimum Genetic Mutation</td>
       <td>
         <a href="Solutions/Python/minimum_genetic_mutation.py">Python</a>
+         | <a href="Solutions/Cpp/minimum_genetic_mutation.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>127. Word Ladder</td>
       <td>
         <a href="Solutions/Python/word_ladder.py">Python</a>
+         | <a href="Solutions/Cpp/word_ladder.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -761,12 +763,14 @@
       <td>208. Implement Trie (Prefix Tree)</td>
       <td>
         <a href="Solutions/Python/implement_trie_prefix_tree.py">Python</a>
+         | <a href="Solutions/Cpp/implement_trie_prefix_tree.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>211. Design Add and Search Words Data Structure</td>
       <td>
         <a href="Solutions/Python/design_add_and_search_words_data_structure.py">Python</a>
+         | <a href="Solutions/Cpp/design_add_and_search_words_data_structure.cpp">C++</a>
       </td>
     </tr>
     <tr>
