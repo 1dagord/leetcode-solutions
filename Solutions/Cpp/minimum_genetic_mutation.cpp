@@ -35,7 +35,7 @@ public:
         int count = 0;
 
         std::queue<std::pair<std::string, int>> q;
-        q.push(std::make_pair(start, 0));
+        q.push({start, 0});
         int len_q, mutations;
         std::string curr;
 
