@@ -777,6 +777,7 @@
       <td>212. Word Search II</td>
       <td>
         <a href="Solutions/Python/word_search_ii.py">Python</a>
+         | <a href="Solutions/Cpp/word_search_ii.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -789,6 +790,7 @@
       <td>17. Letter Combinations of a Phone Number</td>
       <td>
         <a href="Solutions/Python/letter_combinations_of_a_phone_number.py">Python</a>
+         | <a href="Solutions/Cpp/letter_combinations_of_a_phone_number.cpp">C++</a>
       </td>
     </tr>
     <tr>
