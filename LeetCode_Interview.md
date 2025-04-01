@@ -797,12 +797,14 @@
       <td>77. Combinations</td>
       <td>
         <a href="Solutions/Python/combinations.py">Python</a>
+         | <a href="Solutions/Cpp/combinations.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>46. Permutations</td>
       <td>
         <a href="Solutions/Python/permutations.py">Python</a>
+         | <a href="Solutions/Cpp/permutations.cpp">C++</a>
       </td>
     </tr>
     <tr>
