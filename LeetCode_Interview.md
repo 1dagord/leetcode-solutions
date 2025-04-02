@@ -811,6 +811,7 @@
       <td>39. Combination Sum</td>
       <td>
         <a href="Solutions/Python/combination_sum.py">Python</a>
+         | <a href="Solutions/Cpp/combination_sum.cpp">C++</a>
       </td>
     </tr>
     <tr>
