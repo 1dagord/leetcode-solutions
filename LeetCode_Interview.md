@@ -832,6 +832,7 @@
       <td>79. Word Search</td>
       <td>
         <a href="Solutions/Python/word_search.py">Python</a>
+         | <a href="Solutions/Cpp/word_search.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -850,6 +851,7 @@
       <td>148. Sort List</td>
       <td>
         <a href="Solutions/Python/sort_list.py">Python</a>
+         | <a href="Solutions/Cpp/sort_list.cpp">C++</a>
       </td>
     </tr>
     <tr>
@@ -874,6 +876,7 @@
       <td>53. Maximum Subarray</td>
       <td>
         <a href="Solutions/Python/maximum_subarray.py">Python</a>
+         | <a href="Solutions/Cpp/maximum_subarray.cpp">C++</a>
       </td>
     </tr>
     <tr>
