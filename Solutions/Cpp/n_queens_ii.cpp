@@ -1,5 +1,5 @@
 /*
-    [MEDIUM]
+    [HARD]
     52. N-Queens II
 
     Concepts:
