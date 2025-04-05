@@ -918,24 +918,28 @@
       <td>33. Search in Rotated Sorted Array</td>
       <td>
         <a href="Solutions/Python/search_in_rotated_sorted_array.py">Python</a>
+         | <a href="Solutions/Cpp/search_in_rotated_sorted_array.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>34. Find First and Last Position of Element in Sorted Array</td>
       <td>
         <a href="Solutions/Python/find_first_and_last_position_of_element_in_sorted_array.py">Python</a>
+         | <a href="Solutions/Cpp/find_first_and_last_position_of_element_in_sorted_array.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>153. Find Minimum in Rotated Sorted Array</td>
       <td>
         <a href="Solutions/Python/find_minimum_in_rotated_sorted_array.py">Python</a>
+         | <a href="Solutions/Cpp/find_minimum_in_rotated_sorted_array.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>4. Median of Two Sorted Arrays</td>
       <td>
         <a href="Solutions/Python/median_of_two_sorted_arrays.py">Python</a>
+         | <a href="Solutions/Cpp/median_of_two_sorted_arrays.cpp">C++</a>
       </td>
     </tr>
   </table>
