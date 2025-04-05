@@ -864,6 +864,7 @@
       <td>23. Merge k Sorted Lists</td>
       <td>
         <a href="Solutions/Python/merge_k_sorted_lists.py">Python</a>
+         | <a href="Solutions/Cpp/merge_k_sorted_lists.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -883,6 +884,7 @@
       <td>918. Maximum Sum Circular Subarray</td>
       <td>
         <a href="Solutions/Python/maximum_sum_circular_subarray.py">Python</a>
+         | <a href="Solutions/Cpp/maximum_sum_circular_subarray.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -895,18 +897,21 @@
       <td>35. Search Insert Position</td>
       <td>
         <a href="Solutions/Python/search_insert_position.py">Python</a>
+         | <a href="Solutions/Cpp/search_insert_position.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>74. Search a 2D Matrix</td>
       <td>
         <a href="Solutions/Python/search_a_2d_matrix.py">Python</a>
+         | <a href="Solutions/Cpp/search_a_2d_matrix.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>162. Find Peak Element</td>
       <td>
         <a href="Solutions/Python/find_peak_element.py">Python</a>
+         | <a href="Solutions/Cpp/find_peak_element.cpp">C++</a>
       </td>
     </tr>
     <tr>
