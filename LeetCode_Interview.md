@@ -724,6 +724,7 @@
       <td>210. Course Schedule II</td>
       <td>
         <a href="Solutions/Python/course_schedule_ii.py">Python</a>
+         | <a href="Solutions/Cpp/course_schedule_ii.cpp">C++</a>
       </td>
     </tr>
   </table>
