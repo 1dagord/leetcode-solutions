@@ -845,6 +845,7 @@
       <td>108. Convert Sorted Array to Binary Search Tree</td>
       <td>
         <a href="Solutions/Python/convert_sorted_array_to_binary_search_tree.py">Python</a>
+         | <a href="Solutions/Cpp/convert_sorted_array_to_binary_search_tree.cpp">C++</a>
       </td>
     </tr>
     <tr>
@@ -858,6 +859,7 @@
       <td>427. Construct Quad Tree</td>
       <td>
         <a href="Solutions/Python/construct_quad_tree.py">Python</a>
+         | <a href="Solutions/Cpp/construct_quad_tree.cpp">C++</a>
       </td>
     </tr>
     <tr>
