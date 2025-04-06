@@ -952,6 +952,7 @@
       <td>215. Kth Largest Element in an Array</td>
       <td>
         <a href="Solutions/Python/kth_largest_element_in_an_array.py">Python</a>
+         | <a href="Solutions/Cpp/kth_largest_element_in_an_array.cpp">C++</a>
       </td>
     </tr>
     <tr>
