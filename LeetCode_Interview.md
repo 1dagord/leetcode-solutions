@@ -989,6 +989,7 @@
       <td>67. Add Binary</td>
       <td>
         <a href="Solutions/Python/add_binary.py">Python</a>
+         | <a href="Solutions/Cpp/add_binary.cpp">C++</a>
       </td>
     </tr>
     <tr>
