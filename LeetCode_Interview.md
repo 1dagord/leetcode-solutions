@@ -1010,18 +1010,21 @@
       <td>136. Single Number</td>
       <td>
         <a href="Solutions/Python/single_number.py">Python</a>
+         | <a href="Solutions/Cpp/single_number.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>137. Single Number II</td>
       <td>
         <a href="Solutions/Python/single_number_ii.py">Python</a>
+         | <a href="Solutions/Cpp/single_number_ii.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>201. Bitwise AND of Numbers Range</td>
       <td>
         <a href="Solutions/Python/bitwise_and_of_numbers_range.py">Python</a>
+         | <a href="Solutions/Cpp/bitwise_and_of_numbers_range.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -1034,36 +1037,42 @@
       <td>9. Palindrome Number</td>
      <td>
        <a href="Solutions/Python/palindrome_number.py">Python</a>
+        | <a href="Solutions/Cpp/palindrome_number.cpp">C++</a>
      </td>
     </tr>
     <tr>
       <td>66. Plus One</td>
       <td>
         <a href="Solutions/Python/plus_one.py">Python</a>
+         | <a href="Solutions/Cpp/plus_one.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>172. Factorial Trailing Zeroes</td>
       <td>
         <a href="Solutions/Python/factorial_trailing_zeroes.py">Python</a>
+         | <a href="Solutions/Cpp/factorial_trailing_zeroes.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>69. Sqrt(x)</td>
       <td>
         <a href="Solutions/Python/sqrt_x.py">Python</a>
+         | <a href="Solutions/Cpp/sqrt_x.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>50. Pow(x, n)</td>
       <td>
         <a href="Solutions/Python/pow_x_n.py">Python</a>
+         | <a href="Solutions/Cpp/pow_x_n.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>149. Max Points on a Line</td>
       <td>
         <a href="Solutions/Python/max_points_on_a_line.py">Python</a>
+         | <a href="Solutions/Cpp/max_points_on_a_line.cpp">C++</a>
       </td>
     </tr>
   </table>
