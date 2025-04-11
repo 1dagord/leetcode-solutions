@@ -1085,30 +1085,35 @@
       <td>70. Climbing Stairs</td>
       <td>
         <a href="Solutions/Python/climbing_stairs.py">Python</a>
+         | <a href="Solutions/Cpp/climbing_stairs.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>198. House Robber</td>
       <td>
         <a href="Solutions/Python/house_robber.py">Python</a>
+         | <a href="Solutions/Cpp/house_robber.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>139. Word Break</td>
       <td>
         <a href="Solutions/Python/word_break.py">Python</a>
+         | <a href="Solutions/Cpp/word_break.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>322. Coin Change</td>
       <td>
         <a href="Solutions/Python/coin_change.py">Python</a>
+         | <a href="Solutions/Cpp/coin_change.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>300. Longest Increasing Subsequence</td>
       <td>
         <a href="Solutions/Python/longest_increasing_subsequence.py">Python</a>
+         | <a href="Solutions/Cpp/longest_increasing_subsequence.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -1117,6 +1122,13 @@
     <th colspan="2">
       <b><i>Multidimensional DP</i></b>
     </th>
+    <tr>
+      <td>120. Triangle</td>
+      <td>
+        <a href="Solutions/Python/triangle.py">Python</a>
+         | <a href="Solutions/Cpp/triangle.cpp">C++</a>
+      </td>
+    </tr>
     <tr>
       <td>64. Minimum Path Sum</td>
       <td>
