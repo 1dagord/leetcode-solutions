@@ -13,6 +13,11 @@
 
 class Solution:
     def longestPalindrome(self, s: str) -> str:
+        """
+            Treat current char as center of palindrome
+            and expand outward until edges reached or
+            substring not a palindrome
+        """
         n = len(s)
         longest = ""
 
