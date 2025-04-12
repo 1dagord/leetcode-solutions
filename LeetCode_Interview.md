@@ -1133,12 +1133,21 @@
       <td>64. Minimum Path Sum</td>
       <td>
         <a href="Solutions/Python/minimum_path_sum.py">Python</a>
+         | <a href="Solutions/Cpp/minimum_path_sum.cpp">C++</a>
       </td>
     </tr>
     <tr>
       <td>63. Unique Paths II</td>
       <td>
         <a href="Solutions/Python/unique_paths_ii.py">Python</a>
+         | <a href="Solutions/Cpp/unique_paths_ii.cpp">C++</a>
+      </td>
+    </tr>
+    <tr>
+      <td>5. Longest Palindromic Substring</td>
+      <td>
+        <a href="Solutions/Python/longest_palindromic_substring.py">Python</a>
+         | <a href="Solutions/Cpp/longest_palindromic_substring.cpp">C++</a>
       </td>
     </tr>
     <tr>
