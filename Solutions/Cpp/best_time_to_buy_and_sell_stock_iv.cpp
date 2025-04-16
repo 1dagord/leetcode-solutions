@@ -8,7 +8,7 @@
 
     Stats:
         Runtime | 482 ms    [Beats 5.01%]
-        Memory  | 80.83 MB  [Beats 6.21%]
+        Memory  | 80.83 MB  [Beats 6.21%1]
 */
 
 class Solution {
