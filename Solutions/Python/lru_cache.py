@@ -3,6 +3,7 @@
     146. LRU Cache
 
     Concepts:
+    - design
     - hash table
     - linked list
 
