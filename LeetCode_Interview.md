@@ -171,6 +171,7 @@
       <td>68. Text Justification</td>
       <td>
         <a href="Solutions/Python/text_justification.py">Python</a>
+         | <a href="Solutions/Cpp/text_justification.cpp">C++</a>
       </td>
     </tr>
   </table>
@@ -513,6 +514,7 @@
       <td>146. LRU Cache</td>
       <td>
         <a href="Solutions/Python/lru_cache.py">Python</a>
+         | <a href="Solutions/Cpp/lru_cache.cpp">C++</a>
       </td>
     </tr>
   </table>
