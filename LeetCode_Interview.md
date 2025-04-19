@@ -713,6 +713,7 @@
       <td>399. Evaluate Division</td>
       <td>
         <a href="Solutions/Python/evaluate_division.py">Python</a>
+         | <a href="Solutions/Cpp/evaluate_division.cpp">C++</a>
       </td>
     </tr>
     <tr>
