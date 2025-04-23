@@ -76,6 +76,9 @@
   <tr>
     <td><a href="Solutions/JavaScript/debounce.js">2627. Debounce</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/execute_asynchronous_functions_in_parallel.js">2721. Execute Asynchronous Functions in Parallel</td>
+  </tr>
 </table>
 
 <table>
