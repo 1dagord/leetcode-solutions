@@ -91,6 +91,18 @@
   <tr>
     <td><a href="Solutions/JavaScript/chunk_array.js">2677. Chunk Array</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/array_prototype_last.js">2619. Array Prototype Last</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/group_by.js">2631. Group By</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/sort_by.js">2724. Sort By</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/flatten_deeply_nested_array.js">2625. Flatten Deeply Nested Array</a></td>
+  </tr>
 </table>
 
 <table>
