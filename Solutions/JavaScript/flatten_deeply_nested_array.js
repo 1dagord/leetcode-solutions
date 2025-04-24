@@ -33,3 +33,5 @@ var flat = function (arr, n) {
     }
     return recurse(arr, n);
 };
+
+// imitates built-in `Array.flat` function
