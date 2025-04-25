@@ -3,7 +3,7 @@
     1667. Fix Names in a Table
 
     Concepts:
-    - advanced string functions
+    - string
 
     Stats:
         Runtime | 626 ms    [Beats 96.19%]
