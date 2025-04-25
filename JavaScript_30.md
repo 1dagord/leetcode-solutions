@@ -77,7 +77,7 @@
     <td><a href="Solutions/JavaScript/debounce.js">2627. Debounce</a></td>
   </tr>
   <tr>
-    <td><a href="Solutions/JavaScript/execute_asynchronous_functions_in_parallel.js">2721. Execute Asynchronous Functions in Parallel</td>
+    <td><a href="Solutions/JavaScript/execute_asynchronous_functions_in_parallel.js">2721. Execute Asynchronous Functions in Parallel</a></td>
   </tr>
 </table>
 
@@ -101,7 +101,13 @@
     <td><a href="Solutions/JavaScript/sort_by.js">2724. Sort By</a></td>
   </tr>
   <tr>
+    <td><a href="Solutions/JavaScript/join_two_arrays_by_id.js">722. Join Two Arrays by ID</a></td>
+  </tr>
+  <tr>
     <td><a href="Solutions/JavaScript/flatten_deeply_nested_array.js">2625. Flatten Deeply Nested Array</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/JavaScript/compact_object.js">2705. Compact Object</a></td>
   </tr>
 </table>
 
@@ -109,6 +115,9 @@
   <th>
     <b><i>Classes</i></b>
   </th>
+  <tr>
+    <td><a href="Solutions/JavaScript/event_emitter.js">2694. Event Emitter</a></td>
+  </tr>
   <tr>
     <td><a href="Solutions/JavaScript/array_wrapper.js">2695. Array Wrapper</a></td>
   </tr>
