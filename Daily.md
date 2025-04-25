@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 04/24/25 | [2845. Count of Interesting Subarrays](Solutions/Python/count_of_interesting_subarrays.py) |
 | 04/23/25 | [2799. Count Complete Subarrays in an Array](Solutions/Python/count_complete_subarrays_in_an_array.py) |
 | 04/22/25 | [1399. Count Largest Group](Solutions/Python/count_largest_group.py) |
 | 03/28/25 | [2503. Maximum Number of Points From Grid Queries](Solutions/Python/maximum_number_of_points_from_grid_queries.py) |
