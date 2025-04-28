@@ -160,6 +160,9 @@
   <tr>
     <td><a href="Solutions/SQL/investments_in_2016.sql">585. Investments in 2016</a></td>
   </tr>
+  <tr>
+    <td><a href="Solutions/SQL/department_top_three_salaries.sql">185. Department Top Three Salaries</a></td>
+  </tr>
 </table>
 
 <table>
@@ -168,5 +171,23 @@
   </th>
   <tr>
     <td><a href="Solutions/SQL/fix_names_in_a_table.sql">1667. Fix Names in a Table</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/patients_with_a_condition.sql">1527. Patients With a Condition</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/delete_duplicate_emails.sql">196. Delete Duplicate Emails</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/second_highest_salary.sql">176. Second Highest Salary</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/group_sold_products_by_the_date.sql">1484. Group Sold Products By The Date</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/list_the_products_ordered_in_a_period.sql">1327. List the Products Ordered in a Period</a></td>
+  </tr>
+  <tr>
+    <td><a href="Solutions/SQL/find_users_with_valid_e_mails.sql">1517. Find Users With Valid E-Mails</a></td>
   </tr>
 </table>
