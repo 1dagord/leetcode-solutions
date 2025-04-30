@@ -3,6 +3,7 @@
 | Date | Problem |
 |-----|-----|
 | 04/28/25 | [2962. Count Subarrays Where Max Element Appears at Least K Times](Solutions/Python/count_subarrays_where_max_element_appears_at_least_k_times.py) |
+| 04/27/25 | [2302. Count Subarrays With Score Less Than K](Solutions/Python/count_subarrays_with_score_less_than_k.py) |
 | 04/24/25 | [2845. Count of Interesting Subarrays](Solutions/Python/count_of_interesting_subarrays.py) |
 | 04/23/25 | [2799. Count Complete Subarrays in an Array](Solutions/Python/count_complete_subarrays_in_an_array.py) |
 | 04/22/25 | [1399. Count Largest Group](Solutions/Python/count_largest_group.py) |
