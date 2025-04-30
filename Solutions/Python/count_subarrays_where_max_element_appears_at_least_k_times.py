@@ -19,10 +19,10 @@ class Solution:
 
         left = 0
         for right in range(n):
-            occurrances += nums[right] == max_num
+            occurrances += (nums[right] == max_num)
 
             while not (occurrances < k):
-                occurrances -= nums[left] == max_num
+                occurrances -= (nums[left] == max_num)
                 left += 1
 
             count += left
