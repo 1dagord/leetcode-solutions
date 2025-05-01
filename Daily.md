@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 04/29/25 | [1295. Find Numbers with Even Number of Digits](Solutions/Python/find_numbers_with_even_number_of_digits.py) |
 | 04/28/25 | [2962. Count Subarrays Where Max Element Appears at Least K Times](Solutions/Python/count_subarrays_where_max_element_appears_at_least_k_times.py) |
 | 04/27/25 | [2302. Count Subarrays With Score Less Than K](Solutions/Python/count_subarrays_with_score_less_than_k.py) |
 | 04/24/25 | [2845. Count of Interesting Subarrays](Solutions/Python/count_of_interesting_subarrays.py) |
