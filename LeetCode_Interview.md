@@ -492,8 +492,8 @@
     <tr>
       <td>82. Remove Duplicates from Sorted List II</td>
       <td>
-        <a href="Solutions/Python/remove_duplicates_from_sorted_linked_list_ii.py">Python</a>
-         | <a href="Solutions/Cpp/remove_duplicates_from_sorted_linked_list_ii.cpp">C++</a>
+        <a href="Solutions/Python/remove_duplicates_from_sorted_list_ii.py">Python</a>
+         | <a href="Solutions/Cpp/remove_duplicates_from_sorted_list_ii.cpp">C++</a>
       </td>
     </tr>
     <tr>
