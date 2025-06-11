@@ -8,74 +8,55 @@
     - depth-first search
 
     Stats:
-        Runtime | 7584 ms   [Beats 14.42%]
-        Memory  | 18.65 MB  [Beats 87.71%]
+        Runtime | 6488 ms   [Beats 32.23%]
+        Memory  | 18.95 MB  [Beats 78.40%]
 """
 
 class Solution:
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
         """
-            Build trie, the search trie and
+            Build trie, then search trie and
             matrix using DFS
         """
         m, n = len(board), len(board[0])
+        words = set(words)
+        words_on_board = set()
+        visited = set()
         moves = [(0, 1), (0, -1), (1, 0), (-1, 0)]
-        words_on_board = []
+        
         trie = {}
-
-        # populate trie
         for word in words:
             curr = trie
             for c in word:
                 if c not in curr:
                     curr[c] = {}
                 curr = curr[c]
-
-            # mark end of word
-            curr[False] = False
-
-        def dfs(
-            i: int,
-            j: int,
-            path: list[str],
-            curr: dict[dict],
-            visited: set[tuple]) -> bool:
-            """
-                Performs DFS on board while using
-                trie for guidance
-            """
-            nonlocal words_on_board
-
-            if False in curr:
-                words_on_board.append("".join(path))
-                # set to True if word found
-                del curr[False]
-                curr[True] = True
-
+            # end-of-word marker
+            curr[None] = None
+            
+        def dfs(i: int, j: int, graph: dict, word: str) -> None:
+            nonlocal words_on_board, visited
+            
+            # if whole word found...
+            if None in graph:
+                words_on_board.add(word)
+            
             for di, dj in moves:
                 ni, nj = i + di, j + dj
-                if (0 <= ni < m and
+                if (
+                    0 <= ni < m and
                     0 <= nj < n and
-                    (ni, nj) not in visited and
-                    board[ni][nj] in curr):
-
-                    dfs(
-                        ni,
-                        nj,
-                        path + [board[ni][nj]],
-                        curr[board[ni][nj]],
-                        visited | {(ni, nj)}
-                    )
-
+                    (ni, nj) not in visited and 
+                    board[ni][nj] in graph
+                ):
+                    visited.add((i, j))
+                    dfs(ni, nj, graph[board[ni][nj]], word + board[ni][nj])
+                    visited.remove((i, j))
+        
         for i in range(m):
             for j in range(n):
                 if board[i][j] in trie:
-                    dfs(
-                        i,
-                        j,
-                        [board[i][j]],
-                        trie[board[i][j]],
-                        set([(i, j)])
-                    )
-
-        return words_on_board
+                    visited.clear()
+                    dfs(i, j, trie[board[i][j]], board[i][j])
+                    
+        return list(words_on_board)
