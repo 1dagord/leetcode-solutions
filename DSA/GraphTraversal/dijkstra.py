@@ -30,7 +30,7 @@ def dijkstra(graph: dict[str, dict], start: str) -> dict[str, int]:
 		for neighbor, weight in graph[curr_node].items():
 			new_dist = curr_dist + weight
 
-			if distance < distances[neighbor]:
+			if new_dist < distances[neighbor]:
 				distances[neighbor] = new_dist
 				heapq.heappush(priority_queue, (new_dist, neighbor))
 
