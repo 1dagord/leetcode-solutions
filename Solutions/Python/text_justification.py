@@ -8,7 +8,7 @@
 
     Stats:
         Runtime | 0 ms      [Beats 100%]
-        Memory  | 16.76     [Beats 80.24%]
+        Memory  | 16.76 MB  [Beats 80.24%]
 """
 
 class Solution:
