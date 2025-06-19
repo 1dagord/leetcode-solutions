@@ -21,13 +21,16 @@ class Solution:
         dummy = ListNode(-1, head)
         left, right = dummy, head
         
+        # iterate n nodes into list
         while right and n:
             right = right.next
             n -= 1
             
+        # put prev into position
         while right:
             left = left.next
             right = right.next
             
+        # splice out node
         left.next = left.next.next
         return dummy.next
