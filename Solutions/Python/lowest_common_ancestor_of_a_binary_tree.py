@@ -7,8 +7,8 @@
     - depth-first search
 
     Stats:
-        Runtime | 51 ms     [Beats 65.14%]
-        Memory  | 22.00 MB  [Beats 42.82%]
+        Runtime | 57 ms     [Beats 34.88%]
+        Memory  | 21.80 MB  [Beats 91.80%]
 """
 
 # Definition for a binary tree node.
@@ -20,21 +20,21 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        # leaf reached or empty tree
-        if not root:
-            return
-
-        # if p or q found...
-        if root in [p, q]:
-            return root
-
-        # recursively search left and right subtrees
-        left = self.lowestCommonAncestor(root.left, p, q)
-        right = self.lowestCommonAncestor(root.right, p, q)
-
-        # if a target found in both, return current node
-        if left and right:
-            return root
-
-        # if only found in one subtree, return root of subtree
-        return left if left else right
+        def lca(curr: TreeNode) -> TreeNode:
+            if not curr:
+                return None
+            
+            if curr in [p, q]:
+                return curr
+            
+            left = lca(curr.left)
+            right = lca(curr.right)
+            
+            # if a target found in both, return current node
+            if left and right:
+                return curr
+            
+            # if only found in one subtree, return root of subtree
+            return left if left else right
+        
+        return lca(root)
