@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 03/08/26 | [1980. Find Unique Binary String](Solutions/Python/find_unique_binary_string.py) |
 | 11/01/25 | [3217. Delete Nodes From Linked List Present in Array](Solutions/Python/delete_nodes_from_linked_list_present_in_array.py) |
 | 04/30/25 | [1295. Find Numbers with Even Number of Digits](Solutions/Python/find_numbers_with_even_number_of_digits.py) |
 | 04/29/25 | [2962. Count Subarrays Where Max Element Appears at Least K Times](Solutions/Python/count_subarrays_where_max_element_appears_at_least_k_times.py) |
