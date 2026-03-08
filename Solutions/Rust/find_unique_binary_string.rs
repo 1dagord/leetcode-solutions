@@ -8,7 +8,7 @@
 
     Stats:
         Runtime | 0 ms      [Beats 100%]
-        Memory  | 17.90 MB  [Beats 52.45%]
+        Memory  | 2.14 MB   [Beats 93.33%]
 */
 
 use std::collections::HashSet;
