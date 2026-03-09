@@ -11,6 +11,7 @@
       <td>
         <a href="Solutions/Python/merge_sorted_array.py">Python</a>
          | <a href="Solutions/Cpp/merge_sorted_array.cpp">C++</a>
+         | <a href="Solutions/Rust/merge_sorted_array.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -18,6 +19,7 @@
       <td>
         <a href="Solutions/Python/remove_element.py">Python</a>
          | <a href="Solutions/Cpp/remove_element.cpp">C++</a>
+         | <a href="Solutions/Rust/remove_element.rs">Rust</a>
       </td>
     </tr>
     <tr>
