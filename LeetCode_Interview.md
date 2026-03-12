@@ -27,6 +27,7 @@
       <td>
         <a href="Solutions/Python/remove_duplicates_from_sorted_array.py">Python</a>
          | <a href="Solutions/Cpp/remove_duplicates_from_sorted_array.cpp">C++</a>
+         | <a href="Solutions/Rust/remove_duplicates_from_sorted_array.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -34,6 +35,7 @@
       <td>
         <a href="Solutions/Python/remove_duplicates_from_sorted_array_ii.py">Python</a>
          | <a href="Solutions/Cpp/remove_duplicates_from_sorted_array_ii.cpp">C++</a>
+         | <a href="Solutions/Rust/remove_duplicates_from_sorted_array_ii.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -41,6 +43,7 @@
       <td>
         <a href="Solutions/Python/majority_element.py">Python</a>
          | <a href="Solutions/Cpp/majority_element.cpp">C++</a>
+         | <a href="Solutions/Rust/majority_element.rs">Rust</a>
       </td>
     </tr>
     <tr>
