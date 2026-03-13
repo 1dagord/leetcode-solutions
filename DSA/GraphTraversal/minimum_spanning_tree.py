@@ -9,10 +9,11 @@ from ..DataStructures.binary_tree import TreeNode
 
 
 def prim(edges: list[tuple[int, int, int]]) -> list[tuple[int, int]]:
-    graph = defaultdict(lambda: defaultdict(int))
+    vertices = set()
 
     for u, v, weight in edges:
-        graph[u][v] = graph[v][u] = weight
+        vertices.add(u)
+        vertices.add(v)
 
     cheapest_cost = [] # heap
     cheapest_cost_map = defaultdict(lambda: float("inf"))
@@ -45,7 +46,7 @@ def prim(edges: list[tuple[int, int, int]]) -> list[tuple[int, int]]:
 
     result_edges = []
 
-    for vertex in graph:
+    for vertex in vertices:
         if cheapest_edge[vertex] is not None:
             result_edges.append(cheapest_edge[vertex])
 
