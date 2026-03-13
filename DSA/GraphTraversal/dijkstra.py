@@ -13,8 +13,8 @@ graph = {
 	"D" : {"B" : 5, "C" : 1}
 }
 """
-
 from collections import heapq
+
 
 def dijkstra(graph: dict[str, dict], start: str) -> dict[str, int]:
 	distances = {node : float("inf") for node in graph}

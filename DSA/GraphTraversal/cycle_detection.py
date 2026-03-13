@@ -1,6 +1,4 @@
-import ultraimport
-
-ListNode = ultraimport("__dir__/../DataStructures/linked_list.py", "ListNode")
+from ..DataStructures.linked_list import ListNode
 
 
 def floyd_cycle_detection(head: ListNode) -> bool:

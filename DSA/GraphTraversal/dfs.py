@@ -1,6 +1,4 @@
-import ultraimport
-
-TreeNode = ultraimport("__dir__/../DataStructures/binary_tree.py", "TreeNode")
+from ..DataStructures.binary_tree import TreeNode
 
 
 def matrix_recursive_dfs(curr: tuple[int, int], m: int, n: int) -> None:

@@ -1,7 +1,5 @@
 from collections import deque
-import ultraimport
-
-TreeNode = ultraimport("__dir__/../DataStructures/binary_tree.py", "TreeNode")
+from ..DataStructures.binary_tree import TreeNode
 
 
 def matrix_iterative_bfs(curr: tuple[int, int], m: int, n: int) -> None:
