@@ -51,6 +51,7 @@
       <td>
         <a href="Solutions/Python/rotate_array.py">Python</a>
          | <a href="Solutions/Cpp/rotate_array.cpp">C++</a>
+         | <a href="Solutions/Rust/rotate_array.rs">Rust</a>
       </td>
     </tr>
     <tr>
