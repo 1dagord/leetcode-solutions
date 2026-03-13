@@ -19,7 +19,7 @@ def prim(edges: list[tuple[int, int, int]]) -> list[tuple[int, int]]:
     cheapest_cost_map = defaultdict(lambda: float("inf"))
     cheapest_edge = defaultdict(lambda: None)
 
-    unexplored = set(graph.keys())
+    unexplored = set(vertices)
 
     start_vertex = next(iter(unexplored))
     heapq.heappush(cheapest_cost, (0, start_vertex))
