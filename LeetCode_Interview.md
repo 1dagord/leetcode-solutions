@@ -59,6 +59,7 @@
       <td>
         <a href="Solutions/Python/best_time_to_buy_and_sell_stock.py">Python</a>
          | <a href="Solutions/Cpp/best_time_to_buy_and_sell_stock.cpp">C++</a>
+         | <a href="Solutions/Rust/best_time_to_buy_and_sell_stock.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -66,6 +67,7 @@
       <td>
         <a href="Solutions/Python/best_time_to_buy_and_sell_stock_ii.py">Python</a>
          | <a href="Solutions/Cpp/best_time_to_buy_and_sell_stock_ii.cpp">C++</a>
+         | <a href="Solutions/Rust/best_time_to_buy_and_sell_stock_ii.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -73,6 +75,7 @@
       <td>
         <a href="Solutions/Python/jump_game.py">Python</a>
          | <a href="Solutions/Cpp/jump_game.cpp">C++</a>
+         | <a href="Solutions/Rust/jump_game.rs">Rust</a>
       </td>
     </tr>
     <tr>
