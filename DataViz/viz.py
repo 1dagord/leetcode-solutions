@@ -55,7 +55,7 @@ class ProblemsSolvedPlotter(Plotter):
             , startangle=-90
         )
         plt.setp(autotexts, size=12, weight="bold")
-        plt.title("LeetCode Submission Difficuly")
+        plt.title("LeetCode Submission Difficulty")
 
 class ProblemsSolvedWithPercentilesPlotter(Plotter):
     def __init__(self):
