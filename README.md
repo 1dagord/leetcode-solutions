@@ -10,3 +10,7 @@ Will (mostly) only be uploading the following problems:
 - [Weekly Contest Problems](WeeklyContests)
 
 All solutions were written by [me](https://leetcode.com/u/chmod711/)
+
+-----
+
+![LeetCode Stats](./assets/ProblemsSolvedWithPercentiles.png)
