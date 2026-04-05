@@ -99,6 +99,7 @@
       <td>
         <a href="Solutions/Python/insert_delete_getrandom_o_1.py">Python</a>
          | <a href="Solutions/Cpp/insert_delete_getrandom_o_1.cpp">C++</a>
+         | <a href="Solutions/Rust/insert_delete_getrandom_o_1.rs">Rust</a>
       </td>
     </tr>
     <tr>
