@@ -83,6 +83,7 @@
       <td>
         <a href="Solutions/Python/jump_game_ii.py">Python</a>
          | <a href="Solutions/Cpp/jump_game_ii.cpp">C++</a>
+         | <a href="Solutions/Rust/jump_game_ii.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -90,6 +91,7 @@
       <td>
         <a href="Solutions/Python/h_index.py">Python</a>
          | <a href="Solutions/Cpp/h_index.cpp">C++</a>
+         | <a href="Solutions/Rust/h_index.rs">Rust</a>
       </td>
     </tr>
     <tr>

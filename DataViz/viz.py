@@ -20,7 +20,7 @@ class Plotter(ABC):
     @classmethod
     def save(cls):
         filename = cls.__name__.replace("Plotter", "") + ".png"
-        plt.savefig(Path.cwd() / "assets" / filename)
+        plt.savefig(Path(__file__).parent.parent / "assets" / filename)
 
     @abstractmethod
     def plot(self):
