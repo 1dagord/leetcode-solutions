@@ -128,7 +128,8 @@ class ProblemsSolvedWithPercentilesPlotter(Plotter):
 
 
 if __name__ == "__main__":
-    plotter = ProblemsSolvedPlotter()
-    plotter.plot()
-    plotter.save()
-    # plotter.show()
+    for Plotter in [ProblemsSolvedPlotter, ProblemsSolvedWithPercentilesPlotter]:
+        plotter = Plotter()
+        plotter.plot()
+        plotter.save()
+        # plotter.show()
