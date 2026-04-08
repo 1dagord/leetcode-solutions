@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 04/07/26 | [3653. XOR After Range Multiplication Queries I](Solutions/Rust/xor_after_range_multiplication_queries_i.rs) |
 | 03/08/26 | [1980. Find Unique Binary String](Solutions/Python/find_unique_binary_string.py) |
 | 11/01/25 | [3217. Delete Nodes From Linked List Present in Array](Solutions/Python/delete_nodes_from_linked_list_present_in_array.py) |
 | 04/30/25 | [1295. Find Numbers with Even Number of Digits](Solutions/Python/find_numbers_with_even_number_of_digits.py) |
