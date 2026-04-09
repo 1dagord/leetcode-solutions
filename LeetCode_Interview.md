@@ -107,6 +107,7 @@
       <td>
         <a href="Solutions/Python/product_of_array_except_self.py">Python</a>
          | <a href="Solutions/Cpp/product_of_array_except_self.cpp">C++</a>
+         | <a href="Solutions/Rust/product_of_array_except_self.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -114,6 +115,7 @@
       <td>
         <a href="Solutions/Python/gas_station.py">Python</a>
          | <a href="Solutions/Cpp/gas_station.cpp">C++</a>
+         | <a href="Solutions/Rust/gas_station.rs">Rust</a>
       </td>
     </tr>
     <tr>
