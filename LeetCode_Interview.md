@@ -123,6 +123,7 @@
       <td>
         <a href="Solutions/Python/candy.py">Python</a>
          | <a href="Solutions/Cpp/candy.cpp">C++</a>
+         | <a href="Solutions/Rust/candy.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -130,6 +131,7 @@
       <td>
         <a href="Solutions/Python/trapping_rain_water.py">Python</a>
          | <a href="Solutions/Cpp/trapping_rain_water.cpp">C++</a>
+         | <a href="Solutions/Rust/trapping_rain_water.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -137,6 +139,7 @@
       <td>
         <a href="Solutions/Python/roman_to_integer.py">Python</a>
          | <a href="Solutions/Cpp/roman_to_integer.cpp">C++</a>
+         | <a href="Solutions/Rust/roman_to_integer.rs">Rust</a>
       </td>
     </tr>
     <tr>
