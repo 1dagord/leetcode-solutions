@@ -7,14 +7,14 @@
     - trie
 
     Stats:
-        Runtime | 2 ms      [Beats 7.98%]
-        Memory  | 2.21 MB   [Beats 61.66%]
+        Runtime | 1 ms      [Beats 15.80%]
+        Memory  | 2.28 MB   [Beats 61.66%]
 */
 use std::collections::HashMap;
 
 struct TrieNode {
     is_leaf: bool,
-    nodes: HashMap<String, TrieNode>
+    nodes: HashMap<char, TrieNode>
 }
 
 impl TrieNode {
@@ -27,12 +27,11 @@ impl TrieNode {
 
     fn insert(&mut self, string: &str) {
         let mut curr: &mut TrieNode = self;
-        for ch in string.chars() {
-            let c: String = ch.to_string();
-            if !curr.nodes.contains_key(c.as_str()) {
-                curr.nodes.insert(c.clone(), TrieNode::new());
+        for c in string.chars() {
+            if !curr.nodes.contains_key(&c) {
+                curr.nodes.insert(c, TrieNode::new());
             }
-            curr = curr.nodes.get_mut(c.as_str()).unwrap();
+            curr = curr.nodes.get_mut(&c).unwrap();
         }
         curr.is_leaf = true;
     }
@@ -53,7 +52,7 @@ impl Solution {
             }
 
             prefix.push(c);
-            curr = curr.nodes.get_mut(c.to_string().as_str()).unwrap();
+            curr = curr.nodes.get_mut(&c).unwrap();
         }
         
         return prefix;
