@@ -147,6 +147,7 @@
       <td>
         <a href="Solutions/Python/integer_to_roman.py">Python</a>
          | <a href="Solutions/Cpp/integer_to_roman.cpp">C++</a>
+         | <a href="Solutions/Rust/integer_to_roman.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -154,6 +155,7 @@
       <td>
         <a href="Solutions/Python/length_of_last_word.py">Python</a>
          | <a href="Solutions/Cpp/length_of_last_word.cpp">C++</a>
+         | <a href="Solutions/Rust/length_of_last_word.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -161,6 +163,7 @@
       <td>
         <a href="Solutions/Python/longest_common_prefix.py">Python</a>
          | <a href="Solutions/Cpp/longest_common_prefix.cpp">C++</a>
+         | <a href="Solutions/Rust/longest_common_prefix.rs">Rust</a>
       </td>
     </tr>
     <tr>
