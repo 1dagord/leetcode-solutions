@@ -171,6 +171,7 @@
       <td>
         <a href="Solutions/Python/reverse_words_in_a_string.py">Python</a>
          | <a href="Solutions/Cpp/reverse_words_in_a_string.cpp">C++</a>
+         | <a href="Solutions/Rust/reverse_words_in_a_string.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -178,6 +179,7 @@
       <td>
         <a href="Solutions/Python/zigzag_conversion.py">Python</a>
          | <a href="Solutions/Cpp/zigzag_conversion.cpp">C++</a>
+         | <a href="Solutions/Rust/zigzag_conversion.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -185,6 +187,7 @@
       <td>
         <a href="Solutions/Python/find_the_index_of_the_first_occurrence_in_a_string.py">Python</a>
          | <a href="Solutions/Cpp/find_the_index_of_the_first_occurrence_in_a_string.cpp">C++</a>
+         | <a href="Solutions/Rust/find_the_index_of_the_first_occurrence_in_a_string.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -192,6 +195,7 @@
       <td>
         <a href="Solutions/Python/text_justification.py">Python</a>
          | <a href="Solutions/Cpp/text_justification.cpp">C++</a>
+         | <a href="Solutions/Rust/text_justification.rs">Rust</a>
       </td>
     </tr>
   </table>
