@@ -209,6 +209,7 @@
       <td>
         <a href="Solutions/Python/valid_palindrome.py">Python</a>
          | <a href="Solutions/Cpp/valid_palindrome.cpp">C++</a>
+         | <a href="Solutions/Rust/valid_palindrome.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -216,6 +217,7 @@
       <td>
         <a href="Solutions/Python/is_subsequence.py">Python</a>
          | <a href="Solutions/Cpp/is_subsequence.cpp">C++</a>
+         | <a href="Solutions/Rust/is_subsequence.rs">Rust</a>
       </td>
     </tr>
     <tr>
