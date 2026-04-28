@@ -11,12 +11,12 @@
         Memory  | 2.39 MB   [Beats 71.18%]
 */
 impl Solution {
-    pub fn is_palindrome(s: String) -> bool {
-        let _s = s
+    pub fn is_palindrome(_s: String) -> bool {
+        let s = _s
             .to_lowercase()
             .chars()
             .filter(|&c| c.is_alphanumeric())
             .collect::<String>();
-        return _s == _s.chars().rev().collect::<String>();
+        return s == s.chars().rev().collect::<String>();
     }
 }
