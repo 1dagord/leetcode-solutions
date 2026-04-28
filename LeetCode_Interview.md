@@ -233,6 +233,7 @@
       <td>
         <a href="Solutions/Python/container_with_most_water.py">Python</a>
          | <a href="Solutions/Cpp/container_with_most_water.cpp">C++</a>
+         | <a href="Solutions/Rust/container_with_most_water.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -240,6 +241,7 @@
       <td>
         <a href="Solutions/Python/3sum.py">Python</a>
          | <a href="Solutions/Cpp/3sum.cpp">C++</a>
+         | <a href="Solutions/Rust/3sum.rs">Rust</a>
       </td>
     </tr>
   </table>
