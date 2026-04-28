@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 04/27/26 | [2033. Minimum Operations to Make a Uni-Value Grid](Solutions/Rust/minimum_operations_to_make_a_uni_value_grid.rs) |
 | 04/17/26 | [3783. Mirror Distance of an Integer](Solutions/Rust/mirror_distance_of_an_integer.rs) |
 | 04/07/26 | [3653. XOR After Range Multiplication Queries I](Solutions/Rust/xor_after_range_multiplication_queries_i.rs) |
 | 03/08/26 | [1980. Find Unique Binary String](Solutions/Python/find_unique_binary_string.py) |
