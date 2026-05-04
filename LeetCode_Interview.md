@@ -303,6 +303,7 @@
       <td>
         <a href="Solutions/Python/rotate_image.py">Python</a>
          | <a href="Solutions/Cpp/rotate_image.cpp">C++</a>
+         | <a href="Solutions/Rust/rotate_image.rs">Rust</a>
       </td>
     </tr>
     <tr>
