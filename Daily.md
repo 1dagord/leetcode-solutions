@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 05/06/26 | [1861. Rotating the Box](Solutions/Rust/rotating_the_box.rs) |
 | 05/03/26 | [48. Rotate Image](Solutions/Rust/rotate_image.rs) |
 | 05/01/26 | [788. Rotated Digits](Solutions/Rust/rotated_digits.rs) |
 | 04/27/26 | [2033. Minimum Operations to Make a Uni-Value Grid](Solutions/Rust/minimum_operations_to_make_a_uni_value_grid.rs) |
