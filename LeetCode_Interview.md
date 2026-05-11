@@ -255,6 +255,7 @@
       <td>
         <a href="Solutions/Python/minimum_size_subarray_sum.py">Python</a>
          | <a href="Solutions/Cpp/minimum_size_subarray_sum.cpp">C++</a>
+         | <a href="Solutions/Rust/minimum_size_subarray_sum.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -262,6 +263,7 @@
       <td>
         <a href="Solutions/Python/longest_substring_without_repeating_characters.py">Python</a>
          | <a href="Solutions/Cpp/longest_substring_without_repeating_characters.cpp">C++</a>
+         | <a href="Solutions/Rust/longest_substring_without_repeating_characters.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -269,6 +271,7 @@
       <td>
         <a href="Solutions/Python/substring_with_concatenation_of_all_words.py">Python</a>
          | <a href="Solutions/Cpp/substring_with_concatenation_of_all_words.cpp">C++</a>
+         | <a href="Solutions/Rust/substring_with_concatenation_of_all_words.rs">Rust</a>
       </td>
     </tr>
     <tr>
