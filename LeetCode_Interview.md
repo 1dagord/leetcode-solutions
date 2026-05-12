@@ -292,6 +292,7 @@
       <td>
         <a href="Solutions/Python/valid_sudoku.py">Python</a>
          | <a href="Solutions/Cpp/valid_sudoku.cpp">C++</a>
+         | <a href="Solutions/Rust/valid_sudoku.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -299,6 +300,7 @@
       <td>
         <a href="Solutions/Python/spiral_matrix.py">Python</a>
          | <a href="Solutions/Cpp/spiral_matrix.cpp">C++</a>
+         | <a href="Solutions/Rust/spiral_matrix.rs">Rust</a>
       </td>
     </tr>
     <tr>
