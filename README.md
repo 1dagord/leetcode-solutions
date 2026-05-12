@@ -1,6 +1,6 @@
 ### Repository of my LeetCode Solutions
 
-This repo is meant to contain every DSA problem necessary to perform well in a backend SWE or SRE interview
+This repo is meant to contain every DSA problem necessary to perform well in a backend SWE or SRE interview. All solutions were written entirely by hand and entirely by me.
 
 Will (mostly) only be uploading the following problems:
 - [Daily Problems](Daily.md)
