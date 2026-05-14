@@ -324,6 +324,7 @@
       <td>
         <a href="Solutions/Python/game_of_life.py">Python</a>
          | <a href="Solutions/Cpp/game_of_life.cpp">C++</a>
+         | <a href="Solutions/Rust/game_of_life.rs">Rust</a>
       </td>
     </tr>
   </table>
@@ -337,6 +338,7 @@
       <td>
         <a href="Solutions/Python/ransom_note.py">Python</a>
          | <a href="Solutions/Cpp/ransom_note.cpp">C++</a>
+         | <a href="Solutions/Rust/ransom_note.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -344,6 +346,7 @@
       <td>
         <a href="Solutions/Python/isomorphic_strings.py">Python</a>
          | <a href="Solutions/Cpp/isomorphic_strings.cpp">C++</a>
+         | <a href="Solutions/Rust/isomorphic_strings.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -351,6 +354,7 @@
       <td>
         <a href="Solutions/Python/word_pattern.py">Python</a>
          | <a href="Solutions/Cpp/word_pattern.cpp">C++</a>
+         | <a href="Solutions/Rust/word_pattern.rs">Rust</a>
       </td>
     </tr>
     <tr>
