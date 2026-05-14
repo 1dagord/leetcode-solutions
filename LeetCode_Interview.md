@@ -316,6 +316,7 @@
       <td>
         <a href="Solutions/Python/set_matrix_zeroes.py">Python</a>
          | <a href="Solutions/Cpp/set_matrix_zeroes.cpp">C++</a>
+         | <a href="Solutions/Rust/set_matrix_zeroes.rs">Rust</a>
       </td>
     </tr>
     <tr>
