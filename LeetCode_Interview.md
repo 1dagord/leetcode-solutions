@@ -279,6 +279,7 @@
       <td>
         <a href="Solutions/Python/minimum_window_substring.py">Python</a>
          | <a href="Solutions/Cpp/minimum_window_substring.cpp">C++</a>
+         | <a href="Solutions/Rust/minimum_window_substring.rs">Rust</a>
       </td>
     </tr>
   </table>
