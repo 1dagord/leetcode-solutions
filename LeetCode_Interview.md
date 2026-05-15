@@ -362,6 +362,7 @@
       <td>
         <a href="Solutions/Python/valid_anagram.py">Python</a>
          | <a href="Solutions/Cpp/valid_anagram.cpp">C++</a>
+         | <a href="Solutions/Rust/valid_anagram.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -369,6 +370,7 @@
       <td>
         <a href="Solutions/Python/group_anagrams.py">Python</a>
          | <a href="Solutions/Cpp/group_anagrams.cpp">C++</a>
+         | <a href="Solutions/Rust/group_anagrams.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -376,6 +378,7 @@
       <td>
         <a href="Solutions/Python/two_sum.py">Python</a>
          | <a href="Solutions/Cpp/two_sum.cpp">C++</a>
+         | <a href="Solutions/Rust/two_sum.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -383,6 +386,7 @@
       <td>
         <a href="Solutions/Python/happy_number.py">Python</a>
         | <a href="Solutions/Cpp/happy_number.cpp">C++</a>
+        | <a href="Solutions/Rust/happy_number.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -390,6 +394,7 @@
       <td>
         <a href="Solutions/Python/contains_duplicate_ii.py">Python</a>
          | <a href="Solutions/Cpp/contains_duplicate_ii.cpp">C++</a>
+         | <a href="Solutions/Rust/contains_duplicate_ii.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -397,6 +402,7 @@
       <td>
         <a href="Solutions/Python/longest_consecutive_sequence.py">Python</a>
          | <a href="Solutions/Cpp/longest_consecutive_sequence.cpp">C++</a>
+         | <a href="Solutions/Rust/longest_consecutive_sequence.rs">Rust</a>
       </td>
     </tr>
   </table>

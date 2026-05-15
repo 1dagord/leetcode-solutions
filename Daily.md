@@ -2,6 +2,7 @@
 
 | Date | Problem |
 |-----|-----|
+| 05/15/26 | [153. Find Minimum in Rotated Sorted Array](Solutions/Rust/find_minimum_in_rotated_sorted_array.rs) |
 | 05/13/26 | [2784. Check if Array is Good](Solutions/Rust/check_if_array_is_good.rs) |
 | 05/11/26 | [2553. Separate the Digits in an Array](Solutions/Rust/separate_the_digits_in_an_array.rs) |
 | 05/06/26 | [1861. Rotating the Box](Solutions/Rust/rotating_the_box.rs) |
