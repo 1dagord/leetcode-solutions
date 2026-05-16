@@ -417,6 +417,7 @@
       <td>
         <a href="Solutions/Python/summary_ranges.py">Python</a>
          | <a href="Solutions/Cpp/summary_ranges.cpp">C++</a>
+         | <a href="Solutions/Rust/summary_ranges.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -424,6 +425,7 @@
       <td>
         <a href="Solutions/Python/merge_intervals.py">Python</a>
          | <a href="Solutions/Cpp/merge_intervals.cpp">C++</a>
+         | <a href="Solutions/Rust/merge_intervals.rs">Rust</a>
       </td>
     </tr>
     <tr>
