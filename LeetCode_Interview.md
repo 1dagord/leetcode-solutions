@@ -455,6 +455,7 @@
       <td>
         <a href="Solutions/Python/valid_parentheses.py">Python</a>
          | <a href="Solutions/Cpp/valid_parentheses.cpp">C++</a>
+         | <a href="Solutions/Rust/valid_parentheses.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -462,6 +463,7 @@
       <td>
         <a href="Solutions/Python/simplify_path.py">Python</a>
          | <a href="Solutions/Cpp/simplify_path.cpp">C++</a>
+         | <a href="Solutions/Rust/simplify_path.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -469,6 +471,7 @@
       <td>
         <a href="Solutions/Python/min_stack.py">Python</a>
          | <a href="Solutions/Cpp/min_stack.cpp">C++</a>
+         | <a href="Solutions/Rust/min_stack.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -476,6 +479,7 @@
       <td>
         <a href="Solutions/Python/evaluate_reverse_polish_notation.py">Python</a>
          | <a href="Solutions/Cpp/evaluate_reverse_polish_notation.cpp">C++</a>
+         | <a href="Solutions/Rust/evaluate_reverse_polish_notation.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -483,6 +487,7 @@
       <td>
         <a href="Solutions/Python/basic_calculator.py">Python</a>
          | <a href="Solutions/Cpp/basic_calculator.cpp">C++</a>
+         | <a href="Solutions/Rust/basic_calculator.rs">Rust</a>
       </td>
     </tr>
   </table>
