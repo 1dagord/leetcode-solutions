@@ -433,6 +433,7 @@
       <td>
         <a href="Solutions/Python/insert_interval.py">Python</a>
          | <a href="Solutions/Cpp/insert_interval.cpp">C++</a>
+         | <a href="Solutions/Rust/insert_interval.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -440,6 +441,7 @@
       <td>
         <a href="Solutions/Python/minimum_number_of_arrows_to_burst_balloons.py">Python</a>
          | <a href="Solutions/Cpp/minimum_number_of_arrows_to_burst_balloons.cpp">C++</a>
+         | <a href="Solutions/Rust/minimum_number_of_arrows_to_burst_balloons.rs">Rust</a>
       </td>
     </tr>
   </table>
