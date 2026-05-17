@@ -508,6 +508,7 @@
       <td>
         <a href="Solutions/Python/add_two_numbers.py">Python</a>
          | <a href="Solutions/Cpp/add_two_numbers.cpp">C++</a>
+         | <a href="Solutions/Rust/add_two_numbers.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -515,6 +516,7 @@
       <td>
         <a href="Solutions/Python/merge_two_sorted_lists.py">Python</a>
          | <a href="Solutions/Cpp/merge_two_sorted_lists.cpp">C++</a>
+         | <a href="Solutions/Rust/merge_two_sorted_lists.rs">Rust</a>
       </td>
     </tr>
     <tr>
