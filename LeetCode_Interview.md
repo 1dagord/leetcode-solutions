@@ -531,6 +531,7 @@
       <td>
         <a href="Solutions/Python/reverse_linked_list_ii.py">Python</a>
          | <a href="Solutions/Cpp/reverse_linked_list_ii.cpp">C++</a>
+         | <a href="Solutions/Rust/reverse_linked_list_ii.rs">Rust</a>
       </td>
     </tr>
     <tr>
