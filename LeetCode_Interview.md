@@ -546,6 +546,7 @@
       <td>
         <a href="Solutions/Python/remove_nth_node_from_end_of_list.py">Python</a>
          | <a href="Solutions/Cpp/remove_nth_node_from_end_of_list.cpp">C++</a>
+         | <a href="Solutions/Rust/remove_nth_node_from_end_of_list.rs">Rust</a>
       </td>
     </tr>
     <tr>
