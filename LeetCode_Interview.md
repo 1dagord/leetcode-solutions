@@ -1,6 +1,5 @@
 # LeetCode Top Interview 150
 
-
 <html>
   <table>
     <th colspan="2">
@@ -554,6 +553,7 @@
       <td>
         <a href="Solutions/Python/remove_duplicates_from_sorted_list_ii.py">Python</a>
          | <a href="Solutions/Cpp/remove_duplicates_from_sorted_list_ii.cpp">C++</a>
+         | <a href="Solutions/Rust/remove_duplicates_from_sorted_list_ii.rs">Rust</a>
       </td>
     </tr>
     <tr>
