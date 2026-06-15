@@ -2,7 +2,8 @@
 
 | Date     | Problem                                                                                                                                                       |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 06/15/26 | [2130. Maximum Twin Sum of a Linked List](Solutions/Rust/maximum_twin_sum_of_a_linked_list.rs)                                                                |
+| 06/15/26 | [2095. Delete the Middle Node of a Linked List](Solutions/Rust/delete_the_middle_node_of_a_linked_list.rs)                                                    |
+| 06/14/26 | [2130. Maximum Twin Sum of a Linked List](Solutions/Rust/maximum_twin_sum_of_a_linked_list.rs)                                                                |
 | 06/06/26 | [2574. Left and Right Sum Differences](Solutions/Rust/left_and_right_sum_differences.rs)                                                                      |
 | 05/31/26 | [2144. Minimum Cost of Buying Candies With Discount](Solutions/Rust/minimum_cost_of_buying_candies_with_discount.rs)                                          |
 | 05/19/26 | [2540. Minimum Common Value](Solutions/Rust/minimum_common_value.rs)                                                                                          |
