@@ -561,6 +561,7 @@
       <td>
         <a href="Solutions/Python/rotate_list.py">Python</a>
          | <a href="Solutions/Cpp/rotate_list.cpp">C++</a>
+         | <a href="Solutions/Rust/rotate_list.rs">Rust</a>
       </td>
     </tr>
     <tr>
