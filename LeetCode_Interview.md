@@ -569,6 +569,7 @@
       <td>
         <a href="Solutions/Python/partition_list.py">Python</a>
          | <a href="Solutions/Cpp/partition_list.cpp">C++</a>
+         | <a href="Solutions/Rust/partition_list.rs">Rust</a>
       </td>
     </tr>
     <tr>
