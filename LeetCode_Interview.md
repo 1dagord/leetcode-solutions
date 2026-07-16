@@ -590,6 +590,7 @@
       <td>
         <a href="Solutions/Python/maximum_depth_of_binary_tree.py">Python</a>
          | <a href="Solutions/Cpp/maximum_depth_of_binary_tree.cpp">C++</a>
+         | <a href="Solutions/Rust/maximum_depth_of_binary_tree.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -597,6 +598,7 @@
       <td>
         <a href="Solutions/Python/same_tree.py">Python</a>
          | <a href="Solutions/Cpp/same_tree.cpp">C++</a>
+         | <a href="Solutions/Rust/same_tree.rs">Rust</a>
       </td>
     </tr>
     <tr>

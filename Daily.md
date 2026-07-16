@@ -2,6 +2,7 @@
 
 | Date     | Problem                                                                                                                                                       |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 07/15/26 | [3658. GCD of Odd and Even Sums](Solutions/Rust/gcd_of_odd_and_even_sums.rs)                                                                                  |
 | 07/13/26 | [1291. Sequential Digits](Solutions/Rust/sequential_digits.rs)                                                                                                |
 | 06/31/26 | [1358. Number of Substrings Containing All Three Characters](Solutions/Rust/number_of_substrings_containing_all_three_characters.rs)                          |
 | 06/15/26 | [2095. Delete the Middle Node of a Linked List](Solutions/Rust/delete_the_middle_node_of_a_linked_list.rs)                                                    |
