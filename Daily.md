@@ -2,6 +2,7 @@
 
 | Date     | Problem                                                                                                                                                       |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 07/16/26 | [3867. Sum of GCD of Formed Pairs](Solutions/Rust/sum_of_gcd_of_formed_pairs.rs)                                                                              |
 | 07/15/26 | [3658. GCD of Odd and Even Sums](Solutions/Rust/gcd_of_odd_and_even_sums.rs)                                                                                  |
 | 07/13/26 | [1291. Sequential Digits](Solutions/Rust/sequential_digits.rs)                                                                                                |
 | 06/31/26 | [1358. Number of Substrings Containing All Three Characters](Solutions/Rust/number_of_substrings_containing_all_three_characters.rs)                          |
