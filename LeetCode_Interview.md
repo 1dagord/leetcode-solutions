@@ -606,6 +606,7 @@
       <td>
         <a href="Solutions/Python/invert_binary_tree.py">Python</a>
          | <a href="Solutions/Cpp/invert_binary_tree.cpp">C++</a>
+         | <a href="Solutions/Rust/invert_binary_tree.rs">Rust<a>
       </td>
     </tr>
     <tr>
@@ -613,6 +614,7 @@
       <td>
         <a href="Solutions/Python/symmetric_tree.py">Python</a>
          | <a href="Solutions/Cpp/symmetric_tree.cpp">C++</a>
+         | <a href="Solutions/Rust/symmetric_tree.rs">Rust</a>
       </td>
     </tr>
     <tr>
