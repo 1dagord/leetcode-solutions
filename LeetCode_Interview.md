@@ -622,6 +622,7 @@
       <td>
         <a href="Solutions/Python/construct_binary_tree_from_preorder_and_inorder_traversal.py">Python</a>
          | <a href="Solutions/Cpp/construct_binary_tree_from_preorder_and_inorder_traversal.cpp">C++</a>
+         | <a href="Solutions/Rust/construct_binary_tree_from_preorder_and_inorder_traversal.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -629,6 +630,7 @@
       <td>
         <a href="Solutions/Python/construct_binary_tree_from_inorder_and_postorder_traversal.py">Python</a>
          | <a href="Solutions/Cpp/construct_binary_tree_from_inorder_and_postorder_traversal.cpp">C++</a>
+         | <a href="Solutions/Rust/construct_binary_tree_from_inorder_and_postorder_traversal.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -643,6 +645,7 @@
       <td>
         <a href="Solutions/Python/flatten_binary_tree_to_linked_list.py">Python</a>
          | <a href="Solutions/Cpp/flatten_binary_tree_to_linked_list.cpp">C++</a>
+         | <a href="Solutions/Rust/flatten_binary_tree_to_linked_list.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -650,6 +653,7 @@
       <td>
         <a href="Solutions/Python/path_sum.py">Python</a>
          | <a href="Solutions/Cpp/path_sum.cpp">C++</a>
+         | <a href="Solutions/Rust/path_sum.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -657,6 +661,7 @@
       <td>
         <a href="Solutions/Python/sum_root_to_leaf_numbers.py">Python</a>
          | <a href="Solutions/Cpp/sum_root_to_leaf_numbers.cpp">C++</a>
+         | <a href="Solutions/Rust/sum_root_to_leaf_numbers.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -664,6 +669,7 @@
       <td>
         <a href="Solutions/Python/binary_tree_maximum_path_sum.py">Python</a>
          | <a href="Solutions/Cpp/binary_tree_maximum_path_sum.cpp">C++</a>
+         | <a href="Solutions/Rust/binary_tree_maximum_path_sum.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -671,6 +677,7 @@
       <td>
         <a href="Solutions/Python/binary_search_tree_iterator.py">Python</a>
          | <a href="Solutions/Cpp/binary_search_tree_iterator.cpp">C++</a>
+         | <a href="Solutions/Rust/binary_search_tree_iterator.rs">Rust</a>
       </td>
     </tr>
     <tr>
