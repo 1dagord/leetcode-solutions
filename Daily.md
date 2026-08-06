@@ -2,6 +2,7 @@
 
 | Date     | Problem                                                                                                                                                       |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08/06/26 | [3345. Smallest Divisible Digit Product I](Solutions/Rust/smallest_divisible_digit_product_i.rs)                                                              |
 | 07/16/26 | [3867. Sum of GCD of Formed Pairs](Solutions/Rust/sum_of_gcd_of_formed_pairs.rs)                                                                              |
 | 07/15/26 | [3658. GCD of Odd and Even Sums](Solutions/Rust/gcd_of_odd_and_even_sums.rs)                                                                                  |
 | 07/13/26 | [1291. Sequential Digits](Solutions/Rust/sequential_digits.rs)                                                                                                |
