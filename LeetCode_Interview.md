@@ -705,6 +705,7 @@
       <td>
         <a href="Solutions/Python/binary_tree_right_side_view.py">Python</a>
          | <a href="Solutions/Cpp/binary_tree_right_side_view.cpp">C++</a>
+         | <a href="Solutions/Rust/binary_tree_right_side_view.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -712,6 +713,7 @@
       <td>
         <a href="Solutions/Python/average_of_levels_in_binary_tree.py">Python</a>
          | <a href="Solutions/Cpp/average_of_levels_in_binary_tree.cpp">C++</a>
+         | <a href="Solutions/Rust/average_of_levels_in_binary_tree.rs">Rust</a>
       </td>
     </tr>
     <tr>
@@ -719,6 +721,7 @@
       <td>
         <a href="Solutions/Python/binary_tree_level_order_traversal.py">Python</a>
          | <a href="Solutions/Cpp/binary_tree_level_order_traversal.cpp">C++</a>
+         | <a href="Solutions/Rust/binary_tree_level_order_traversal.rs">Rust</a>
       </td>
     </tr>
     <tr>
