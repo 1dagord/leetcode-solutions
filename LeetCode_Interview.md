@@ -742,6 +742,7 @@
       <td>
         <a href="Solutions/Python/minimum_absolute_difference_in_bst.py">Python</a>
          | <a href="Solutions/Cpp/minimum_absolute_difference_in_bst.cpp">C++</a>
+         | <a href="Solutions/Rust/minimum_absolute_difference_in_bst.rs">Rust</a>
       </td>
     </tr>
     <tr>
