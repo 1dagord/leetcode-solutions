@@ -24,4 +24,4 @@ dependencies = [
 ]
 
 [tool.uv]
-no-binary-package = ["Pillow"]
+no-binary-package = ["pillow"]
