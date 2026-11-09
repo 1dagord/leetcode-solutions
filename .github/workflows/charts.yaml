@@ -16,6 +16,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install uv
+          uv pip install --no-build pillow
           uv sync --frozen
       - name: Get Latest Stats
         run: |
