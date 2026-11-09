@@ -23,7 +23,7 @@ jobs:
           uv sync --frozen
       - name: Get Latest Stats
         run: |
-          python -m DataViz.viz
+          uv run python -m DataViz.viz
       - name: Push to Repo
         run: |
           git config --global user.name "${{ github.actor }}"
